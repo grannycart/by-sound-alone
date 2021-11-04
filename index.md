@@ -5,7 +5,7 @@ title: Subworld: Pre-Release Book 1
 
 [//]: # (A test comment before main body text.)
 
-* [Full Draft Manuscript](full-draft-manuscripts/one-file_manuscript_draft-subworld_book1.md)
+* [Full Draft Manuscript](content/Subworldbook1.html)
 * [More stuff from Mort Rye](https://mortrye.github.io/)
 
 ## Some Information
