@@ -1,8 +1,8 @@
-title: Subworld Pre-Release Draft
+title: Subworld Pages 
 author: Mort Rye # name of site's author
 email: # mortrye@gmail.com # email of site's author
 url: https://mortrye.github.io# root address of the site
-baseurl: "/subworld-book1" # subpath of the site, e.g. "/blog" (leave it blank "" if your site shouldn't use a subpath)
+baseurl: "/subworld-pages" # subpath of the site, e.g. "/blog" (leave it blank "" if your site shouldn't use a subpath)
 # description: > A novel about submarines.
 
 # permalink: /:slug.html
