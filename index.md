@@ -6,7 +6,7 @@ title: Subworld: Pre-Release Book 1
 [//]: # (A test comment before main body text.)
 
 * [Book1 Full Draft Manuscript](content/Subworldbook1.html)
-* [Book1 "source code"](grannycart.net/subworld-book1/) (It's just markdown.)
+* [Book1 "source code"](http://github.com/grannycart/subworld-book1/) (It's just markdown.)
 
 ## Some Information
 This is a pre-release of a complete draft of a novel. It is about
