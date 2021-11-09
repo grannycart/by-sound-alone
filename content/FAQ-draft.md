@@ -1,5 +1,5 @@
 FAQ-draft.md
-Last modified: Tue Nov 09, 2021  09:59AM
+Last modified: Tue Nov 09, 2021  10:16AM
 
 
 # FAQ
@@ -14,5 +14,8 @@ Speculative fiction, for sure.
 Not a traditional submarine novel.
 Not alternate history exactly (Hitler doesn't win the war)
 
+## Book 1? Will there be a Book 2?
+I have extensive notes for a second book.
+I need time to write it though.
 
 
