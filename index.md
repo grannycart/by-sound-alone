@@ -3,12 +3,10 @@ layout: home
 title: Subworld: Pre-Release Book 1
 ---
 
-[//]: # (A test comment before main body text.)
-
+## Some Information on Book 1
 * [Book1 Full Draft Manuscript](content/Subworldbook1.html)
 * [Book1 "source code"](http://github.com/grannycart/subworld-book1/) (It's just markdown.)
 
-## Some Information
 This is a pre-release of a complete draft of a novel. It is about
 submarines. Not nuclear submarines, or modern submarines, or any kind
 of submarine that actually existed. It is about cargo submarines.
@@ -41,5 +39,5 @@ _Gnat_.
 See the associated github repo for licensing information and development
 details, or if you want to compile an epub or pdf version for yourself.
 
-
+[//]: # (A test comment just to make sure comments arent seen.)
 
