@@ -1,10 +1,11 @@
 ---
 layout: home
-title: Subworld: Pre-Release Book 1
+title: Manuscript Draft --- A Novel With Some Submarines In It (pre-release version)
 ---
 
 ## Some Information on Book 1
-* [Book1 Full Draft Manuscript](content/Subworldbook1.html)
+* [Manuscript Draft --- A Novel With Some Submarines In It (pre-release version)](content/Subworldbook1.html) by Mark Torrey
+* [Submarine diagrams](content/draft-layout_sub-diagrams.pdf) Diagrams of the protagonist submarines in the novel.
 * [Book1 "source code"](http://github.com/grannycart/subworld-book1/) (It's just markdown.)
 
 This is a pre-release of a complete draft of a novel. It is about
