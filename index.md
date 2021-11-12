@@ -1,44 +1,56 @@
 ---
 layout: home
-title: Manuscript Draft --- A Novel With Some Submarines In It (pre-release version)
+title: A Novel With Some Submarines In It (pre-release version)
 ---
 
-## Some Information on Book 1
-* [Manuscript Draft --- A Novel With Some Submarines In It (pre-release version)](content/Subworldbook1.html) by Mark Torrey
-* [Submarine diagrams](content/draft-layout_sub-diagrams.pdf) Diagrams of the protagonist submarines in the novel.
-* [Book1 "source code"](http://github.com/grannycart/subworld-book1/) (It's just markdown.)
+[//]: # (Eventually, when there's more than one story, this page should be re-oriented towards the series, rather than the one book. Each story should just be part of this page.)
 
-This is a pre-release of a complete draft of a novel. It is about
+## Some Information:
+* Read it as a really-long, unformatted webpage: [Manuscript Draft --- A Novel With Some Submarines In It (pre-release version)](content/Subworldbook1.html) by Mark Torrey
+* Reference diagrams of the protagonist submarines in the novel: [Submarine diagrams](content/draft-layout_sub-diagrams.pdf) 
+	* Extremely helpful for orientation during the book. Keep the diagrams handy!
+	* (Note that the diagrams currently need a number of adjustments to be in full alignment with the book though.)
+* "Source code" for the novel (it's just markdown): [source code](http://github.com/grannycart/subworld-book1/)
+	* Compile your own e-reader (epub) or pdf file to read!
+
+Above you can read a complete draft of a novel for free. It's about
 submarines. Not nuclear submarines, or modern submarines, or any kind
-of submarine that actually existed. It is about cargo submarines.
-In a mid-century Earth where, due to the economic circumstances of the
+of submarine that actually existed. It is about _cargo_ submarines. In
+a mid-century Earth where, due to the economic circumstances of the
 world having skewed off slightly from the path followed in real life,
-submarines ended up being recruited to do the trucking of cargo in
-around the world.
+submarines ended up being recruited to do the trucking of cargo 
+around the world. So not exactly like other submarine stories you may
+have encountered. (Also, far more women are involved than the typical
+submarine story.)
 
-Thus this novel became something that is part Das Boot, part Road
-Warrior, part Deadliest Catch, and part Smokey and the Bandit. So it
-is a novel that I had always wished existed. Maybe you do too.
+What's it like? 
 
-Currently it is a complete story, but unedited. There are a lot of
-typos, grammar, and style things remaining to be fixed. It is complete
-enough to be readable and enjoyable though. Since this is a pre-release
-version, if you _do_ read it, or even part of it, I would appreciate your
-feedback. If you don't know how to contact me through github, just email
-me: mortrye@gmail.com.
+It's kind of a slurry of _Das Boot_, _Road Warrior_, _Deadliest Catch_, and
+_Smokey and the Bandit_. Maybe with some _China Syndrome_ and _Jaws_ thrown
+in. (Though the latter's similarity is in theme only --- there's no
+sharks in the book. Sorry.) It is undoubtedly speculative fiction,
+though what more specific genre than that is maybe a little fuzzy. It is
+also an action-packed page-turner! It should be entertaining to read. If
+you find this isn't the case, you should probably let me know.
+
+In it's current state it is a complete novel, though a pre-release
+draft. What does that mean? It is a whole story, and has been wholly
+edited by the author (me) but not an editor. Take from that what you
+will. There may be (almost certainly are) some spelling and grammar
+errors that need fixing, and maybe some parts that should be cut or
+moved around. But there should be no part where you are wondering to
+yourself "wait, what the fuck is going on here?" If you find yourself
+asking that, you should probably let me know.
+
+Since this is a pre-release, if you do read it, or even part
+of it, I would appreciate your feedback. If you don't know how to
+contact me through github, just email me: grannycart@protonmail.com.
 
 The book is currently lacking a title. 
 Suggestions welcome!
 
-The preface is only a very rough unedited draft. Don't be discouraged
-by its incoherency --- the book is complete, even if the preface is not
-yet so. There are many revisions I want to make to the diagrams too.
-The most important thing they are lacking right now is titles! The sub
-in the top diagram is the _Prospect_ the sub in the 2nd diagram is the
-_Gnat_.
-
 See the associated github repo for licensing information and development
-details, or if you want to compile an epub or pdf version for yourself.
+details.
 
-[//]: # (A test comment just to make sure comments arent seen.)
+More detailed FAQ on its way!
 

@@ -1,9 +1,9 @@
-title: Subworld Pages 
-author: Mort Rye # name of site's author
-email: # mortrye@gmail.com # email of site's author
-url: https://mortrye.github.io# root address of the site
+title: Here's A Novel
+author: Mark Torrey # name of site's author
+email: grannycart@protonmail.com # email of site's author
+url: https://grannycart.net # root address of the site
 baseurl: "/subworld-pages" # subpath of the site, e.g. "/blog" (leave it blank "" if your site shouldn't use a subpath)
-# description: > A novel about submarines.
+description: > It's got submarines in it. Also a pigeon.
 
 # permalink: /:slug.html
 
@@ -17,7 +17,7 @@ theme_config:
   appearance: "dark" # can be "light", "dark" or "auto"
   back_home_text: "menu" # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
-  show_description: false # show blog description in home page
+  show_description: true # show blog description in home page
 
 sass:
   style: :compressed
