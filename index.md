@@ -31,7 +31,7 @@ though what more specific genre than that is maybe a little fuzzy. It is
 also an action-packed page-turner! It should be entertaining to read. If
 you find this isn't the case, you should probably let me know.
 
-In it's current state it is a complete novel, though a pre-release
+In its current state it is a complete novel, though a pre-release
 draft. What does that mean? It is a whole story, and has been wholly
 edited by the author (me) but not an editor. Take from that what you
 will. There may be (almost certainly are) some spelling and grammar
