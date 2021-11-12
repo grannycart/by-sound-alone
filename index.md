@@ -3,8 +3,6 @@ layout: home
 title: A Novel With Some Submarines In It (pre-release version)
 ---
 
-[//]: # (Eventually, when there's more than one story, this page should be re-oriented towards the series, rather than the one book. Each story should just be part of this page.)
-
 ## Some Information:
 * Read it as a really-long, unformatted webpage: [Manuscript Draft --- A Novel With Some Submarines In It (pre-release version)](content/Subworldbook1.html) by Mark Torrey
 * Reference diagrams of the protagonist submarines in the novel: [Submarine diagrams](content/draft-layout_sub-diagrams.pdf) 
@@ -54,4 +52,7 @@ details.
 
 More detailed FAQ on its way!
 
-  
+[//]: # (Eventually, when there is more than one story, this page should be re-oriented towards the series, rather than the one book. Each story should just be part of this page.)
+
+
+
