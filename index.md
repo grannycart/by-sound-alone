@@ -17,25 +17,27 @@ of submarine that actually existed. It is about _cargo_ submarines. In
 a mid-century Earth where, due to the economic circumstances of the
 world having skewed off slightly from the path followed in real life,
 submarines ended up being recruited to do the trucking of cargo 
-around the world. So not exactly like other submarine stories you may
+around the world. So: not exactly like other submarine stories you may
 have encountered. (Also, far more women are involved than the typical
 submarine story.)
 
 What's it like? 
 
 It's kind of a slurry of _Das Boot_, _Road Warrior_, _Deadliest Catch_, and
-_Smokey and the Bandit_. Maybe with some _China Syndrome_ and _Jaws_ thrown
-in. (Though the latter's similarity is in theme only --- there's no
-sharks in the book. Sorry.) It is undoubtedly speculative fiction,
-though what more specific genre than that is maybe a little fuzzy. It is
-also an action-packed page-turner! It should be entertaining to read. If
-you find this isn't the case, you should probably let me know.
+_Smokey and the Bandit_. Maybe with some _China Syndrome_ and _Jaws_
+thrown in. (Though the latter's similarity is in theme only --- there's
+no sharks in the book. Sorry.) For a child of the 1970s, it's all your
+favorite things in one book! It is undoubtedly speculative fiction,
+though what more specific genre beyond that is maybe a little fuzzy. It
+is also an action-packed page-turner! It should be entertaining to read.
+If you find this isn't the case, you should probably let me know.
 
 In its current state it is a complete novel, though a pre-release
 draft. What does that mean? It is a whole story, and has been wholly
 edited by the author (me) but not an editor. Take from that what you
 will. There may be (almost certainly are) some spelling and grammar
-errors that need fixing, and maybe some parts that should be cut or
+errors that need fixing, some parts that are overwritten, some parts
+that are underwritten, and maybe some parts that should be cut or
 moved around. But there should be no part where you are wondering to
 yourself "wait, what the fuck is going on here?" If you find yourself
 asking that, you should probably let me know.
