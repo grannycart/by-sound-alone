@@ -4,7 +4,8 @@ title: A Novel With Some Submarines In It (pre-release version)
 ---
 
 ## Some Information:
-* Read it as a really-long, unformatted webpage: [Manuscript Draft --- A Novel With Some Submarines In It (pre-release version)](content/Subworldbook1.html) by Mark Torrey
+* Read it as a really-long, unformatted webpage: [Manuscript Draft --- A Novel With Some Submarines In It (pre-release version)](content/Subworldbook1.html) 
+	* by Mark Torrey
 * Reference diagrams of the protagonist submarines in the novel: [Submarine diagrams](content/draft-layout_sub-diagrams.pdf) 
 	* Extremely helpful for orientation during the book. Keep the diagrams handy!
 	* (Note that the diagrams currently need a number of adjustments to be in full alignment with the book though.)
