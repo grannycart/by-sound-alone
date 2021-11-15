@@ -1,5 +1,5 @@
 FAQ-draft.md
-Last modified: Tue Nov 09, 2021  11:19AM
+Last modified: Mon Nov 15, 2021  01:38PM
 
 
 # FAQ
@@ -18,6 +18,10 @@ Not alternate history exactly (Hitler doesn't win the war)
 Hard to pin down exactly.
 
 Needs a new genre label: grimepunk?
+
+
+## Can I get a sample to see if I like it?
+Absolutely! Try starting here: [link to chapter... 6? stilt city? maybe directly to file on github repo?]
 
 
 ## Book 1? Will there be a Book 2?
