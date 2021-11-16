@@ -6,20 +6,21 @@ title: A Novel With Some Submarines In It (pre-release version)
 ## Some Information:
 * Read it as a really-long, unformatted webpage: [Manuscript Draft --- A Novel With Some Submarines In It (pre-release version)](content/Subworldbook1.html) 
 	* by Mark Torrey
+	* The book is currently lacking a title. Suggestions welcome!
 * Reference diagrams of the protagonist submarines in the novel: [Submarine diagrams](content/draft-layout_sub-diagrams.pdf) 
 	* Extremely helpful for orientation during the book. Keep the diagrams handy!
 * "Source code" for the novel (it's just markdown): [source code](http://github.com/grannycart/subworld-book1/)
 	* Compile your own e-reader (epub) or pdf file to read!
 
-Above you can read a complete draft of a novel for free. It's about
-submarines. Not nuclear submarines, or modern submarines, or any kind
-of submarine that actually existed. It is about _cargo_ submarines. In
-a mid-century Earth where, due to the economic circumstances of the
-world having skewed off slightly from the path followed in real life,
-submarines ended up being recruited to do the trucking of cargo 
-around the world. So: not exactly like other submarine stories you may
-have encountered. (Also, far more women are involved than the typical
-submarine story.)
+Above you can read a complete (120k+ words) draft of a novel for
+free. It's about submarines. Not nuclear submarines, or modern
+submarines, or any kind of submarine that actually existed. It is about
+_cargo_ submarines. In a mid-century Earth where, due to the economic
+circumstances of the world having skewed off slightly from the path
+followed in real life, submarines ended up being recruited to do the
+trucking of cargo around the world. So: not exactly like other submarine
+stories you may have encountered. (Also, far more women are involved
+than the typical submarine story.)
 
 What's it like? 
 
@@ -44,9 +45,6 @@ asking that, you should probably let me know.
 Since this is a pre-release, if you do read it, or even part
 of it, I would appreciate your feedback. If you don't know how to
 contact me through github, just email me: grannycart@protonmail.com.
-
-The book is currently lacking a title. 
-Suggestions welcome!
 
 See the associated github repo for licensing information and development
 details.
