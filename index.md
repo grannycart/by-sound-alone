@@ -27,8 +27,7 @@ What's it like?
 It's kind of a slurry of _Das Boot_, _Road Warrior_, _Deadliest Catch_, and
 _Smokey and the Bandit_. Maybe with some _China Syndrome_ and _Jaws_
 thrown in. (Though the latter's similarity is in theme only --- there's
-no sharks in the book. Sorry.) For a child of the 1970s, it's all your
-favorite things in one book! It is undoubtedly speculative fiction,
+no sharks in the book. Sorry.) It is undoubtedly speculative fiction,
 though what more specific genre beyond that is maybe a little fuzzy. It
 is also an action-packed page-turner! It should be entertaining to read.
 If you find this isn't the case, you should probably let me know.
