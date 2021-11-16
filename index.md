@@ -8,7 +8,6 @@ title: A Novel With Some Submarines In It (pre-release version)
 	* by Mark Torrey
 * Reference diagrams of the protagonist submarines in the novel: [Submarine diagrams](content/draft-layout_sub-diagrams.pdf) 
 	* Extremely helpful for orientation during the book. Keep the diagrams handy!
-	* (Note that the diagrams currently need a number of adjustments to be in full alignment with the book though.)
 * "Source code" for the novel (it's just markdown): [source code](http://github.com/grannycart/subworld-book1/)
 	* Compile your own e-reader (epub) or pdf file to read!
 
