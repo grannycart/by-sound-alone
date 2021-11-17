@@ -1,5 +1,4 @@
-FAQ-draft.md
-Last modified: Mon Nov 15, 2021  01:38PM
+Last modified: Wed Nov 17, 2021  03:29PM
 
 
 # FAQ
@@ -41,11 +40,11 @@ Also get on the mailing list! (Link to why you should get on mailing lists.)
 The current pre-release version of the book is under an open-content Creative Commons license.
 If I have any say in the matter, it will always remain that way.
 
-But... If some publisher offered me the services of a professional editor, promotion, and an advance on a second book, and all I had to do was lock down the copyright on the final published version of the book, I'll be honest with you: I'd take that deal in a second.
+But... If some publisher offered me the services of a professional editor, promotion, and an advance on a second book, and all I had to do was lock down the copyright on the final published version of the book, I'll be honest with you: watch how fast I will sell out!
 
 I'm committed to open content and a strong public domain. I have benefitted most of my life from the generocity of the open-source community. And ideally wherever this book goes in the future I would be happiest if it retained an "open-source" status in one way or another. I also have no illusions or daydreams about making tons of money on some book deal and becoming a lazy-famous author. That illusion is both impractictal and unlikely. Also I just don't care about money. What I care about is _time_.
 
-While I can get writing done while holding down a full time day job, I find I can't get my _best_ writing done. I could and would live on a very small amount of money if I had the option to spend the biggest chunk of my day --- and the best hours of my day --- writing. But currently I have approximately no income from these projects. Focusing on writing isn't even an option. It's something I have to squeeze in to the tired hours of my day. I would happily negotiate my open-source values for a chance to center my time on writing.
+While I can get writing done while holding down a full time day job, I find I can't get my _best_ writing done. I could and would live on a very small amount of money if I had the option to spend the biggest chunk of my day --- and the best hours of my day --- writing. But currently I have approximately no income from these projects, and a day job that occupies, well, my day. Focusing on writing isn't even an option. It's something I have to squeeze in to the tired hours of my life. I would happily negotiate my open-source values for a chance to center my time on writing.
 
 
 
