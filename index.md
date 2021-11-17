@@ -11,6 +11,8 @@ title: A Novel With Some Submarines In It (pre-release version)
 	* Extremely helpful for orientation during the book. Keep the diagrams handy!
 * "Source code" for the novel (it's just markdown): [source code](http://github.com/grannycart/subworld-book1/)
 	* Compile your own e-reader (epub) or pdf file to read!
+	* Check out this github repo for licensing information and development details.
+
 
 Above you can read a complete (120k+ words) draft of a novel for
 free. It's about submarines. Not nuclear submarines, or modern
@@ -45,9 +47,6 @@ asking that, you should probably let me know.
 Since this is a pre-release, if you do read it, or even part
 of it, I would appreciate your feedback. If you don't know how to
 contact me through github, just email me: grannycart@protonmail.com.
-
-See the associated github repo for licensing information and development
-details.
 
 More detailed FAQ on its way!
 
