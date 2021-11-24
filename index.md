@@ -3,19 +3,22 @@ layout: home
 title: A Novel With Some Submarines In It (pre-release version)
 ---
 
-## Some Information:
-* Read it as one really-long webpage here: [Manuscript Draft --- A Novel With Some Submarines In It (pre-release version)](content/Subworldbook1.md) 
-	* by Mark Torrey
-	* The book is currently lacking a title. Suggestions welcome!
+## Read _An Untitled Novel With Some Submarines In It (pre-release version)_:
+* The book is currently lacking a title. Suggestions welcome!
+* Download a [pdf version](content/Subworldbook1.pdf)
+* Download an [epub version](content/Subworldbook1.pdf)
+	* (Should work with all e-readers and e-reader software) 
+* Read it as [one really long webpage](content/Subworldbook1.md) 
 * Reference diagrams of the protagonist submarines in the novel: [Submarine diagrams](content/draft-layout_sub-diagrams.pdf) 
-	* Extremely helpful for orientation during the book. Keep the diagrams handy!
+	* Extremely helpful for orientation. Keep the diagrams handy!
 * "Source code" for the novel (it's just markdown): [source code](http://github.com/grannycart/subworld-book1/)
 	* Compile your own e-reader (epub) or pdf file to read!
 	* Check out this github repo for licensing information and development details.
 
 
-Above you can read a complete (120k+ words) draft of a novel for
-free. It's about submarines. Not nuclear submarines, or modern
+## Some Information:
+Above you can read a complete (120k+ words, 400+ pages) draft of a novel
+for free. It's about submarines. Not nuclear submarines, or modern
 submarines, or any kind of submarine that actually existed. It is about
 _cargo_ submarines. In a mid-century Earth where, due to the economic
 circumstances of the world having skewed off slightly from the path
