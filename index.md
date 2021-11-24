@@ -3,8 +3,10 @@ layout: home
 title: A Novel With Some Submarines In It (pre-release version)
 ---
 
-## Read _An Untitled Novel With Some Submarines In It (pre-release version)_:
-* The book is currently lacking a title. Suggestions welcome!
+## Read it:
+* The title of the book: _An Untitled Novel With Some Submarines In It (pre-release version)_
+	* So actually the book is currently lacking a title. Suggestions welcome!
+	* Note _pre-release version_: the downloadable files are the book version of beta software.
 * Download a [pdf version](content/Subworldbook1.pdf)
 * Download an [epub version](content/Subworldbook1.pdf)
 	* (Should work with all e-readers and e-reader software) 
