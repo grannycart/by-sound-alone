@@ -1,5 +1,5 @@
 why-write-a-submarines-story.md
-Last modified: Thu Dec 09, 2021  10:42AM
+Last modified: Thu Dec 09, 2021  02:50PM
 
 # Why write (or read, or watch) a Submarine Story?
 
@@ -25,7 +25,7 @@ Last modified: Thu Dec 09, 2021  10:42AM
 		* (Can you get to submarines without going through dragons? They are too far off course, I think.)
 	* Submarines are the opposite of that. They follow a clear set of rules, most of which the audience already knows.
 		* (You can't go too deep, limited air, detect enemies by sound, etc)
-	* Based on the fact that three sub stories I knew best: Hunt, Crimson tide, Das boot, were all so good.
+	* Based on the fact that three sub stories I knew best: Hunt, Crimson tide, Das Boot, were all so good.
 	* This set me watching all manner of submarine movies, let me tell you they are NOT all good.
 * Most submarine stories belong to a certain kind of post-war nationalistic genre.
 	* They feel dated and smell of naphthalene or camphor.
@@ -48,6 +48,13 @@ There's a scene early in _The China Syndrome_ where Jack Lemon is in the control
 
 It occurred to me that a person reading their fate from a wall of gauges is a singularly powerful way to convey dramatic tension to an audience. It has long been a truism of the horror film genre that the scariest thing is the thing you don't see. Once the ghost, ax murderer, face-sucking alien, or sea monster has been shown to be real the fear is shortly thereafter drained out of it. One of the things that is magic about that scene in _The China Syndrome_ is that the source of the terror, fear, and doom is held at a distance and remains unseen. At the same time the reality of it is front and center. It manages to be an invisible terror and at the same time something that is _currently_ happening --- not some vague threat, but invisible, terrifying disaster in occurring in real time. What could be more terrifying than that?
 
-* Of course it works even better if you don't have to depend on Jack Lemon's acting ability. If the audience understands the signficane of the dial, why you could almost tell a story just by showing the readout of a dial. This is precisely what happens at the climax of Das Boot.
+The staring-at-the-dial-in-terror scene in _The China Syndrome_ depends entirely on Jack Lemon's acting ability to convey the terror of the situation. The audience is assumed to know nothing about how nuclear reactors work, or what the dial Jack Lemon is staring at conveys. You could imagine that the effectiveness of the scene could only be enhanced if the audience understood the meaning of the readout on the dial. 
 
+And this is precisely what happens at the climax of the greatest submarine movie of them all: _Das Boot_. The audience --- fully aware of the most basic rule of submarine drama that the boat can only go so deep before it collapses on itself from the pressure of the water --- is treated to the excitement and terror of watching the submarine sink. The knowledge of the sinking is transmitted by nothing more than the camera showing us the needle on the depth gauge climbing and climbing, until it passes the last of the hashes on the deepest part of the dial... and keeps going.
+
+Yes, we get the cutaway shots of the captain staring in terror at the depth gauge. Yes, there are some external shots of the boat going down into the murky Mediterranean. And yes, those familiar with the scene will remember that the glass of the dial even cracks dramatically (presumably from the stress of the hull being reshaped by the pressure of the water, and thereby bending the housing of the gauge until the glass can no longer take it). But all that is just bonus. The real story is told by the depth gauge itself. One could imagine a dramatic story told by nothing _but_ gauges and dials.
+
+For someone who is unfamiliar with the technical workings of submarines, the first thing they need to learn is that submarines have no windows. Well, _research_ submarines have windows for looking at at the strange dwellers in the deepest blackest pits of the ocean. But the submarine technology the militaries of the world developed in the 20th Century are a different kind of machine entirely. Windows are not necessary, because the boat is operated entirely by sensors that detect the world around it. The most important of those sensors uses sound waves to map the world around the submarine. It is known as sonar. In the black waters of the ocean, sound give a much clearer picture of what surrounds the submarine than vision ever could.
+
+The sound sensors are wired up to the "control room" of the submarine. In the control room are the people who are using the sound-sensor information to decide what they want to do with their vessel and where they want to go. 
 
