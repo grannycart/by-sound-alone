@@ -1,5 +1,5 @@
 why-write-a-submarines-story.md
-Last modified: Wed Dec 08, 2021  10:51PM
+Last modified: Thu Dec 09, 2021  10:42AM
 
 # Why write (or read, or watch) a Submarine Story?
 
@@ -9,6 +9,11 @@ Last modified: Wed Dec 08, 2021  10:51PM
 	* Where characters are watching their fate read out from nothing but a small needle on a dial
 	* This scene exactly is the climax of Das Boot
 * a theater piece:
+	* The first thing someone who knows nothing about submarines needs to know is: they have no windows.
+		* (research subs do, of course, but military-industrial subs don't.)
+		* They don't need them. They interact more effectively with the outside world through other senses than vision.
+		* Submarine as the subconscious object (see beginning of typed short story draft)
+		* (Or that the submarine is like some kind of animal or being itself. The people operating it are like a nerve-center or brain, making decisions based on the senses that come in to them from the outside, mediated by the electro-magnetic spectrum and the capabilities of their sensors to read it.)
 	* The submarine is, by it's very nature, a set
 	* It would be fun to imagine a play that is entirely set inside a sub
 	* Maybe with a rotation of only three sets: the control room, the engine room, and the torpedo room
@@ -17,16 +22,22 @@ Last modified: Wed Dec 08, 2021  10:51PM
 * dragons:
 	* Are elements of chaos. They ruin stories. Because _anything_ can happen.
 		* (examples, maybe admit Pete's Dragon and How to Train Dragon as counter-examples) 
+		* (Can you get to submarines without going through dragons? They are too far off course, I think.)
 	* Submarines are the opposite of that. They follow a clear set of rules, most of which the audience already knows.
 		* (You can't go too deep, limited air, detect enemies by sound, etc)
 	* Based on the fact that three sub stories I knew best: Hunt, Crimson tide, Das boot, were all so good.
 	* This set me watching all manner of submarine movies, let me tell you they are NOT all good.
-* Submarine as the subconscious object (see beginning of typed short story draft)
 * Most submarine stories belong to a certain kind of post-war nationalistic genre.
+	* They feel dated and smell of naphthalene or camphor.
 	* But I think there's a real opportunity to centerfuge out what's good about submarine movies, pair them with some more up-to-date notions (like, you know, female characters) and maybe create something really special. 
 * also move into this stuff?
 	* grime?
 	* mechanical tech?
+		* Modern subs suffer from the same story-telling-killing problem that all modern technology has: they are so complex almost _anything_ is believable
+			* (list some real technology modern subs have)
+			* (In many ways the idea of a subconscious object fits best here.)
+			* The technology is essentially magical. Harry Potter aside, it becomes difficult to tell a compelling story when virtually anything could happen or be believed.
+			* older subs = the height of mechanical technology
 * (does this become an even longer preface?)
 	* (or is this a manifesto of sorts?) 
 
