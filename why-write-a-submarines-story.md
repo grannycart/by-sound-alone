@@ -1,5 +1,5 @@
 why-write-a-submarines-story.md
-Last modified: Wed Dec 08, 2021  03:05PM
+Last modified: Wed Dec 08, 2021  10:51PM
 
 # Why write (or read, or watch) a Submarine Story?
 
@@ -37,6 +37,6 @@ There's a scene early in _The China Syndrome_ where Jack Lemon is in the control
 
 It occurred to me that a person reading their fate from a wall of gauges is a singularly powerful way to convey dramatic tension to an audience. It has long been a truism of the horror film genre that the scariest thing is the thing you don't see. Once the ghost, ax murderer, face-sucking alien, or sea monster has been shown to be real the fear is shortly thereafter drained out of it. One of the things that is magic about that scene in _The China Syndrome_ is that the source of the terror, fear, and doom is held at a distance and remains unseen. At the same time the reality of it is front and center. It manages to be an invisible terror and at the same time something that is _currently_ happening --- not some vague threat, but invisible, terrifying disaster in occurring in real time. What could be more terrifying than that?
 
-
+* Of course it works even better if you don't have to depend on Jack Lemon's acting ability. If the audience understands the signficane of the dial, why you could almost tell a story just by showing the readout of a dial. This is precisely what happens at the climax of Das Boot.
 
 
