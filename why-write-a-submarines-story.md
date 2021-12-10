@@ -1,45 +1,45 @@
 why-write-a-submarines-story.md
-Last modified: Thu Dec 09, 2021  02:50PM
+Last modified: Fri Dec 10, 2021  02:45PM
 
 # Why write (or read, or watch) a Submarine Story?
 
 ## elements
-* staring at dials
-	* China Syndrome: not a submarine story, but could be.
-	* Where characters are watching their fate read out from nothing but a small needle on a dial
-	* This scene exactly is the climax of Das Boot
-* a theater piece:
-	* The first thing someone who knows nothing about submarines needs to know is: they have no windows.
-		* (research subs do, of course, but military-industrial subs don't.)
-		* They don't need them. They interact more effectively with the outside world through other senses than vision.
-		* Submarine as the subconscious object (see beginning of typed short story draft)
-		* (Or that the submarine is like some kind of animal or being itself. The people operating it are like a nerve-center or brain, making decisions based on the senses that come in to them from the outside, mediated by the electro-magnetic spectrum and the capabilities of their sensors to read it.)
-	* The submarine is, by it's very nature, a set
-	* It would be fun to imagine a play that is entirely set inside a sub
-	* Maybe with a rotation of only three sets: the control room, the engine room, and the torpedo room
-	* There is something appealing about being restricted to that stage
-		* (Though Tom Clancy couldn't manage it: at the climax of _Hunt for Red October_ he was switching back and forth from one sub to another almost paragraph to paragraph)
-* dragons:
-	* Are elements of chaos. They ruin stories. Because _anything_ can happen.
-		* (examples, maybe admit Pete's Dragon and How to Train Dragon as counter-examples) 
-		* (Can you get to submarines without going through dragons? They are too far off course, I think.)
-	* Submarines are the opposite of that. They follow a clear set of rules, most of which the audience already knows.
-		* (You can't go too deep, limited air, detect enemies by sound, etc)
-	* Based on the fact that three sub stories I knew best: Hunt, Crimson tide, Das Boot, were all so good.
-	* This set me watching all manner of submarine movies, let me tell you they are NOT all good.
-* Most submarine stories belong to a certain kind of post-war nationalistic genre.
-	* They feel dated and smell of naphthalene or camphor.
-	* But I think there's a real opportunity to centerfuge out what's good about submarine movies, pair them with some more up-to-date notions (like, you know, female characters) and maybe create something really special. 
-* also move into this stuff?
-	* grime?
-	* mechanical tech?
-		* Modern subs suffer from the same story-telling-killing problem that all modern technology has: they are so complex almost _anything_ is believable
-			* (list some real technology modern subs have)
-			* (In many ways the idea of a subconscious object fits best here.)
-			* The technology is essentially magical. Harry Potter aside, it becomes difficult to tell a compelling story when virtually anything could happen or be believed.
-			* older subs = the height of mechanical technology
-* (does this become an even longer preface?)
-	* (or is this a manifesto of sorts?) 
+* [X] staring at dials
+	* [X] China Syndrome: not a submarine story, but could be.
+	* [X] Where characters are watching their fate read out from nothing but a small needle on a dial
+	* [X] This scene exactly is the climax of Das Boot
+* [.] a theater piece:
+	* [X] The first thing someone who knows nothing about submarines needs to know is: they have no windows.
+		* [X] (research subs do, of course, but military-industrial subs don't.)
+		* [X] They don't need them. They interact more effectively with the outside world through other senses than vision.
+		* [X] (Or that the submarine is like some kind of animal or being itself. The people operating it are like a nerve-center or brain, making decisions based on the senses that come in to them from the outside, mediated by the electro-magnetic spectrum and the capabilities of their sensors to read it.)
+		* [X] Submarine as the subconscious object (see beginning of typed short story draft)
+	* [ ] The submarine is, by it's very nature, a set
+	* [ ] It would be fun to imagine a play that is entirely set inside a sub
+	* [ ] Maybe with a rotation of only three sets: the control room, the engine room, and the torpedo room
+	* [ ] There is something appealing about being restricted to that stage
+		* [ ] (Though Tom Clancy couldn't manage it: at the climax of _Hunt for Red October_ he was switching back and forth from one sub to another almost paragraph to paragraph)
+* [ ] dragons:
+	* [ ] Are elements of chaos. They ruin stories. Because _anything_ can happen.
+		* [ ] (examples, maybe admit Pete's Dragon and How to Train Dragon as counter-examples) 
+		* [ ] (Can you get to submarines without going through dragons? They are too far off course, I think.)
+	* [ ] Submarines are the opposite of that. They follow a clear set of rules, most of which the audience already knows.
+		* [ ] (You can't go too deep, limited air, detect enemies by sound, etc)
+	* [ ] Based on the fact that three sub stories I knew best: Hunt, Crimson tide, Das Boot, were all so good.
+	* [ ] This set me watching all manner of submarine movies, let me tell you they are NOT all good.
+* [ ] Most submarine stories belong to a certain kind of post-war nationalistic genre.
+	* [ ] They feel dated and smell of naphthalene or camphor.
+	* [ ] But I think there's a real opportunity to centerfuge out what's good about submarine movies, pair them with some more up-to-date notions (like, you know, female characters) and maybe create something really special. 
+* [ ] also move into this stuff?
+	* [ ] grime?
+	* [ ] mechanical tech?
+		* [ ] Modern subs suffer from the same story-telling-killing problem that all modern technology has: they are so complex almost _anything_ is believable
+			* [ ] (list some real technology modern subs have)
+			* [ ] (In many ways the idea of a subconscious object fits best here.)
+			* [ ] The technology is essentially magical. Harry Potter aside, it becomes difficult to tell a compelling story when virtually anything could happen or be believed.
+			* [ ] older subs = the height of mechanical technology
+* [ ] (does this become an even longer preface?)
+	* [ ] (or is this a manifesto of sorts?) 
 
 
 ## draft
@@ -54,7 +54,13 @@ And this is precisely what happens at the climax of the greatest submarine movie
 
 Yes, we get the cutaway shots of the captain staring in terror at the depth gauge. Yes, there are some external shots of the boat going down into the murky Mediterranean. And yes, those familiar with the scene will remember that the glass of the dial even cracks dramatically (presumably from the stress of the hull being reshaped by the pressure of the water, and thereby bending the housing of the gauge until the glass can no longer take it). But all that is just bonus. The real story is told by the depth gauge itself. One could imagine a dramatic story told by nothing _but_ gauges and dials.
 
-For someone who is unfamiliar with the technical workings of submarines, the first thing they need to learn is that submarines have no windows. Well, _research_ submarines have windows for looking at at the strange dwellers in the deepest blackest pits of the ocean. But the submarine technology the militaries of the world developed in the 20th Century are a different kind of machine entirely. Windows are not necessary, because the boat is operated entirely by sensors that detect the world around it. The most important of those sensors uses sound waves to map the world around the submarine. It is known as sonar. In the black waters of the ocean, sound give a much clearer picture of what surrounds the submarine than vision ever could.
+For someone who is unfamiliar with the technical workings of submarines, the first thing they need to understand is that submarines have no windows. Well, _research_ submarines have windows for looking at the strange dwellers in the deepest, blackest pits of the ocean. But the submarine technology the militaries of the world developed in the 20th Century are a different kind of machine entirely. Windows are not necessary, because the boat is operated entirely by sensors that detect the world around it. The most important of those sensors uses sound waves to map the world around the submarine. It is known as sonar. In the black waters of the ocean, sound give a much clearer picture of what surrounds the submarine than vision ever could.
 
-The sound sensors are wired up to the "control room" of the submarine. In the control room are the people who are using the sound-sensor information to decide what they want to do with their vessel and where they want to go. 
+The sound sensors are wired up to the "control room" of the submarine. In the control room are the people who are using the sound-sensor information to decide what they want to do with their vessel and where they want to go. The control room is also where the periscope is located. But if you though submarines were generally steered by the periscope, you would be wrong. The periscope --- that is visual information --- is supplemental sensory input for a submarine.
+
+So one way to think about a submarine is as a kind of an animal. The people controlling the submarine are in a way the brain of the animal. They take in sensory input, make decisions, and guide the behavior of this giant steel tube of an animal. Out there in the world's oceans right now, hundreds of these animals are swimming around. On a modern nuclear submarine, the technology has reached a point where these animals never have to surface. They pass back and forth across the deep parts of the ocean with no need for windows. No need for eyes. They neither see nor are seen. Like all things that exist in the parts of the ocean that see little sunlight --- giant and colossal squids, toothfish, oarfish, sleeper sharks, sunfish, spider crabs, tube worms, and hundreds of trillions of bristlemouths --- submarines are subconscious objects. We know they are out there, but most of us will never see one in our lives. They are literally out of sight and out of mind. The stuff of significance only to dreams. Submarines are unique among these subconscious objects for having people aboard. It is impossible for us to conceptualize what a layer of fish so vast and dense that it forms a false sea bottom as a coherent object or experience in our mind. But we --- real human beings --- are out there in those submarines.
+
+
+
+
 
