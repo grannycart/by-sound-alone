@@ -1,5 +1,5 @@
 why-write-a-submarines-story.md
-Last modified: Wed Dec 15, 2021  03:14PM
+Last modified: Fri Dec 24, 2021  05:40PM
 
 # Why write (or read, or watch) a Submarine Story?
 
@@ -8,28 +8,28 @@ Last modified: Wed Dec 15, 2021  03:14PM
 	* [X] China Syndrome: not a submarine story, but could be.
 	* [X] Where characters are watching their fate read out from nothing but a small needle on a dial
 	* [X] This scene exactly is the climax of Das Boot
-* [.] a theater piece:
+* [X] a theater piece:
 	* [X] The first thing someone who knows nothing about submarines needs to know is: they have no windows.
 		* [X] (research subs do, of course, but military-industrial subs don't.)
 		* [X] They don't need them. They interact more effectively with the outside world through other senses than vision.
 		* [X] (Or that the submarine is like some kind of animal or being itself. The people operating it are like a nerve-center or brain, making decisions based on the senses that come in to them from the outside, mediated by the electro-magnetic spectrum and the capabilities of their sensors to read it.)
 		* [X] Submarine as the subconscious object (see beginning of typed short story draft)
-	* [ ] The submarine is, by it's very nature, a set
-	* [ ] It would be fun to imagine a play that is entirely set inside a sub
-	* [ ] Maybe with a rotation of only three sets: the control room, the engine room, and the torpedo room
-	* [ ] There is something appealing about being restricted to that stage
-		* [ ] (Though Tom Clancy couldn't manage it: at the climax of _Hunt for Red October_ he was switching back and forth from one sub to another almost paragraph to paragraph)
-* [ ] dragons:
-	* [ ] Are elements of chaos. They ruin stories. Because _anything_ can happen.
-		* [ ] (examples, maybe admit Pete's Dragon and How to Train Dragon as counter-examples) 
-		* [ ] (Can you get to submarines without going through dragons? They are too far off course, I think.)
-	* [ ] Submarines are the opposite of that. They follow a clear set of rules, most of which the audience already knows.
-		* [ ] (You can't go too deep, limited air, detect enemies by sound, etc)
-	* [ ] Based on the fact that three sub stories I knew best: Hunt, Crimson tide, Das Boot, were all so good.
-	* [ ] This set me watching all manner of submarine movies, let me tell you they are NOT all good.
-* [ ] Most submarine stories belong to a certain kind of post-war nationalistic genre.
-	* [ ] They feel dated and smell of naphthalene or camphor.
-	* [ ] But I think there's a real opportunity to centrifuge out what's good about submarine movies, pair them with some more up-to-date notions (like, you know, female characters) and maybe create something really special. 
+	* [X] The submarine is, by it's very nature, a set
+	* [X] It would be fun to imagine a play that is entirely set inside a sub
+	* [X] Maybe with a rotation of only three sets: the control room, the engine room, and the torpedo room
+	* [X] There is something appealing about being restricted to that stage
+		* [X] (Though Tom Clancy couldn't manage it: at the climax of _Hunt for Red October_ he was switching back and forth from one sub to another almost paragraph to paragraph)
+* [X] dragons:
+	* [-] Are elements of chaos. They ruin stories. Because _anything_ can happen.
+		* [-] (examples, maybe admit Pete's Dragon and How to Train Dragon as counter-examples) 
+		* [-] (Can you get to submarines without going through dragons? They are too far off course, I think.)
+	* [X] Submarines are the opposite of that. They follow a clear set of rules, most of which the audience already knows.
+		* [X] (You can't go too deep, limited air, detect enemies by sound, etc)
+	* [X] Based on the fact that three sub stories I knew best: Hunt, Crimson tide, Das Boot, were all so good.
+	* [X] This set me watching all manner of submarine movies, let me tell you they are NOT all good.
+* [X] Most submarine stories belong to a certain kind of post-war nationalistic genre.
+	* [X] They feel dated and smell of naphthalene or camphor.
+	* [X] But I think there's a real opportunity to centrifuge out what's good about submarine movies, pair them with some more up-to-date notions (like, you know, female characters) and maybe create something really special. 
 * [ ] also move into this stuff?
 	* [ ] grime?
 	* [ ] mechanical tech?
@@ -66,7 +66,13 @@ But submarines are unique among these subconscious objects for having people abo
 
 For this reason the submarine makes an exceptional stage for telling a story.
 
-A metaphorical stage, as described above, for sure. They also make for an excellent literal stage or set. The reasons are obvious: nearly all of the action in a submarine story has to occur in one of a few compartments aboard the sub. There is no off-stage. There's no outside. The larger world --- such as it exists --- is mediated entirely through the sensory mechanisms of the submarine (and the readings from those sensory mechanisms are easily rendered into dialog). The submarine's main comparemtns become a setting for drama, a solid and heavy oak frame built around the action. It gives the storyteller a powerful and useful limitation. Imagine a play set on a submarine that consists of nothing more than three sets: the control room, the torpedo room, and the engine room. Maybe they rotate so dialog could move back and forth between the compartments.
+A metaphorical stage, as described above, for sure. They also make for an excellent literal stage or set. The reasons are obvious: nearly all of the action in a submarine story has to occur in one of a few compartments aboard the sub. There is no off-stage. There's no outside. The larger world --- such as it exists --- is mediated entirely through the sensory mechanisms of the submarine (and the readings from those sensory mechanisms are easily rendered into dialog). The submarine's main compartments become a setting for drama, a solid and heavy oak frame built around the action. It gives the storyteller a powerful and useful limitation. Imagine a play set on a submarine that consists of nothing more than three sets: the control room, the torpedo room, and the engine room. Maybe they rotate so dialog could move back and forth between the compartments. The challenges of being restricted to a story told on a set like that would be liberating to a gifted story-teller. (Though I doubt Tom Clancy could have managed it --- at the climax of _Hunt_ he was jumping back and forth between submarines/settings nearly paragraph to paragraph.) 
+
+Even if a story-teller didn't treat the submarine as a formal theater set, the submarine story is by its very nature constricted by a set of rules that the audience can be generally assumed to understand: there's a limit to the amount of air available, the submarine can only go so deep without being crushed, enemies are detected by sound, etc. The rules become rails that guide a submarine story. They are the reason that the best of the submarine stories: _Das Boot_, _Hunt_, _Crimson Tide_, _The Enemy Below_, _Run Silent, Run Deep_; are so good.
+
+Because these story guiderails seemed so powerful to me, I set out to watch and read as many submarines stories as I could. Let me tell you: those rails only hold up for so long. The submarine genre, like all genres, is filled with crap of which only a few of the best rise above. As strong as those guiderails may be, they are not enough to keep most mid-century, post-war submarine stories from plunging into dull hyper-nationalistic us-vs-them schlock cliche. Instead of supporting the story, the rails become a track for the formulaic. The mid-century submarine movie wore out the formula, leaving submarine stories tired, dated, and smelling of naphthalene and camphor.
+
+But I believe in those guiderails. I think the submarine story is ready for a re-tooling and a re-telling. If the nationalism, masculinity, and WWII/cold-warrior-ness of them was left behind, the _machines_ themselves could be a source of terrific stories. There's a real opportunity to centrifuge out what's good about submarine stories, mix them up with some more up-to-date notions (like, you know, female characters) and maybe create something really special.
 
 
 
