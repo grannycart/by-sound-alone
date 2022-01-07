@@ -16,8 +16,8 @@ title: A Novel With Some Submarines In It (pre-release version)
 * "Source code" for the novel (it's just markdown): [source code](http://github.com/grannycart/subworld-book1/)
 	* Compile your own e-reader (epub) or pdf file to read!
 	* Check out this github repo for licensing information and development details.
-* Is there a paper version? Yup. Contact me if you want an advance reader's copy. <img height="100" src="./content/sub-novel-cover-standing.jpg">
-
+* Is there a paper version? <img height="100" src="./content/sub-novel-cover-standing.jpg">
+	* Yup. Contact me if you want an advance reader's copy. 
 
 ## Some Information:
 Above you can read a complete (120k+ words, 400+ pages) draft of a novel
