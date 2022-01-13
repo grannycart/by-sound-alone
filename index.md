@@ -18,7 +18,7 @@ title: A Novel With Some Submarines In It (pre-release version)
 	* Check out this github repo for licensing information and development details.
 * Is there a paper version?
 	* Yup. Contact me if you want an advance reader's copy:
-<center><img width="100" src="./content/sub-novel-cover-standing.jpg"></center>
+<center><img width="200" src="./content/sub-novel-cover-standing.jpg"></center>
 
 ## Some Information:
 Above you can read a complete (120k+ words, 400+ pages) draft of a novel
