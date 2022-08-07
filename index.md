@@ -57,6 +57,8 @@ contact me through github, just email me: grannycart@protonmail.com.
 
 More detailed FAQ on its way!
 
+[Back to grannycart.net for more stuff](http://grannycart.net/).
+
 [//]: # (Eventually, when there is more than one story, this page should be re-oriented towards the series, rather than the one book. Each story should just be part of this page.)
 
 
