@@ -4,6 +4,7 @@ email: grannycart@protonmail.com # email of site's author
 url: https://grannycart.net # root address of the site
 baseurl: "/subworld-pages" # subpath of the site, e.g. "/blog" (leave it blank "" if your site shouldn't use a subpath)
 description: It's got submarines in it. Also a pigeon.
+google_analytics: UA-241182265-2
 
 # permalink: /:slug.html
 
