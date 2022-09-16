@@ -19,6 +19,10 @@ title: A Novel With Some Submarines In It (pre-release version)
 * Is there a paper version?
 	* Yup. Contact me if you want an advance reader's copy:
 <center><img width="200" src="./content/sub-novel-cover-standing.jpg"></center>
+* Not ready to commit to a whole book yet?
+	* Here's a short story set in the same universe, still plenty of submarine action:
+	* [Untitled Short Story](http://github.com/grannycart/subworld-shortstory1/) (Github repo)
+	* (This story is still being written.)
 
 ## Some Information:
 Above you can read a complete (120k+ words, 400+ pages) draft of a novel
