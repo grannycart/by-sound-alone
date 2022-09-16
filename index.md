@@ -67,6 +67,6 @@ More detailed FAQ on its way!
 [//]: # (Enable above link bank to grannycart only after grannycart is really built out as a serious thing. since I want to be able to send out the sub book link without sending out the grannycart link right at the moment.)
 
 [//]: # (Eventually, when there is more than one story, this page should be re-oriented towards the series, rather than the one book. Each story should just be part of this page.)
-
+  
 
 

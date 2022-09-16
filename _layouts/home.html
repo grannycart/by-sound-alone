@@ -11,6 +11,8 @@ layout: default
   <!-- This non-breaking space controls the amount of space under the page title and needs to be adjusted based on how long the page subtitle ends up being so that the body copy doesn't start next to the picture. (Or does, if you want that.) -->
   <p>&nbsp;</p>
   <p>&nbsp;</p>
+  {% include analytics.html %}
+  <!-- above is supposed to suck in the google analytics code from the _includes directory -->
 </header>
 
 {%-include menu_item.html collection=site.data.menu.entries-%}
