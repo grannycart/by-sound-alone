@@ -4,8 +4,10 @@ title: A Novel With Some Submarines In It (pre-release version)
 ---
 
 ## Read it:
-* The title of the book: _An Untitled Novel With Some Submarines In It (pre-release version)_
+* The title of this pre-release version of the  book: _An Untitled Novel With Some Submarines In It (pre-release version)_
 	* So actually the book is currently lacking a title. Suggestions welcome!
+		* Working title for final version: By Sound Alone
+		* Former working title: ~~Under Dark~~
 	* Note **pre-release version**: the downloadable files are the book version of beta software.
 * Download a [pdf version](content/Subworldbook1+diagrams.pdf)
 * Download an [epub version](content/Subworldbook1.epub)
