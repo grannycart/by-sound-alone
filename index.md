@@ -16,6 +16,7 @@ title: By Sound Alone
 	* Extremely helpful for orientation. Keep the diagrams handy!
 * "Source code" for the novel (it's just markdown): [source code](http://github.com/grannycart/by-sound-alone_source/)
 	* Compile your own e-reader (epub) or pdf file to read!
+	* Get the most up-to-date version of the novel.
 	* Check out this github repo for licensing information and development details.
 * Is there a paper version?
 	* Yup. Contact me if you want an advance reader's copy:
@@ -66,7 +67,7 @@ More detailed FAQ on its way!
 
 [//]: # (Enable above link bank to grannycart only after grannycart is really built out as a serious thing. since I want to be able to send out the sub book link without sending out the grannycart link right at the moment.)
 
-[//]: # (Eventually, when there is more than one story, this page should be re-oriented towards the series, rather than the one book. Each story should just be part of this page.)
+[//]: # (Eventually, when/if there is more than one story, this page should be re-oriented towards the series, rather than the one book. Each story should just be part of this page.)
   
 
 
