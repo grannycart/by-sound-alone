@@ -1,7 +1,8 @@
-Last modified: Wed Nov 17, 2021  03:29PM
+---
+layout: page
+title: Submarine novel FAQ
+---
 
-
-# FAQ
 
 
 ## Not really a question, more of an order: convince me to read this book.

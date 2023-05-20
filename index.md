@@ -22,10 +22,9 @@ title: By Sound Alone
 <center><img width="200" src="./content/sub-novel-cover-standing.jpg"></center>
 * Not ready to commit to a whole book yet?
 	* Here's a short story set in the same universe, still plenty of submarine action:
-	* [Untitled Short Story](http://github.com/grannycart/subworld-shortstory1/) (Github repo)
-	* (This story is still being written.)
+	* [Untitled Short Story (13k words)](./untitled-submarine-short-story.md)
 
-## Some Information:
+## More information:
 Above you can read a complete (120k+ words, 400+ pages) draft of a novel
 for free. It's about submarines. Not nuclear submarines, or modern
 submarines, or any kind of submarine that actually existed. It is about
