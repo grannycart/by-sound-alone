@@ -5,7 +5,7 @@ title: By Sound Alone
 
 ## Read it:
 * The title of this pre-release version of the  book: _An Untitled Novel With Some Submarines In It (pre-release version)_
-	* Working title for final version: By Sound Alone
+	* Working title for final version: _By Sound Alone_
 		* Former working title: ~~Under Dark~~
 	* Note **pre-release version**: the downloadable files are the book version of beta software.
 * Download a [pdf version](content/Subworldbook1+diagrams.pdf)
@@ -21,8 +21,8 @@ title: By Sound Alone
 	* Yup. Contact me if you want an advance reader's copy:
 <center><img width="200" src="./content/sub-novel-cover-standing.jpg"></center>
 * Not ready to commit to a whole book yet?
-	* Here's a short story set in the same universe, still plenty of submarine action:  
-	[Untitled Short Story (13k words)](./untitled-submarine-short-story.md)
+	* Here's a short story set in the same universe, still plenty of submarine action:
+	* [Untitled Short Story (13k words)](./untitled-submarine-short-story.md)
 
 ## More information:
 Above you can read a complete (120k+ words, 400+ pages) draft of a novel
