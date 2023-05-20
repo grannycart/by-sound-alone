@@ -21,8 +21,8 @@ title: By Sound Alone
 	* Yup. Contact me if you want an advance reader's copy:
 <center><img width="200" src="./content/sub-novel-cover-standing.jpg"></center>
 * Not ready to commit to a whole book yet?
-	* Here's a short story set in the same universe, still plenty of submarine action:
-	* [Untitled Short Story (13k words)](./untitled-submarine-short-story.md)
+	* Here's a short story set in the same universe, still plenty of submarine action:  
+	[Untitled Short Story (13k words)](./untitled-submarine-short-story.md)
 
 ## More information:
 Above you can read a complete (120k+ words, 400+ pages) draft of a novel
