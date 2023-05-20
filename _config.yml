@@ -1,8 +1,8 @@
-title: Here's A Novel
+title: By Sound Alone
 author: Mark Torrey # name of site's author
 email: grannycart@protonmail.com # email of site's author
 url: https://grannycart.net # root address of the site
-baseurl: "/subworld-pages" # subpath of the site, e.g. "/blog" (leave it blank "" if your site shouldn't use a subpath)
+baseurl: "/by-sound-alone" # subpath of the site, e.g. "/blog" (leave it blank "" if your site shouldn't use a subpath)
 description: It's got submarines in it. Also a pigeon.
 
 # permalink: /:slug.html
