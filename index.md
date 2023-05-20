@@ -1,12 +1,11 @@
 ---
 layout: home
-title: A Novel With Some Submarines In It (pre-release version)
+title: By Sound Alone
 ---
 
 ## Read it:
 * The title of this pre-release version of the  book: _An Untitled Novel With Some Submarines In It (pre-release version)_
-	* So actually the book is currently lacking a title. Suggestions welcome!
-		* Working title for final version: By Sound Alone
+	* Working title for final version: By Sound Alone
 		* Former working title: ~~Under Dark~~
 	* Note **pre-release version**: the downloadable files are the book version of beta software.
 * Download a [pdf version](content/Subworldbook1+diagrams.pdf)
@@ -15,7 +14,7 @@ title: A Novel With Some Submarines In It (pre-release version)
 * Read it as [one really long unformatted webpage](content/Subworldbook1.html) 
 * Reference diagrams of the protagonist submarines in the novel: [Submarine diagrams](content/standalone_sub-diagrams.pdf) 
 	* Extremely helpful for orientation. Keep the diagrams handy!
-* "Source code" for the novel (it's just markdown): [source code](http://github.com/grannycart/subworld-book1/)
+* "Source code" for the novel (it's just markdown): [source code](http://github.com/grannycart/by-sound-alone_source/)
 	* Compile your own e-reader (epub) or pdf file to read!
 	* Check out this github repo for licensing information and development details.
 * Is there a paper version?
