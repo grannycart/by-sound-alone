@@ -26,6 +26,16 @@ title: By Sound Alone
 	* [Untitled Short Story (13k words)](./untitled-submarine-short-story.md)
 
 ## More information:
+**Update, May '23**: A major revision is nearing completion. The new
+version tightens up the story quite a bit (quantitatively, by about 20k
+words) and fixes some of the motivations of the central characters that
+nearly every test reader commented on. That is primarily to say that
+if you have stumbled on this page and are now considering reading this
+book, I urge you to hold off a few more weeks and wait for this revised
+(and potentially final) version to be published. The new version will
+also be under a Creative Commons license and will be free to download as
+an e-book.
+
 Above you can read a complete (120k+ words, 400+ pages) draft of a novel
 for free. It's about submarines. Not nuclear submarines, or modern
 submarines, or any kind of submarine that actually existed. It is about
@@ -38,13 +48,15 @@ than the typical submarine story.)
 
 What's it like? 
 
-It's kind of a slurry of _Das Boot_, _Road Warrior_, _Deadliest Catch_, and
-_Smokey and the Bandit_. Maybe with some _China Syndrome_ and _Jaws_
-thrown in. (Though the latter's similarity is in theme only --- there's
-no sharks in the book. Sorry.) It is undoubtedly speculative fiction,
-though what more specific genre beyond that is maybe a little fuzzy. It
-is also an action-packed page-turner! It should be entertaining to read.
-If you find this isn't the case, you should probably let me know.
+Fundamentally, it's a cross between a 1960s submarine movie and a 1970s
+trucker movie. It's kind of a slurry of _Das Boot_, _Road Warrior_,
+_Deadliest Catch_, and _Smokey and the Bandit_. Maybe with some _China
+Syndrome_ and _Jaws_ thrown in. (Though the latter's similarity is in
+tone only --- there's no sharks in the book. Sorry.) It is undoubtedly
+speculative fiction --- but not _science_ fiction. What more specific
+genre beyond that is maybe a little fuzzy. It is also an action-packed
+page-turner! It should be entertaining to read. If you find this isn't
+the case, you should probably let me know.
 
 In its current state it is a complete novel, though a pre-release
 draft. What does that mean? It is a whole story, and has been wholly
