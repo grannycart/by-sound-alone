@@ -27,16 +27,16 @@ title: By Sound Alone
 
 ## More information:
 **Update, May '23**: A major revision is nearing completion. The new
-version tightens up the story quite a bit (quantitatively, by about 20k
-words) and fixes some of the motivations of the central characters that
-nearly every test reader commented on. That is primarily to say that
-if you have stumbled on this page and are now considering reading this
-book, I urge you to hold off a few more weeks and wait for this revised
-(and potentially final) version to be published. The new version will
-also be under a Creative Commons license and will be free to download as
-an e-book.
+version tightens up the story quite a bit (quantitatively, by more than
+20k words) and fixes some of the motivations of the central characters
+that nearly every test reader commented on. That is primarily to say
+that if you have stumbled on this page and are now considering reading
+this book, I urge you to hold off a few more weeks and wait for this
+revised (and potentially final) version to be published. The new version
+will also be under a Creative Commons license and will be free to
+download as an e-book.
 
-Above you can read a complete (120k+ words, 400+ pages) draft of a novel
+Above you can read a complete (118k+ words, 400+ pages) draft of a novel
 for free. It's about submarines. Not nuclear submarines, or modern
 submarines, or any kind of submarine that actually existed. It is about
 _cargo_ submarines. In a mid-century Earth where, due to the economic
