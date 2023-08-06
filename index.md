@@ -9,6 +9,7 @@ title: By Sound Alone
 	* Download an [epub version](content/By-Sound-Alone_Mark-Torrey.epub)
 		* (Should work with all e-readers and e-reader software that are not Amazon Kindle) 
 	* Download a [mobi version](content/By-Sound-Alone_Mark-Torrey.mobi)
+		* (For Amazon Kindle) 
 * Is there a paper version?
 	* There will be very soon! [Contact me](https://grannycart.net/contact) if you are interested in purchasing a copy. I'll send details on how to purchase as soon as it becomes available.
 * Read it as [one really long unformatted webpage](content/) 
@@ -19,8 +20,7 @@ title: By Sound Alone
 	* Get the most up-to-date version of the novel.
 	* Check out this github repo for licensing information and development details.
 <center><img width="200" src="./content/.jpg"></center>
-* Not ready to commit to a whole book yet?
-	* Here's a short story set in the same universe, still plenty of submarine action:
+* Not ready to commit to a whole book yet? Here's a short story set in the same universe, still plenty of submarine action:
 	* [Untitled Short Story (13k words)](content/untitled-submarine-short-story.md)
 
 ## More information:
