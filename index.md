@@ -57,5 +57,6 @@ More detailed FAQ on its way!
 
 [//]: # (Eventually, when/if there is more than one story, this page should maybe be re-oriented towards the series, rather than the one book. Each story should just be part of this page.)
   
-<center><img width="200" src="./assets/images/Gnat-silhouwhite.png"></center>
+<center><img width="200" src="./assets/images/Gnat-silhowhite.png"></center>
+
 
