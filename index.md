@@ -4,21 +4,22 @@ title: By Sound Alone
 ---
 
 ## Read it:
-* Download a complete [pdf version](content/By-Sound-Alone.pdf)
+* Read it as [one really long unformatted webpage](content/By-Sound-Alone.html) 
 * E-book versions:
 	* Download an [epub version](content/By-Sound-Alone_Mark-Torrey.epub)
 		* (Should work with all e-readers and e-reader software that are not Amazon Kindle) 
 	* Download a [mobi version](content/By-Sound-Alone_Mark-Torrey.mobi)
 		* (For Amazon Kindle) 
-* Read it as [one really long unformatted webpage](content/By-Sound-Alone.html) 
-* Is there a paper version?
-	* There will be very soon! [Contact me](https://grannycart.net/contact) if you are interested in purchasing a copy. I'll send details on how to purchase as soon as it becomes available.
-* Reference diagrams of the protagonist submarines in the novel: [Submarine diagrams](content/standalone_sub-diagrams.pdf) [2023-08-05 -- needs updating]
+* Download a complete [pdf version](content/By-Sound-Alone.pdf)
+	* (No diagrams included; you can download them separately below.) 
+* Reference diagrams of the protagonist submarines in the novel: [Submarine diagrams](content/By-Sound-Alone_standalone_sub-diagrams.pdf)
 	* Extremely helpful for orientation. Keep the diagrams handy!
 * "Source code" for the novel (it's just markdown): [source code](http://github.com/grannycart/by-sound-alone_source/)
 	* Compile your own e-reader (epub) or pdf file to read!
 	* Get the most up-to-date version of the novel.
 	* Check out this github repo for licensing information and development details.
+* Is there a paper version?
+	* There will be very soon! [Contact me](https://grannycart.net/contact) if you are interested in purchasing a copy. I'll send details on how to purchase as soon as it becomes available.
 
 [//]: # ( <center><img width="200" src="./content/.jpg"></center> )
 * Not ready to commit to a whole book yet? Here's a short story I'm working on that is set in the same universe, still with plenty of submarine action:
@@ -56,5 +57,5 @@ More detailed FAQ on its way!
 
 [//]: # (Eventually, when/if there is more than one story, this page should maybe be re-oriented towards the series, rather than the one book. Each story should just be part of this page.)
   
-
+<center><img width="200" src="./assets/images/Gnat-silhouwhite.png"></center>
 
