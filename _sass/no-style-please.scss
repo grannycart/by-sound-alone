@@ -1,7 +1,7 @@
 html {
   color: #d0d0d0;
   background-color: #202020; /* dark gray, only for browsers that don't support gradients */
-  background-image: linear-gradient(#acacff 10%, #000000); /* blue to black gradient matches book cover. Blue only top 10% of page */
+  background-image: linear-gradient(#acacff 10%, 20%, #000000 90%); /* blue to black gradient matches book cover. Blue only top 10% of page */
   font-family: "Courier 10 Pitch", Courier, "Courier New", monospace;
   font-size: 1.3rem;
   line-height: 1.3;
