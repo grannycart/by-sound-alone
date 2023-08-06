@@ -21,7 +21,7 @@ title: By Sound Alone
 <center><img width="200" src="./content/.jpg"></center>
 * Not ready to commit to a whole book yet?
 	* Here's a short story set in the same universe, still plenty of submarine action:
-	* [Untitled Short Story (13k words)](./untitled-submarine-short-story.md)
+	* [Untitled Short Story (13k words)](content/untitled-submarine-short-story.md)
 
 ## More information:
 Above you can read a complete (118k+ words, 400+ pages) novel
