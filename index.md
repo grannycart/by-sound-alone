@@ -4,39 +4,27 @@ title: By Sound Alone
 ---
 
 ## Read it:
-* The title of this pre-release version of the  book: _An Untitled Novel With Some Submarines In It (pre-release version)_
-	* Working title for final version: _By Sound Alone_
-		* Former working title: ~~Under Dark~~
-	* Note **pre-release version**: the downloadable files are the book version of beta software.
-* Download a [pdf version](content/Subworldbook1+diagrams.pdf)
-* Download an [epub version](content/Subworldbook1.epub)
-	* (Should work with all e-readers and e-reader software) 
-* Read it as [one really long unformatted webpage](content/Subworldbook1.html) 
-* Reference diagrams of the protagonist submarines in the novel: [Submarine diagrams](content/standalone_sub-diagrams.pdf) 
+* Download a complete [pdf version](content/)
+* E-book versions:
+	* Download an [epub version](content/By-Sound-Alone_Mark-Torrey.epub)
+		* (Should work with all e-readers and e-reader software that are not Amazon Kindle) 
+	* Download a [mobi version](content/By-Sound-Alone_Mark-Torrey.mobi)
+* Is there a paper version?
+	* There will be very soon! [Contact me](https://grannycart.net/contact) if you are interested in purchasing a copy. I'll send details on how to purchase as soon as it becomes available.
+* Read it as [one really long unformatted webpage](content/) 
+* Reference diagrams of the protagonist submarines in the novel: [Submarine diagrams](content/standalone_sub-diagrams.pdf) [2023-08-05 -- needs updating]
 	* Extremely helpful for orientation. Keep the diagrams handy!
 * "Source code" for the novel (it's just markdown): [source code](http://github.com/grannycart/by-sound-alone_source/)
 	* Compile your own e-reader (epub) or pdf file to read!
 	* Get the most up-to-date version of the novel.
 	* Check out this github repo for licensing information and development details.
-* Is there a paper version?
-	* Yup. Contact me if you want an advance reader's copy:
-<center><img width="200" src="./content/sub-novel-cover-standing.jpg"></center>
+<center><img width="200" src="./content/.jpg"></center>
 * Not ready to commit to a whole book yet?
 	* Here's a short story set in the same universe, still plenty of submarine action:
 	* [Untitled Short Story (13k words)](./untitled-submarine-short-story.md)
 
 ## More information:
-**Update, May '23**: A major revision is nearing completion. The new
-version tightens up the story quite a bit (quantitatively, by more than
-20k words) and fixes some of the motivations of the central characters
-that nearly every test reader commented on. That is primarily to say
-that if you have stumbled on this page and are now considering reading
-this book, I urge you to hold off a few more weeks and wait for this
-revised (and potentially final) version to be published. The new version
-will also be under a Creative Commons license and will be free to
-download as an e-book.
-
-Above you can read a complete (118k+ words, 400+ pages) draft of a novel
+Above you can read a complete (118k+ words, 400+ pages) novel
 for free. It's about submarines. Not nuclear submarines, or modern
 submarines, or any kind of submarine that actually existed. It is about
 _cargo_ submarines. In a mid-century Earth where, due to the economic
@@ -46,7 +34,7 @@ trucking of cargo around the world. So: not exactly like other submarine
 stories you may have encountered. (Also, far more women are involved
 than the typical submarine story.)
 
-What's it like? 
+### What's it like? 
 
 Fundamentally, it's a cross between a 1960s submarine movie and a 1970s
 trucker movie. It's kind of a slurry of _Das Boot_, _Road Warrior_,
@@ -58,20 +46,6 @@ genre beyond that is maybe a little fuzzy. It is also an action-packed
 page-turner! It should be entertaining to read. If you find this isn't
 the case, you should probably let me know.
 
-In its current state it is a complete novel, though a pre-release
-draft. What does that mean? It is a whole story, and has been wholly
-edited by the author (me) but not an editor. Take from that what you
-will. There may be (almost certainly are) some spelling and grammar
-errors that need fixing, some parts that are overwritten, some parts
-that are underwritten, and maybe some parts that should be cut or
-moved around. But there should be no part where you are wondering to
-yourself "wait, what the fuck is going on here?" If you find yourself
-asking that, you should probably let me know.
-
-Since this is a pre-release, if you do read it, or even part
-of it, I would appreciate your feedback. If you don't know how to
-contact me through github, just email me: grannycart@protonmail.com.
-
 More detailed FAQ on its way!
 
 
@@ -79,7 +53,7 @@ More detailed FAQ on its way!
 
 [//]: # (Enable above link bank to grannycart only after grannycart is really built out as a serious thing. since I want to be able to send out the sub book link without sending out the grannycart link right at the moment.)
 
-[//]: # (Eventually, when/if there is more than one story, this page should be re-oriented towards the series, rather than the one book. Each story should just be part of this page.)
+[//]: # (Eventually, when/if there is more than one story, this page should maybe be re-oriented towards the series, rather than the one book. Each story should just be part of this page.)
   
 
 
