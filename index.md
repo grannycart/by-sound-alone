@@ -4,7 +4,7 @@ title: By Sound Alone
 ---
 
 ## Read it:
-* Read it as [one really long unformatted webpage](content/By-Sound-Alone.html) 
+* Read it as [one really long webpage](content/By-Sound-Alone.html) 
 * E-book versions:
 	* Download an [epub version](content/By-Sound-Alone_Mark-Torrey.epub)
 		* (Should work with all e-readers and e-reader software that are not Amazon Kindle) 
@@ -14,10 +14,6 @@ title: By Sound Alone
 	* (No diagrams included; you can download them separately below.) 
 * Reference diagrams of the protagonist submarines in the novel: [Submarine diagrams](content/By-Sound-Alone_standalone_sub-diagrams.pdf)
 	* Extremely helpful for orientation. Keep the diagrams handy!
-* "Source code" for the novel (it's just markdown): [source code](http://github.com/grannycart/by-sound-alone_source/)
-	* Compile your own e-reader (epub) or pdf file to read!
-	* Get the most up-to-date version of the novel.
-	* Check out this github repo for licensing information and development details.
 * Is there a paper version?
 	* There will be very soon! [Contact me](https://grannycart.net/contact) if you are interested in purchasing a copy. I'll send details on how to purchase as soon as it becomes available.
 
@@ -50,6 +46,11 @@ the case, you should probably let me know.
 
 More detailed FAQ on its way!
 
+### "Source code" for the novel 
+* (it's just markdown): [source code](http://github.com/grannycart/by-sound-alone_source/)
+* Compile your own e-reader (epub) or pdf file to read!
+* Get the most up-to-date version of the novel.
+* Check out this github repo for licensing information and development details.
 
 [//]: # ([Back to grannycart.net for more stuff](http://grannycart.net/).)
 
