@@ -32,8 +32,7 @@ trucking of cargo around the world. So: not exactly like other submarine
 stories you may have encountered. (Also, far more women are involved
 than the typical submarine story.)
 
-* Questions? Comments? Want to be added to my mailing list?
-	* [Contact me](https://grannycart.net/contact)
+* Questions? Comments? Want to be added to my mailing list? **[Contact me](https://grannycart.net/contact)**
 
 ### What's it like? 
 
