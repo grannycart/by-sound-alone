@@ -32,8 +32,6 @@ trucking of cargo around the world. So: not exactly like other submarine
 stories you may have encountered. (Also, far more women are involved
 than the typical submarine story.)
 
-* Questions? Comments? Want to be added to my mailing list? **[Contact me](https://grannycart.net/contact)**
-
 ### What's it like? 
 
 Fundamentally, it's a cross between a 1960s submarine movie and a 1970s
@@ -61,5 +59,7 @@ More detailed FAQ on its way!
 [//]: # (Eventually, when/if there is more than one story, this page should maybe be re-oriented towards the series, rather than the one book. Each story should just be part of this page.)
   
 <center><img src="assets/images/Gnat-silhowhite.png"></center>
+
+#### Questions? Comments? Want to be added to my mailing list? **[Contact me](https://grannycart.net/contact)**
 
 
