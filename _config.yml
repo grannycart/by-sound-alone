@@ -3,7 +3,7 @@ author: Mark Torrey # name of site's author
 email: grannycart@protonmail.com # email of site's author
 url: https://grannycart.net # root address of the site
 baseurl: "/by-sound-alone" # subpath of the site, e.g. "/blog" (leave it blank "" if your site shouldn't use a subpath)
-description: A novel with submarines in it. Also a pigeon.
+description: A novel with some submarines. Also a pigeon.
 
 # permalink: /:slug.html
 
