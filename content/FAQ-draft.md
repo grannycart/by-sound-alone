@@ -5,6 +5,12 @@ title: Submarine novel FAQ
 
 # Frequently(?) Asked Questions
 
+## What's it like, in one line?
+I like to say: "like a cross between a 1970s trucker movie and a 1960s submarine movie." But that probably only appeals to a small slice of a certain kind of Gen-X dude.
+
+More than one reader has said: "Like Serenity on a submarine." (Note: I've never seen Serenity, and only a couple of episodes of Firefly. Make of that what you will.)
+
+
 ## Not really a question, more of an order: convince me to read this book.
 Action packed. Fun to read.
 
