@@ -30,11 +30,19 @@ Needs a new genre label: grimepunk?
 Absolutely! Try starting here: [link to chapter... 6? stilt city? maybe directly to file on Github repo?]
 
 
+## What year would you say the submarine from the book is?
+Technology-wise, the book is set in the mid-20th Century. Submarines technology hit a sweet spot around then, when they were efficient underwater, but still diesel and required time on the surface to recharge. WWII subs were basically ships that could submerge, and were limited to only a few hundred feet of depth. Diesel subs on the other hand rarely have to surface and in terms of technology are essentially magic.
+
+
 ## I found a mistake.
 Please submit any grammatical or technical mistakes on [my contact page](https://grannycart.net/contact).
 I welcome your corrections. 
 
-For technical corrections: please explain your reasoning behind why you think I got some technical aspect wrong. Try to remember it _is_ fiction, and just a _tiny_ bit it technical leeway should be allowed, particularly if it contributes to dramatic tension. On the other hand, I really want the book to carry a _lot_ of technical/mechanical precision, because I think that _contributes_ to the dramatic tension in a way that made-up stuff (usually) does not.
+For technical corrections: please explain your reasoning behind why you think I got some technical aspect wrong, and cite sources where appropriate. Technical aspects of the book should conform to the limits of mid-20th Century technology (so I do not care what the capabilities of modern subs are, and while I would love to hear a story about your grandfather's experience on a WWII sub, the technical limitations he may have experienced are too old to be relevant). 
+
+A good technical correction would be pointing out a spot where the story violates the laws of physics (no citation required). Another example would be identifying a place where a submarine performs a maneuver that would be unlikely or impossible for a sub of the time (exceeding depth limit, say), and you include a citation of the specs of a specific submarine that existed in real life. (US Submarines Since 1945 is a good reference, if you can find a copy. It was a primary source for much of the information in the book. The hull shape of the _Prospect_ was based on the USS _Whatever-it-was_)
+
+Try to remember it _is_ fiction, and just a _tiny_ bit it technical leeway should be allowed, particularly if it contributes to dramatic tension. On the other hand, I really want the book to carry a _lot_ of technical/mechanical precision, because I think that _contributes_ to the dramatic tension in a way that made-up stuff (usually) does not.
 
 If you know how to work Github, feel free to fork the project, fix it yourself, and send me a pull request.
 
