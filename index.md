@@ -11,7 +11,6 @@ title: By Sound Alone
 	* Download a [mobi version](content/By-Sound-Alone_Mark-Torrey.mobi)
 		* (For Amazon Kindle) 
 * Download a complete [pdf version](content/By-Sound-Alone_Mark-Torrey.pdf)
-	* (No diagrams included; you can download them separately below.) 
 * Reference diagrams of the protagonist submarines in the novel: [Submarine diagrams](content/By-Sound-Alone_standalone_sub-diagrams.pdf)
 	* Extremely helpful for orientation. Keep the diagrams handy!
 * Is there a paper version?
@@ -40,7 +39,7 @@ _Deadliest Catch_, and _Smokey and the Bandit_. Maybe with some _China
 Syndrome_ and _Jaws_ thrown in. (Though the latter's similarity is in
 tone only --- there's no sharks in the book. Sorry.) It is undoubtedly
 speculative fiction --- but not _science_ fiction. What more specific
-genre beyond that is maybe a little fuzzy. It is also an action-packed
+genre beyond that is maybe a little fuzzy. But it is also an action-packed
 page-turner! It should be entertaining to read. If you find this isn't
 the case, you should probably let me know.
 
