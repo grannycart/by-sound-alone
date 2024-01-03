@@ -43,6 +43,8 @@ genre beyond that is maybe a little fuzzy. But it is also an action-packed
 page-turner! It should be entertaining to read. If you find this isn't
 the case, you should probably let me know.
 
+[//]: # (Should What's it like be more like the back cover text? The surface of the ocean has become a contested place. International shipping is forced undersea, carried out by submarines fitted for transporting cargo. Captain Sylvia Percy and her small crew run one such boat, the Prospect. They fight a daily battle to keep their rusting sub from dropping into the depths. It's just another grimy job until they find themselves pursued by a military submarine driven by some inexplicable violent purpose. To survive, the crew of the Prospect push the machine that is their home to the very edge of its capabilities, while still trying to make their delivery on time. With a heritage that is equal parts 1960s submarine movie and 1970s trucker movie, By Sound Alone revels in the power of confined spaces and the dangerous operations that have always been the meat of compelling submarine stories. But it also breaks new ground with a setting of a fictional world where submarines are a critical part of global logistics networks. Derived from science fiction themes but never deviating from a commitment to realistic mid-century submarine mechanics and operations, this story propels a page-turner of a plot through a cinematic environment from which you will not want to surface.)
+
 More detailed FAQ on its way!
 
 ### "Source code" for the novel 
