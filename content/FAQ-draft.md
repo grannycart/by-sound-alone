@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Submarine novel FAQ
+title: _By Sound Alone_ FAQ
 ---
 
 # Frequently(?) Asked Questions
@@ -27,11 +27,11 @@ Needs a new genre label: grimepunk?
 
 
 ## Can I get a sample to see if I like it?
-Absolutely! Try starting here: [link to chapter... 6? stilt city? maybe directly to file on Github repo?]
+Absolutely! Try starting here: [link to chapter... 6? stilt city? maybe directly to file on Github repo? Or dig out chap 1 sample for B&N from trash?]
 
 
-## What year would you say the submarine from the book is?
-Technology-wise, the book is set in the mid-20th Century. Submarines technology hit a sweet spot around then, when they were efficient underwater, but still diesel and required time on the surface to recharge. WWII subs were basically ships that could submerge, and were limited to only a few hundred feet of depth. Diesel subs on the other hand rarely have to surface and in terms of technology are essentially magic.
+## If the submarine in the book was real, what year would it be from? Or, when would the technology in the book have been used in real life?
+Technology-wise, the book is set in the mid-20th Century. Submarine technology hit a sweet spot around then. They were efficient underwater and achieving impressive technological feats, but still had diesel engines and required time on the surface to recharge. WWII subs were basically surface ships that had the ability to submerge, but limited to only a few hundred feet of depth. Nuclear subs, on the other end of the spectrum, rarely have to surface and, in terms of technology, are essentially magic.
 
 
 ## Can you tell me more about the "world" this story takes place in?
@@ -82,7 +82,7 @@ Anyway, _this_ book will remain available in both its final form and with the en
 
 
 ## Is this book free? What license is it released under?
-See the [LICENCE.txt](../LICENCE.txt) file.
+See the [LICENCE](https://grannycart.net/by-sound-alone/content/By-Sound-Alone_Mark-Torrey.html#license).
 
 
 
