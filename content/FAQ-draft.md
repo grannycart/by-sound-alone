@@ -82,7 +82,7 @@ Anyway, _this_ book will remain available in both its final form and with the en
 
 
 ## Is this book free? What license is it released under?
-See the [LICENCE](https://grannycart.net/by-sound-alone/content/By-Sound-Alone_Mark-Torrey.html#license).
+See the [LICENCE](https://bysoundalone.net/content/By-Sound-Alone_Mark-Torrey.html#license).
 
 
 

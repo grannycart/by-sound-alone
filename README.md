@@ -3,7 +3,7 @@
 * By 
 
 ## This repo:
-* Contains the github pages source for the Subworld stories series (title still TBD)
+* Contains the github pages source for the novel _By Sound Alone_
 
 ## Credits:
 * Pigeon graphic credit. Source: https://commons.wikimedia.org/wiki/File:201907_DomesticPigeon.svg
