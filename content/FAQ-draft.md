@@ -85,4 +85,8 @@ Anyway, _this_ book will remain available in both its final form and with the en
 See the [LICENCE](https://bysoundalone.net/content/By-Sound-Alone_Mark-Torrey.html#license).
 
 
+## What software did you use to write this book?
+Exclusively open-source stuff. (See list from Licence file). Plus pdftk.
+
+
 
