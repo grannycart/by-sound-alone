@@ -14,11 +14,11 @@ title: By Sound Alone
 * Reference diagrams of the protagonist submarines in the novel: [Submarine diagrams](content/By-Sound-Alone_standalone_sub-diagrams.pdf)
 	* Extremely helpful for orientation. Keep the diagrams handy!
 * Is there a paper version?
-	* There will be very soon! [Contact me](https://grannycart.net/contact) if you are interested in purchasing a copy. I'll send details on how to purchase as soon as it becomes available.
+	* Sure, you can buy a paper copy from Barnes & Noble print-on-demand: 
+		* [https://www.barnesandnoble.com/w/by-sound-alone-mark-torrey/1144572566](https://www.barnesandnoble.com/w/by-sound-alone-mark-torrey/1144572566)
+	* You desperately want to read it on paper, but can't afford $12? [Contact me](https://grannycart.net/contact) and tell me why you want to read it. I'll buy you a copy.
 
-[//]: # ( <center><img width="200" src="./content/.jpg"></center> )
-* Not ready to commit to a whole book yet? Here's a short story I'm working on that is set in the same universe, still with plenty of submarine action:
-	* [Untitled Short Story (13k words)](content/untitled-submarine-short-story.md)
+[//]: # (Removed this bullet 2024-01-13: Not ready to commit to a whole book yet? Here's a short story I'm working on that is set in the same universe, still with plenty of submarine action: Untitled Short Story 13k wordscontent/untitled-submarine-short-story.md)
 
 ## More information:
 Above you can read a complete (118k+ words, 400+ pages) novel
@@ -49,9 +49,7 @@ More detailed FAQ on its way!
 
 ### "Source code" for the novel 
 * (it's just markdown): [source code](http://github.com/grannycart/by-sound-alone_source/)
-* Compile your own e-reader (epub) or pdf file to read!
-* Get the most up-to-date version of the novel.
-* Check out this github repo for licensing information and development details.
+* (Only useful if you really want to get into the nitty-gritty of how the book came together for some reason, or you want to compile your own pdf/e-book version with custom formatting or something.)
 
 [//]: # ([Back to grannycart.net for more stuff](http://grannycart.net/).)
 
