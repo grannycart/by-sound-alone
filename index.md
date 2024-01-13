@@ -3,6 +3,8 @@ layout: home
 title: By Sound Alone
 ---
 
+<center><img src="assets/images/surface-waves.png"></center>
+
 ## Read it:
 * Read it as [one really long webpage](content/By-Sound-Alone_Mark-Torrey.html) 
 * E-book versions:
