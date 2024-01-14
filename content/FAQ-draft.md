@@ -1,9 +1,8 @@
 ---
 layout: page
-title: "By Sound Alone" FAQ
 ---
 
-# Frequently(?) Asked Questions
+# _By Sound Alone_ Frequently(?) Asked Questions
 
 ## What's it like, in one line?
 I like to say: "like 1970s trucker culture crossed with a 1960s submarine movie." But that probably only appeals to a small slice of a certain kind of Gen-X dude.
