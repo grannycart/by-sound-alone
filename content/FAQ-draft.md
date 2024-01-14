@@ -20,8 +20,8 @@ Probably the only book you'll ever read with a pigeon and a submarine.
 ## What genre is it exactly?
 Speculative fiction, for sure.
 Not a traditional submarine novel.
-Not alternate history exactly (Hitler doesn't win the war)
-Hard to pin down exactly.
+Not alternate history exactly (Hitler doesn't win the war).
+Hard to pin down precisely.
 
 Needs a new genre label: grimepunk?
 
@@ -58,11 +58,9 @@ For now, try the short story [link].
 
 
 ## Can I support your work with money?
-A nice thought. But how about sending your money to [The Worker's Justice Project](http://www.workersjustice.org/) instead?
+A nice thought, thanks! But I am committed to keeping this book free.
 
-But more importantly, get someone else to read it. Julian Barnes talks about how someone, someday will be the last person to read his book. I'd be a lot happier if for my book that person was not you.
-
-Also get on the mailing list! (Link to why you should get on mailing lists.)
+Instead, see: [Three things to do if you enjoy this book](what-to-do-if-you-enjoyed-the-book).
 
 
 ## Is this book published by a legit publisher?
