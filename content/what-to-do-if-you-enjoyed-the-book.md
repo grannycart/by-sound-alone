@@ -1,7 +1,4 @@
-\newpage
 
-<div style="page-break-before:always;"></div>  
-  
 [//]: # (./what-to-do-if-you-enjoyed-the-book.md)
 
 [//]: # (This page is just copied from the manuscript directory of the source repo)

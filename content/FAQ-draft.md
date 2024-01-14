@@ -1,6 +1,6 @@
 ---
 layout: page
-title: _By Sound Alone_ FAQ
+title: "By Sound Alone" FAQ
 ---
 
 # Frequently(?) Asked Questions
@@ -27,10 +27,10 @@ Needs a new genre label: grimepunk?
 
 
 ## Can I get a sample to see if I like it?
-Absolutely! Try starting here: [link to chapter... 6? stilt city? maybe directly to file on Github repo? Or dig out chap 1 sample for B&N from trash?]
+Meh. Just download the whole book. What, are you trying to save like half a meg of space?
 
 
-## If the submarine in the book was real, what year would it be from? Or, when would the technology in the book have been used in real life?
+## If the submarines in the book were real, what year would they be from? Or, when would the technology in the book have been used in real life?
 Technology-wise, the book is set in the mid-20th Century. Submarine technology hit a sweet spot around then. They were efficient underwater and achieving impressive technological feats, but still had diesel engines and required time on the surface to recharge. WWII subs were basically surface ships that had the ability to submerge, but limited to only a few hundred feet of depth. Nuclear subs, on the other end of the spectrum, rarely have to surface and, in terms of technology, are essentially magic.
 
 
@@ -48,19 +48,19 @@ A good technical correction would be pointing out a spot where the story violate
 
 Try to remember it _is_ fiction, and just a _tiny_ bit it technical leeway should be allowed, particularly if it contributes to dramatic tension. On the other hand, I really want the book to carry a _lot_ of technical/mechanical precision, because I think that _contributes_ to the dramatic tension in a way that made-up stuff (usually) does not.
 
-If you know how to use Github, feel free to fork the project, fix it yourself, and send me a pull request.
+If you know how to use Github, feel free to [fork the project](https://github.com/grannycart/by-sound-alone_source), fix it yourself, and send me a pull request.
 
 
 ## I love this submarine world you created and I want to spend more time there! Will there be a sequel?
 I have extensive notes for a second book.
 I need time to write it though.
-For now, try the short story [link].
+If you really want more right now, I've been working on an in-world [short story](./untitled-submarine-short-story) (about 13k words) set on the _Prospect_ with the same characters.
 
 
 ## Can I support your work with money?
-A nice thought, thanks! But I am committed to keeping this book free.
+A nice thought, I'm flattered! Thanks! But I am committed to keeping this book free.
 
-Instead, see: [Three things to do if you enjoy this book](what-to-do-if-you-enjoyed-the-book).
+For other places you can send your money, see: [Three things to do if you enjoy this book](what-to-do-if-you-enjoyed-the-book).
 
 
 ## Is this book published by a legit publisher?
@@ -77,6 +77,18 @@ Point is, I think it's a better book _because_ it's not "published." I regret th
 In the near future all books will be made with a process like this. (If not with Git, then with some type of version control at least.) But, unless the cultural values of authors and readers shift radically, you probably will only have access to the worthless copies, not to the original archive of the work being created. Even though technology makes it so it would basically cost nothing for authors to embrace transparency and let readers see their process, authors are still more likely to want to keep the process closed and pipe their final product through an increasingly-irrelevant publishing industry. Capitalism doesn't slip away easily.
 
 Anyway, _this_ book will remain available in both its final form and with the entire process in place. Maybe nobody cares. Maybe someday someone will want to pick all those git commits apart to see how the book came together. Doesn't really matter. The process is included because it's just so _easy_ for it to be there.
+
+
+## What's with all the F-bombs?
+Heyyyy, fuck you for asking. No, that's fine, it's a fair question. 
+
+There's a number of reasons I wanted to include a lot of swearing, but the main reason is that I just wanted the dialog to _sound_ the way people actually talk. Particularly working class folks isolated together for weeks on end. I think most fiction writers prefer to save the swearing for when it can have some impact (subtle spoiler: you might note that I chose to _drop_ the swearing for the most impactful parts of _By Sound Alone_). Saving swears for drama allows writers to feel like they are doing "proper" writing, as they may have learned in school. It also conveniently saves them from alienating the portion of their potential audience that might skip their book if it includes a bunch of swearing characters. 
+
+Well, since I'm not trying to _sell_ books, I don't particularly care if prudes skip my book. But more importantly, I think the tendency towards "proper" writing is also a tendency to turn away from the way people actually talk. (I also think the "proper" use of commas in dialog often undermines the sound of actual language. If you see a comma missing in dialog while reading _By Sound Alone_, it was probably a deliberate choice. Try re-reading the line the way it is on the page and see if it sounds better to your ear!)
+
+And then my dirty secret is that I hoped a lot of swearing would be a cheap way to make the book feel grittier. I'm not sure I succeeded with this tactic, as a result there's about 20% less swearing in the final version than in early drafts.
+
+Look, if you really want to read the book and the swearing bothers you, feel free to [modify the text](https://github.com/grannycart/by-sound-alone_source) to make your own clean version and publish it! (Though note: it would have to be under the same Creative Commons non-commercial license --- don't think you can make money doing this.) That's the beauty of the open-source model.
 
 
 ## Is this book free? What license is it released under?
