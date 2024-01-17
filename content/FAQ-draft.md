@@ -1,6 +1,6 @@
 ---
 layout: page
-title: By Sound Alone: Frequently(?) Asked Questions
+title: By Sound Alone -- Frequently(?) Asked Questions
 goat_counter: "bysoundalone" 
 ---
 
