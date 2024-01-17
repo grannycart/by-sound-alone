@@ -13,7 +13,6 @@ goat_counter: "bysoundalone"
 
 --------------------------------------------------------------------------------
 
-## 
 
 1. If you only do one thing, pass the book on! Julian Barnes points out that for every book somebody, somewhere, someday will be the last reader of that book. _Please_ don't be my last reader! I don't need your money, or love, or nomination for a MacArthur grant. All I need is for you to pass on your copy of this book to someone else. Hopefully with at least as much of an endorsement as "Well, you know, it's worth a read."
 
