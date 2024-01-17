@@ -17,7 +17,7 @@ title: By Sound Alone
 	* Sure, you can buy a paper copy from Barnes & Noble print-on-demand: 
 		* [https://www.barnesandnoble.com/w/by-sound-alone-mark-torrey/1144572566](https://www.barnesandnoble.com/w/by-sound-alone-mark-torrey/1144572566)
 	* You desperately want to read it on paper, but can't afford $12? [Contact me](https://grannycart.net/contact) and tell me why you want to read it. I'll buy you a copy.
-* [3 things to do if you enjoyed the book](content/)
+* [3 things to do if you enjoyed the book](content/what-to-do-if-you-enjoyed-the-book)
 
 [//]: # (Removed this bullet 2024-01-13: Not ready to commit to a whole book yet? Here's a short story I'm working on that is set in the same universe, still with plenty of submarine action: Untitled Short Story 13k wordscontent/untitled-submarine-short-story.md)
 
