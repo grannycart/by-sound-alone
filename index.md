@@ -4,14 +4,14 @@ title: By Sound Alone
 ---
 
 ## Read it:
-* Read it as [one really long webpage](content/By-Sound-Alone_Mark-Torrey.html) 
+* Read it as [one really long webpage](content/html-download.html) 
 * E-book versions:
-	* Download an [epub version](content/By-Sound-Alone_Mark-Torrey.epub)
+	* Download an [epub version](content/epub-download.html)
 		* (Should work with all e-readers and e-reader software that are not Amazon Kindle) 
-	* Download a [mobi version](content/By-Sound-Alone_Mark-Torrey.mobi)
+	* Download a [mobi version](content/mobi-download.html)
 		* (For Amazon Kindle) 
 * Download a complete [pdf version](content/pdf-download.html)
-* Reference diagrams of the protagonist submarines in the novel: [Submarine diagrams](content/By-Sound-Alone_standalone_sub-diagrams.pdf)
+* Reference diagrams of the protagonist submarines in the novel: [Submarine diagrams](content/diagrams-download.html)
 	* Extremely helpful for orientation. Keep the diagrams handy!
 * Is there a paper version?
 	* Sure, you can buy a paper copy from Barnes & Noble print-on-demand: 
