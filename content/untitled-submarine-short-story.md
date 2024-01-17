@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Untitled Submarine Short Story
+goat_counter: "bysoundalone" 
 ---
 
 [//]: # (from: commit 3a7696c6afd0afc8bf5d55f77d8bfefb508d2038)
