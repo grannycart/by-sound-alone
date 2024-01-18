@@ -15,7 +15,7 @@ title: By Sound Alone
 	* Extremely helpful for orientation. Keep the diagrams handy!
 * Is there a paper version?
 	* Sure, you can buy a paper copy from Barnes & Noble print-on-demand: 
-		* [https://www.barnesandnoble.com/w/by-sound-alone-mark-torrey/1144572566](content/paper-link.html)
+		* [https://www.barnesandnoble.com/w/by-sound-alone-mark-torrey/1144572566](content/paper-link.html) (ISBN: 9798855697933)
 	* You desperately want to read it on paper, but can't afford $12? [Contact me](https://grannycart.net/contact) and tell me why you want to read it. I'll buy you a copy.
 * [3 things to do if you enjoyed the book](content/what-to-do-if-you-enjoyed-the-book)
 
