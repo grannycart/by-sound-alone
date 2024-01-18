@@ -91,6 +91,10 @@ And then my dirty secret is that I hoped a lot of swearing would be a cheap way 
 Look, if you really want to read the book and the swearing bothers you, feel free to [modify the text](https://github.com/grannycart/by-sound-alone_source) to make your own clean version and publish it! (Though note: it would have to be under the same Creative Commons non-commercial license --- don't think you can make money doing this.) That's the beauty of the open-source model.
 
 
+## Why did you want to write a submarine story?
+This is a whole essay unto itself. See: [Why write a submarine story?](why-write-a-submarine-story)
+
+
 ## Is this book free? What license is it released under?
 See the [LICENCE](https://bysoundalone.net/content/By-Sound-Alone_Mark-Torrey.html#license).
 
