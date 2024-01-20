@@ -4,19 +4,20 @@ title: By Sound Alone
 ---
 
 ## Read it:
-* Read it as [one really long webpage](content/html-download.html) 
-* E-book versions:
-	* Download an [epub version](content/epub-download.html)
+* Read it as [one really long webpage](content/html-download.html) (complete book)
+* E-book versions (one-click downloads, complete book, free and non-commercial):
+	* [epub version](content/epub-download.html)
 		* (Should work with all e-readers and e-reader software that are not Amazon Kindle) 
-	* Download a [mobi version](content/mobi-download.html)
+	* [mobi version](content/mobi-download.html)
 		* (For Amazon Kindle) 
-* Download a complete [pdf version](content/pdf-download.html)
+* [pdf version](content/pdf-download.html) (complete book)
 * Reference diagrams of the protagonist submarines in the novel: [Submarine diagrams](content/diagrams-download.html)
 	* Extremely helpful for orientation. Keep the diagrams handy!
 * Is there a paper version?
 	* Sure, you can buy a paper copy from Barnes & Noble print-on-demand: 
 		* [https://www.barnesandnoble.com/w/by-sound-alone-mark-torrey/1144572566](content/paper-link.html) (ISBN: 9798855697933)
-        * ($12 + shipping --- that was the minimum B&N would let me charge. The e-book is available for Nook for free on the B&N site too)
+        * ($12 + shipping --- that was the minimum B&N would let me charge.) 
+        * The [e-book is available for Nook for free](https://www.barnesandnoble.com/w/by-sound-alone-mark-torrey/1144572566?ean=2940185641675) on the B&N site, too.
 	* You desperately want to read it on paper, but can't afford $12? [Contact me](https://grannycart.net/contact) and tell me why you want to read it. I'll buy you a copy.
 * [3 things to do if you enjoyed the book](content/what-to-do-if-you-enjoyed-the-book)
 
@@ -55,9 +56,9 @@ More detailed FAQ on its way!
 
 [//]: # ([Back to grannycart.net for more stuff](http://grannycart.net/).)
 
-[//]: # (Enable above link bank to grannycart only after grannycart is really built out as a serious thing. since I want to be able to send out the sub book link without sending out the grannycart link right at the moment.)
+[//]: # (Enable above link back to grannycart only after grannycart is really built out as a serious thing. since I want to be able to send out the sub book link without sending out the grannycart link right at the moment.)
 
-[//]: # (Eventually, when/if there is more than one story, this page should maybe be re-oriented towards the series, rather than the one book. Each story should just be part of this page.)
+[//]: # (Eventually, when/if there is more than one story, this page should maybe be re-oriented towards the series, rather than the one book. Each story should just be part of this page, maybe. Depending on how the titles end up of course.)
   
 <center><img src="assets/images/Gnat-silhowhite.png"></center>
 
