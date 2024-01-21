@@ -15,6 +15,7 @@
 * Original [vector pigeon graphic](assets/images/pigeon-logo_vector.png) credit. Source: https://commons.wikimedia.org/wiki/File:201907_DomesticPigeon.svg
     * (still in repo, no longer used in a published way)
 	* License for pigeon graphic: https://creativecommons.org/licenses/by/4.0/deed.en 
+* Site uses the no-style-please theme released under an MIT license: https://github.com/riggraz/no-style-please
 
 ## License:
 * This pre-release version of this book is under a CC license:
