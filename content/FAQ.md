@@ -1,6 +1,6 @@
 ---
 layout: page
-title: By Sound Alone --- Questions That Might Be Asked
+title: By Sound Alone — Questions That Might Be Asked
 goat_counter: "bysoundalone" 
 ---
 
