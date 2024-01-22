@@ -10,7 +10,7 @@ Let's set aside the trope of the mysterious genius author who we know little abo
 
 I would like to see the  punk-rock DIY aesthetic brought into modern writing. Along with that, I'd like to see writing judged more on its own merits than on some credential list. What is that but giving yourself over to someone else's authority? 
 
-Worse yet, is the use of the author bio as a way to project the reader's own fantasies about what their life might be onto the author -- as a way to sell books, no less. The attractive, stylish author in the headshot on the back of the book. The "a writer living in Brooklyn" in the italicized bio blurb. The ivy league educations and the privilege of having the time in life to write a novel because someone else has paid the expenses of living. I'm putting my foot down. It has got to be stopped. It ends here.
+Worse yet, is the use of the author bio as a way to project the reader's own fantasies about what their life might be onto the author -- as a way to sell books, no less. The attractive, stylish author in the headshot on the back of the book. The "a writer living in Brooklyn" in the italicized bio blurb. The ivy league educations and the privilege of having the time in life to write a novel because someone else has paid the expenses of living. I'm putting my foot down. It has got to be stopped. It ends here. Or, since trying to stop this is a real pissing-into-the-wind move, it's just not going to continue right here.
 
 ----------------------------------------
 
