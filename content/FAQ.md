@@ -4,22 +4,22 @@ title: By Sound Alone — Questions That Might Be Asked
 goat_counter: "bysoundalone" 
 ---
 
-* [What's it like, in one line?](#Whats-it-like-in-one-line)
-* [Not really a question, more of an order: convince me to read this book without wasting my time.](#Not-really-a-question-more-of-an-order-convince-me-to-read-this-book-without-wasting-my-time)
-* [What genre is it exactly?](#What-genre-is-it-exactly)
-* [Can I get a sample to see if I like it?](#Can-I-get-a-sample-to-see-if-I-like-it)
-* [If the submarines in the book were real, what year would they be from? Or, when would the technology in the book have been used in real life?](#If-the-submarines-in-the-book-were-real-what-year-would-they-be-from-Or-when-would-the-technology-in-the-book-have-been-used-in-real-life)
-* [Can you tell me more about the "world" this story takes place in?](#Can-you-tell-me-more-about-the-world-this-story-takes-place-in)
-* ["Cinematic," you say?](#Cinematic-you-say)
-* [What's with all the F-bombs?](#Whats-with-all-the-F-bombs)
-* [I found a mistake, want to know about it?](#I-found-a-mistake-want-to-know-about-it)
-* [I love this submarine world you created and I want to spend more time there! Will there be a sequel?](#I-love-this-submarine-world-you-created-and-I-want-to-spend-more-time-there-Will-there-be-a-sequel)
-* [Can I support your work with money?](#Can-I-support-your-work-with-money)
-* [Is this book published by a legit publisher?](#Is-this-book-published-by-a-legit-publisher)
-* [Now tell me how you really feel about "legit" book publishing](#Now-tell-me-how-you-really-feel-about-legit-book-publishing)
-* [Why did you want to write a submarine story?](#Why-did-you-want-to-write-a-submarine-story)
-* [Is this book free? What license is it released under?](#Is-this-book-free-What-license-is-it-released-under)
-* [What software did you use to create this book?](#What-software-did-you-use-to-create-this-book)
+* [What's it like, in one line?](#whats-it-like-in-one-line)
+* [Not really a question, more of an order: convince me to read this book without wasting my time.](#not-really-a-question-more-of-an-order-convince-me-to-read-this-book-without-wasting-my-time)
+* [What genre is it exactly?](#what-genre-is-it-exactly)
+* [Can I get a sample to see if I like it?](#can-i-get-a-sample-to-see-if-i-like-it)
+* [If the submarines in the book were real, what year would they be from? Or, when would the technology in the book have been used in real life?](#if-the-submarines-in-the-book-were-real-what-year-would-they-be-from-or-when-would-the-technology-in-the-book-have-been-used-in-real-life)
+* [Can you tell me more about the "world" this story takes place in?](#can-you-tell-me-more-about-the-world-this-story-takes-place-in)
+* ["Cinematic," you say?](#cinematic-you-say)
+* [What's with all the F-bombs?](#whats-with-all-the-F-bombs)
+* [I found a mistake, want to know about it?](#i-found-a-mistake-want-to-know-about-it)
+* [I love this submarine world you created and I want to spend more time there! Will there be a sequel?](#i-love-this-submarine-world-you-created-and-i-want-to-spend-more-time-there-will-there-be-a-sequel)
+* [Can I support your work with money?](#can-i-support-your-work-with-money)
+* [Is this book published by a legit publisher?](#is-this-book-published-by-a-legit-publisher)
+* [Now tell me how you really feel about "legit" book publishing](#now-tell-me-how-you-really-feel-about-legit-book-publishing)
+* [Why did you want to write a submarine story?](#why-did-you-want-to-write-a-submarine-story)
+* [Is this book free? What license is it released under?](#is-this-book-free-what-license-is-it-released-under)
+* [What software did you use to create this book?](#what-software-did-you-use-to-create-this-book)
 
 
 ----------------------------------------
