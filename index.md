@@ -20,7 +20,6 @@ title: By Sound Alone
         * The [e-book is available for Nook for free](https://www.barnesandnoble.com/w/by-sound-alone-mark-torrey/1144572566?ean=2940185641675) on the B&N site, too.
 	* You desperately want to read it on paper, but can't afford $12? [Contact me](https://grannycart.net/contact) and tell me why you want to read it. I'll buy you a copy.
 * [3 things to do if you enjoyed the book](content/what-to-do-if-you-enjoyed-the-book)
-* [About the author](content/about-the-author) (I promise you will be disappointed.)
 
 [//]: # (Removed this bullet 2024-01-13: Not ready to commit to a whole book yet? Here's a short story I'm working on that is set in the same universe, still with plenty of submarine action: Untitled Short Story 13k wordscontent/untitled-submarine-short-story.md)
 
@@ -50,7 +49,8 @@ the case, you should probably let me know.
 [//]: # (Should What's it like be more like the back cover text? The surface of the ocean has become a contested place. International shipping is forced undersea, carried out by submarines fitted for transporting cargo. Captain Sylvia Percy and her small crew run one such boat, the Prospect. They fight a daily battle to keep their rusting sub from dropping into the depths. It's just another grimy job until they find themselves pursued by a military submarine driven by some inexplicable violent purpose. To survive, the crew of the Prospect push the machine that is their home to the very edge of its capabilities, while still trying to make their delivery on time. With a heritage that is equal parts 1960s submarine movie and 1970s trucker movie, By Sound Alone revels in the power of confined spaces and the dangerous operations that have always been the meat of compelling submarine stories. But it also breaks new ground with a setting of a fictional world where submarines are a critical part of global logistics networks. Derived from science fiction themes but never deviating from a commitment to realistic mid-century submarine mechanics and operations, this story propels a page-turner of a plot through a cinematic environment from which you will not want to surface.)
 
 ### Tell me more
-(Much) more info in the [FAQ](content/FAQ).
+* (Much) more info in the [FAQ](content/FAQ).
+* [About the author](content/about-the-author) (I promise you will be disappointed.)
 
 ### "Source code" for the novel 
 * (it's just markdown): [source code](http://github.com/grannycart/by-sound-alone_source/)
