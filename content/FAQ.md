@@ -4,6 +4,26 @@ title: By Sound Alone — Questions That Might Be Asked
 goat_counter: "bysoundalone" 
 ---
 
+* [What's it like, in one line?](#Whats-it-like-in-one-line)
+* [Not really a question, more of an order: convince me to read this book without wasting my time.](#Not-really-a-question-more-of-an-order-convince-me-to-read-this-book-without-wasting-my-time)
+* [What genre is it exactly?](#What-genre-is-it-exactly)
+* [Can I get a sample to see if I like it?](#Can-I-get-a-sample-to-see-if-I-like-it)
+* [If the submarines in the book were real, what year would they be from? Or, when would the technology in the book have been used in real life?](#If-the-submarines-in-the-book-were-real-what-year-would-they-be-from-Or-when-would-the-technology-in-the-book-have-been-used-in-real-life)
+* [Can you tell me more about the "world" this story takes place in?](#Can-you-tell-me-more-about-the-world-this-story-takes-place-in)
+* ["Cinematic," you say?](#Cinematic-you-say)
+* [What's with all the F-bombs?](#Whats-with-all-the-F-bombs)
+* [I found a mistake, want to know about it?](#I-found-a-mistake-want-to-know-about-it)
+* [I love this submarine world you created and I want to spend more time there! Will there be a sequel?](#I-love-this-submarine-world-you-created-and-I-want-to-spend-more-time-there-Will-there-be-a-sequel)
+* [Can I support your work with money?](#Can-I-support-your-work-with-money)
+* [Is this book published by a legit publisher?](#Is-this-book-published-by-a-legit-publisher)
+* [Now tell me how you really feel about "legit" book publishing](#Now-tell-me-how-you-really-feel-about-legit-book-publishing)
+* [Why did you want to write a submarine story?](#Why-did-you-want-to-write-a-submarine-story)
+* [Is this book free? What license is it released under?](#Is-this-book-free-What-license-is-it-released-under)
+* [What software did you use to create this book?](#What-software-did-you-use-to-create-this-book)
+
+
+----------------------------------------
+
 
 ## What's it like, in one line?
 I like to say: "like 1970s trucker culture crossed with a 1960s submarine movie." But that probably only appeals to a small slice of a certain kind of Gen-X dude.
@@ -66,7 +86,7 @@ And then my dirty secret is that I hoped a lot of swearing would be a cheap way 
 Look, if you really want to read the book and the swearing bothers you, feel free to [modify the text](https://github.com/grannycart/by-sound-alone_source) to make your own clean version and publish it! (Though note: it would have to be under the same Creative Commons non-commercial license --- don't think you can make money doing this.) That's the beauty of the open-source model.
 
 
-## I found a mistake.
+## I found a mistake, want to know about it?
 Please submit any grammatical or technical mistakes on [my contact page](https://grannycart.net/contact).
 I welcome your corrections. 
 
