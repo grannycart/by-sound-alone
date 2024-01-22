@@ -10,10 +10,10 @@ goat_counter: "bysoundalone"
 * [Can I get a sample to see if I like it?](#can-i-get-a-sample-to-see-if-i-like-it)
 * [If the submarines in the book were real, what year would they be from? Or, when would the technology in the book have been used in real life?](#if-the-submarines-in-the-book-were-real-what-year-would-they-be-from-or-when-would-the-technology-in-the-book-have-been-used-in-real-life)
 * [Can you tell me more about the "world" this story takes place in?](#can-you-tell-me-more-about-the-world-this-story-takes-place-in)
-* ["Cinematic," you say?](#cinematic-you-say)
-* [What's with all the F-bombs?](#whats-with-all-the-F-bombs)
-* [I found a mistake, want to know about it?](#i-found-a-mistake-want-to-know-about-it)
 * [I love this submarine world you created and I want to spend more time there! Will there be a sequel?](#i-love-this-submarine-world-you-created-and-i-want-to-spend-more-time-there-will-there-be-a-sequel)
+* ["Cinematic," you say?](#cinematic-you-say)
+* [What's with all the F-bombs?](#whats-with-all-the-f-bombs)
+* [I found a mistake, want to know about it?](#i-found-a-mistake-want-to-know-about-it)
 * [Can I support your work with money?](#can-i-support-your-work-with-money)
 * [Is this book published by a legit publisher?](#is-this-book-published-by-a-legit-publisher)
 * [Now tell me how you really feel about "legit" book publishing](#now-tell-me-how-you-really-feel-about-legit-book-publishing)
@@ -35,12 +35,12 @@ More than one reader has said: "Like Serenity on a submarine." (Note: I've never
 How about a bulleted list?
 * It's free. Open-source-style free.
 * It's a page-turner. Full of submarine action and excitement!
-* It's got women in leadership positions in a submarine story (it passes the Bechdel test) --- how's that for unusual?
 * It's cinematic --- full of visual descriptions that put you right there in the control room of the submarine.
 * There's characters you'll love, and characters you aren't sure you love by the end.
 * Realistic mid-century mechanics --- no magic tech in this book.
 * It's well written. (That's what people tell me anyway.)
 * It was edited by a professional (who was not the author).
+* It's got women in leadership positions in a submarine story (it passes the Bechdel test) --- how's that for unusual?
 * It has got a lovable homing pigeon. (Something for the bird lovers. Probably the only book you'll ever read that has both a submarine and a pigeon.)
 * It's gritty and grimy and full of foul language. If you're into that sort of thing.
 
@@ -64,6 +64,10 @@ Technology-wise, the book is set in the mid-20th Century. Submarine technology h
 
 ## Can you tell me more about the "world" this story takes place in?
 No. If I wanted to tell stories about the endless give and take of global powers, I would have been a journalist. The characters in the story don't care too much about politics on the surface and neither should you. In recent decades, the study of history has turned away from looking at the machinations of nation-states and instead focuses on peoples and processes. I like to think this story has a similar relationship to the world it exists in.
+
+
+## I love this submarine world you created and I want to spend more time there! Will there be a sequel?
+I have extensive notes for a second book, but I need time to write it. If you really want more right now, I've been working on an in-world [short story](./untitled-submarine-short-story) (about 13k words) set on the _Prospect_ with the same characters.
 
 
 ## "Cinematic," you say?
@@ -97,10 +101,6 @@ A good technical correction would be pointing out a spot where the story violate
 Try to remember it _is_ fiction, and just a _tiny_ bit it technical leeway should be allowed, particularly if it contributes to dramatic tension. On the other hand, I really want the book to carry a _lot_ of technical/mechanical precision, because I think that _contributes_ to the dramatic tension in a way that made-up stuff (usually) does not.
 
 If you know how to use Github, feel free to [fork the project](https://github.com/grannycart/by-sound-alone_source), fix it yourself, and send me a pull request.
-
-
-## I love this submarine world you created and I want to spend more time there! Will there be a sequel?
-I have extensive notes for a second book, but I need time to write it. If you really want more right now, I've been working on an in-world [short story](./untitled-submarine-short-story) (about 13k words) set on the _Prospect_ with the same characters.
 
 
 ## Can I support your work with money?
@@ -144,7 +144,9 @@ See: [Why write a submarine story?](why-write-a-submarine-story)
 
 
 ## Is this book free? What license is it released under?
-Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International. Upshot is: you can freely copy and distribute the book in any form you like, as long as you aren't making money doing it. And if you modify the book, you have to distribute it under the same license.
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
+
+Upshot is: you can freely copy and distribute the book in any form you like, as long as you aren't making money doing it. And if you modify the book, you have to distribute it under the same license.
 
 See the [LICENCE](https://bysoundalone.net/content/By-Sound-Alone_Mark-Torrey.html#license).
 
@@ -152,5 +154,6 @@ See the [LICENCE](https://bysoundalone.net/content/By-Sound-Alone_Mark-Torrey.ht
 ## What software did you use to create this book?
 Exclusively open-source stuff: vim, markdown, pandoc, git, make, Inkscape, Gimp, tmux, mupdf, pdftk, and of course all of the various Linux distros that are my daily driver desktop computers. The Github repo contains pretty good documentation.
 
+----------------------------------------
 
 

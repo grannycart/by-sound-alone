@@ -34,4 +34,5 @@ Because these story guiderails seemed so powerful to me, I set out to watch and 
 
 But I believe those guiderails can give a talented story-teller a running start. I think the submarine story is ready for a re-tooling and a re-telling. If the nationalism, masculinity, and WWII/cold-warrior-ness of them was left behind, the _machines_ themselves could be a source of terrific stories. (Though this might be limited with modern subs where the tech is so advanced it is virtually magic: Harry Potter aside, it becomes difficult to tell a compelling story when almost anything could happen or be believed.) There's a real opportunity to centrifuge out what's good about submarine stories, mix them up with some more up-to-date notions (like, you know, female characters) and maybe create something really special.
 
+----------------------------------------
 
