@@ -24,8 +24,8 @@ title: By Sound Alone
 [//]: # (Removed this bullet 2024-01-13: Not ready to commit to a whole book yet? Here's a short story I'm working on that is set in the same universe, still with plenty of submarine action: Untitled Short Story 13k wordscontent/untitled-submarine-short-story.md)
 
 ## More information:
-Above you can read a complete (118k+ words, 380+ pages) novel. It
-has been released for free under a Creative Commons open-content
+Above you can read a complete novel (118k+ words, 380+ pages). It
+is entirely free, released under a Creative Commons open-content
 non-commercial license. It's about submarines. Not nuclear submarines,
 or modern submarines, or any kind of submarine that actually existed.
 It is about _cargo_ submarines. 
