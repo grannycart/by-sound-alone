@@ -24,37 +24,51 @@ title: By Sound Alone
 [//]: # (Removed this bullet 2024-01-13: Not ready to commit to a whole book yet? Here's a short story I'm working on that is set in the same universe, still with plenty of submarine action: Untitled Short Story 13k wordscontent/untitled-submarine-short-story.md)
 
 ## More information:
-Above you can read a complete (118k+ words, 400+ pages) novel
-for free. It's about submarines. Not nuclear submarines, or modern
-submarines, or any kind of submarine that actually existed. It is about
-_cargo_ submarines. In a mid-century Earth where, due to the economic
-circumstances of the world having skewed off slightly from the path
-followed in real life, submarines ended up being recruited to do the
-trucking of cargo around the world. So: not exactly like other submarine
-stories you may have encountered. (Also, far more women are involved
-than the typical submarine story.)
+Above you can read a complete (118k+ words, 380+ pages) novel. It
+has been released for free under a Creative Commons open-content
+non-commercial license. It's about submarines. Not nuclear submarines,
+or modern submarines, or any kind of submarine that actually existed.
+It is about _cargo_ submarines. 
+
+## Give me the back-of-the-book blurb
+In a slightly skewed-off timeline of mid-20th-century Earth, the
+surface of the ocean has become a contested place. International
+shipping is forced undersea, carried out by subs fitted for transporting
+cargo. Captain Sylvia Percy and her small crew run one such boat, the
+_Prospect_. They fight a daily battle to keep their rusting submarine
+from dropping into the depths. It's just another grimy job until they
+find themselves pursued by a military sub driven by some inexplicable
+violent purpose. To survive, the crew of the Prospect push the machine
+that is their home to the very edge of its capabilities, while still
+trying to make their delivery on time.
 
 ### What's it like? 
+Fundamentally, it's a mashup of 1970s trucker culture and 1960s
+submarine movies. In broader terms, it's kind of a slurry of _Das Boot_,
+_Road Warrior_, _Deadliest Catch_, _Smokey and the Bandit_, and Bikini
+Kill.
 
-Fundamentally, it's a cross between a 1960s submarine movie and a 1970s
-trucker movie. It's kind of a slurry of _Das Boot_, _Road Warrior_,
-_Deadliest Catch_, and _Smokey and the Bandit_. Maybe with some _China
-Syndrome_ and _Jaws_ thrown in. (Though the latter's similarity is in
-tone only --- there's no sharks in the book. Sorry.) It is undoubtedly
-speculative fiction --- but not _science_ fiction. What more specific
-genre beyond that is maybe a little fuzzy. But it is also an action-packed
-page-turner! It should be entertaining to read. If you find this isn't
-the case, you should probably let me know.
+It is undoubtedly speculative fiction --- but not _science_ fiction.
+The story is driven by heavily-researched realistic mid-century
+submarine mechanics, and framed by the confined spaces and dangerous
+operations that have always been at the heart of good submarine tales.
+The speculative fiction part takes our protagonist submarines from an
+underwater docking bay for the transshipping of cargo, to a city built
+on pylons out over the ocean, to a garbage gyre of ghost ships.
 
-[//]: # (Should What's it like be more like the back cover text? The surface of the ocean has become a contested place. International shipping is forced undersea, carried out by submarines fitted for transporting cargo. Captain Sylvia Percy and her small crew run one such boat, the Prospect. They fight a daily battle to keep their rusting sub from dropping into the depths. It's just another grimy job until they find themselves pursued by a military submarine driven by some inexplicable violent purpose. To survive, the crew of the Prospect push the machine that is their home to the very edge of its capabilities, while still trying to make their delivery on time. With a heritage that is equal parts 1960s submarine movie and 1970s trucker movie, By Sound Alone revels in the power of confined spaces and the dangerous operations that have always been the meat of compelling submarine stories. But it also breaks new ground with a setting of a fictional world where submarines are a critical part of global logistics networks. Derived from science fiction themes but never deviating from a commitment to realistic mid-century submarine mechanics and operations, this story propels a page-turner of a plot through a cinematic environment from which you will not want to surface.)
+What more specific genre that it might belong to beyond "speculative
+fiction" is a little fuzzy, maybe "grimepunk" if that's a thing?
+
+But rest assured, whatever genre it is, it is also a page-turner full of
+exciting submarine action! (At least after you get past the first few pages.)
 
 ### Tell me more
 * (Much) more info in the [FAQ](content/FAQ).
 * [About the author](content/about-the-author) (I promise you will be disappointed.)
 
-### "Source code" for the novel 
+### "Source code" for the novel:
 * (it's just markdown): [source code](http://github.com/grannycart/by-sound-alone_source/)
-* (Only useful if you really want to get into the nitty-gritty of how the book came together for some reason, or you want to compile your own pdf/e-book version with custom formatting or something.)
+* (Only useful if you want to make your own edits, or get into the nitty-gritty of how the book came together for some reason. Or, if you want to compile your own pdf/e-book version with custom formatting or something.)
 
 [//]: # ([Back to grannycart.net for more stuff](http://grannycart.net/).)
 
