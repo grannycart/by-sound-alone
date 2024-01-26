@@ -41,8 +41,8 @@ trying to make their delivery on time.
 ### What's it like? 
 Fundamentally, it's a mashup of 1970s trucker culture and 1960s
 submarine movies. In broader terms, it's kind of a slurry of _Das Boot_,
-_Road Warrior_, _Deadliest Catch_, _Smokey and the Bandit_, and Bikini
-Kill.
+_Road Warrior_, _Deadliest Catch_, _Smokey and the Bandit_, Motörhead,
+and Bikini Kill.
 
 It is undoubtedly speculative fiction --- but not _science_ fiction.
 The story is driven by heavily-researched realistic mid-century
