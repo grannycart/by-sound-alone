@@ -14,7 +14,7 @@ title: By Sound Alone
 		* (To load on your Amazon Kindle) 
         * The [e-book is available for Kindle](https://www.amazon.com/dp/B0CTKT5YMC) directly from Amazon.
             * (Hopefully Amazon will soon allow it to be free on their site too.)
-* [pdf version](content/pdf-download.html) (complete book)
+* [pdf version](content/pdf-download.html)
 * Paper: you can buy a paper version of the complete book from Barnes & Noble print-on-demand: 
     * [https://www.barnesandnoble.com/w/by-sound-alone-mark-torrey/1144572566](content/paper-link.html) (ISBN: 9798855697933)
         * ($12 + shipping --- that was the minimum B&N would let me charge.) 
