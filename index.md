@@ -3,18 +3,21 @@ layout: home
 title: By Sound Alone
 ---
 
-## Read it:
-* Read it as [one really long webpage](content/html-download.html) (complete book)
-* E-book versions (one-click downloads, complete book, free and non-commercial):
+## Read it (one-click downloads, complete book, free and non-commercial):
+* Read it as [one really long webpage](content/html-download.html)
+* E-book versions:
+    * ![small cover image](./assets/images/mini-cover.png)
 	* [epub version](content/epub-download.html)
 		* (Should work with all e-readers and e-reader software that are not Amazon Kindle) 
+        * The [e-book is available for Nook for free](https://www.barnesandnoble.com/w/by-sound-alone-mark-torrey/1144572566?ean=2940185641675) on the B&N site, too.
 	* [mobi version](content/mobi-download.html)
-		* (For Amazon Kindle) 
+		* (To load on your Amazon Kindle) 
+        * The [e-book is available for Kindle](https://www.amazon.com/dp/B0CTKT5YMC) directly from Amazon.
+            * (Hopefully Amazon will soon allow it to be free on their site too.)
 * [pdf version](content/pdf-download.html) (complete book)
 * Paper: you can buy a paper version of the complete book from Barnes & Noble print-on-demand: 
     * [https://www.barnesandnoble.com/w/by-sound-alone-mark-torrey/1144572566](content/paper-link.html) (ISBN: 9798855697933)
         * ($12 + shipping --- that was the minimum B&N would let me charge.) 
-    * The [e-book is available for Nook for free](https://www.barnesandnoble.com/w/by-sound-alone-mark-torrey/1144572566?ean=2940185641675) on the B&N site, too.
 	* You desperately want to read it on paper, but can't afford $12? [Contact me](https://grannycart.net/contact) and tell me why you want to read it. I'll buy you a copy.
 * (Maybe) soon to be available on [Royal Road](https://www.royalroad.com/)
 
