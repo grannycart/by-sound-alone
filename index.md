@@ -19,7 +19,7 @@ title: By Sound Alone
     * [https://www.barnesandnoble.com/w/by-sound-alone-mark-torrey/1144572566](content/paper-link.html) (ISBN: 9798855697933)
         * ($12 + shipping --- that was the minimum B&N would let me charge.) 
 	* You desperately want to read it on paper, but can't afford $12? [Contact me](https://grannycart.net/contact) and tell me why you want to read it. I'll buy you a copy.
-* (Maybe) soon to be available on [Royal Road](https://www.royalroad.com/)
+* Currently being released in ~2k bites on [Royal Road](https://www.royalroad.com/fiction/80831/by-sound-alone)
 
 [//]: # (Removed this bullet 2024-01-13: Not ready to commit to a whole book yet? Here's a short story I'm working on that is set in the same universe, still with plenty of submarine action: Untitled Short Story 13k wordscontent/untitled-submarine-short-story.md)
 
