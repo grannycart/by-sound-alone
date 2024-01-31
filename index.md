@@ -6,7 +6,6 @@ title: By Sound Alone
 ## Read it (one-click downloads, complete book, free and non-commercial):
 * Read it as [one really long webpage](content/html-download.html)
 * E-book versions:
-    * ![small cover image](./assets/images/mini-cover.png)
 	* [epub version](content/epub-download.html)
 		* (Should work with all e-readers and e-reader software that are not Amazon Kindle) 
         * The [e-book is available for Nook for free](https://www.barnesandnoble.com/w/by-sound-alone-mark-torrey/1144572566?ean=2940185641675) on the B&N site, too.
