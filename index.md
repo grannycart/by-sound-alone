@@ -4,7 +4,7 @@ title: By Sound Alone
 ---
 
 ## Read it (one-click downloads, complete book, free and non-commercial):
-<img style="float:right; border:1px solid #FFFFFF; padding-left:20px;" alt="mini cover" src="assets/images/mini-cover.png" height=200px>
+<img style="float:right; border:1px solid #FFFFFF;" alt="mini cover" src="assets/images/mini-cover.png" height=200px>
 * Read it as [one really long webpage](content/html-download.html)
 * E-book versions:
 	* [epub version](content/epub-download.html)
