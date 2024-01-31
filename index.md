@@ -3,7 +3,8 @@ layout: home
 title: By Sound Alone
 ---
 
-## Read it (one-click downloads, complete book, free and non-commercial):
+<img style="float:left; padding-right:20px;" alt="mini cover" src="assets/images/mini-cover.png" height=200px>
+<h2>Read it (one-click downloads, complete book, free and non-commercial):</h2>
 * Read it as [one really long webpage](content/html-download.html)
 * E-book versions:
 	* [epub version](content/epub-download.html)
