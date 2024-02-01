@@ -10,7 +10,7 @@ _Readers keep telling me this book is very "cinematic." Hardly surprising since 
 
 -------------------------------------------------
 
-In a world where the surface of the global oceans have become locked in a cold-war like stalemate of contention...
+**In a world where the surface of the global oceans have become locked in a cold-war like stalemate of contention...**
 
 _"The territorial Authority motherfuckers around here generally just shoot first, check papers later."_
 
@@ -18,11 +18,11 @@ _"The territorial Authority motherfuckers around here generally just shoot first
 
 _"It does seem odd. We're just a cargo sub," Percy said, looking steadily at Shakes. "Of course, we're always being harassed by various Authorities in general-like ways --- that's just part of the business.  But usually it's more of an ask-questions-first kind of interaction. And we're fuckin' small potatoes by any measure you care to put to it. They have wars to fight and borders to defend up there. They spend their concentrated long-term resources on their never-ending fucking conflicts with each other. Harassing commerce too much is bad for, well, business."_
 
-...And all technology remains strictly mechanical...
+**...And all technology remains strictly mechanical...**
 
 _"It's a fuckin' hassle, though, I try to avoid it, 'cept in emergencies. I have to leave the controls and come back here to the engines, switch out the diesel, and manually engage the electric motor with these levers. And the electric motor is small --- it's slow, though fuckin' silent as a sunken graveyard."_
 
-...The captain of a cargo submarine and her small crew...
+**...The captain of a cargo submarine and her small crew...**
 
 _"That's right. I'm Captain Percy. She's my boat --- the *Prospect*."_
 
@@ -34,15 +34,15 @@ _"Cassandra, I'm glad you made it. This is Hemi Howell, Deck Boss, First Mate, N
 
 _The man took the cigarette between his fingers and brought it to his lips to suck long and hard. "Ah fuck, thanks. I ran out a couple of days ago. I go by Shakes." He held up his hand level in front of them and they could see it tremble slightly in the air. "Ya can see why."_
 
-...is just trying to do their job and get their goods delivered...
+**...is just trying to do their job and get their goods delivered...**
 
 _"I've heard of this kind of thing," said Percy. "The boat runs fast and just below the surface. Basically invisible to any kind of radar, and too quiet for most sonar. Good for...small shipments?"_
 
-...But now they find themselves pursued by a sinister submarine... 
+**...But now they find themselves pursued by a sinister submarine... **
 
 _"We were hit. Sub with a big ugly ram mounted on the front of it. Totally fucking insane thing for a submarine to have,"_
 
-...And the purpose behind it is unclear...
+**...And the purpose behind it is unclear...**
 
 _"Let me ask you about another thing: Do you know anything about some Authority sub with a big ugly ram mounted on the front of it? Damned thing just about split the *Prospect* in half on the way here."_
 
@@ -50,23 +50,23 @@ _"Let me ask you about another thing: Do you know anything about some Authority 
 
 _"That I do not know the answer to. Except, I'll tell you this Captain Percy: I hear rumors of new governing structures. Things being tried that might eventually weaken the local fiefdoms and establish new flows of global order. One such experiment is a suggestion I've heard recently that certain Authorities are now granting privateers warrants that promise a bounty on captured or sunk merchant shipping operating under the aegis of certain other Authorities --- regardless of where that shipping is."_
 
-...The chase takes them from an underwater cargo depot...
+**...The chase takes them from an underwater cargo depot...**
 
 _It was typical of an underwater docking bay for cargo --- a long cylindrical tube of curved and welded plate steel. It stuck a hundred meters out of the side of the seamount and was supported by hazardous and seemingly randomly-placed steel bracing beams that ran from the tube back to the seamount at an angle. There were docking slips of a wide variety of sizes placed on all four sides of the tube along the entire length of it, capable of docking all manner of sizes and orientations of cargo subs. They numbered between a dozen and two dozen, and maybe half of them had submarines docked at them already, arranged at an array of angles. They looked like leeches with their orifices sucking at a giant limb._
 
-...To a city built on stilts over the ocean...
+**...To a city built on stilts over the ocean...**
 
 _"So this entire place is built on stilts?" asked Cassandra. "That's why they call it fuckin' Stilt City," said Percy. "Again, 'they' does not include the people who actually live here," Hemi said. "But yes, almost all of it is on stilts above the delta waters, except for the old part of the city that clings to the dry land."_
 
-...To a gyre of ghost ships in the center of the ocean...
+**...To a gyre of ghost ships in the center of the ocean...**
 
 _"Most of the contacts Cassandra was seeing with the sonar were partially or almost entirely submerged, held aloft over the thousand-meter-deep ocean by clinging to the last desperate bubble of buoyancy yet retained from when the ships were living. Under Percy's light, the vessels were typically low, black, curved, and oily forms, riding threateningly just under the surface, awash with waves that passed over and obscured them. Alternatively, they would take the figure of a low wall in the water, still showing the distinctive outline of the pointed form of a ship hull. "Like a fucking ship graveyard," said Bastian."_
 
-...To a final encounter that will push the machines they trust with their lives to the limit of their capabilities...
+**...To a final encounter that will push the machines they trust with their lives to the limit of their capabilities...**
 
 _That was when the mine detonated. Far too close to the *Gnat* for safety. The little boat shook to its timbers, and rolled over on its side as the shock wave grabbed the *Gnat*'s small sail and yanked on it.  The sound was so loud that it rang Shakes's and Hemi's ears. Whatever small cracks had opened in the seams before now split wide, and freezing black water poured in. The power blinked and went out._
 
-...It's not just a story to be read, it's an _experience_ to be lived.
+**...It's not just a story to be read, it's an _experience_ to be lived.**
 
 
 
