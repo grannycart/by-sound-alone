@@ -24,7 +24,7 @@ _"It's a fuckin' hassle, though, I try to avoid it, 'cept in emergencies. I have
 
 **...The captain of a cargo submarine and her small crew...**
 
-_"That's right. I'm Captain Percy. She's my boat --- the *Prospect*."_
+_"That's right. I'm Captain Percy. She's my boat --- the Prospect."_
 
 ...
 
@@ -60,11 +60,11 @@ _"Again, 'they' does not include the people who actually live here," Hemi said. 
 
 **...To a gyre of ghost ships in the center of the ocean...**
 
-_Most of the contacts Cassandra was seeing with the sonar were partially or almost entirely submerged, held aloft over the thousand-meter-deep ocean by clinging to the last desperate bubble of buoyancy yet retained from when the ships were living. Under Percy's light, the vessels were typically low, black, curved, and oily forms, riding threateningly just under the surface, awash with waves that passed over and obscured them. Alternatively, they would take the figure of a low wall in the water, still showing the distinctive outline of the pointed form of a ship hull. "Like a fucking ship graveyard," said Bastian."_
+_Most of the contacts Cassandra was seeing with the sonar were partially or almost entirely submerged, held aloft over the thousand-meter-deep ocean by clinging to the last desperate bubble of buoyancy yet retained from when the ships were living. Under Percy's light, the vessels were typically low, black, curved, and oily forms, riding threateningly just under the surface, awash with waves that passed over and obscured them. Alternatively, they would take the figure of a low wall in the water, still showing the distinctive outline of the pointed form of a ship hull. "Like a fucking ship graveyard," said Bastian._
 
 **...To a final encounter that will push the machines they trust with their lives to the limit of their capabilities...**
 
-_That was when the mine detonated. Far too close to the *Gnat* for safety. The little boat shook to its timbers, and rolled over on its side as the shock wave grabbed the *Gnat*'s small sail and yanked on it.  The sound was so loud that it rang Shakes's and Hemi's ears. Whatever small cracks had opened in the seams before now split wide, and freezing black water poured in. The power blinked and went out._
+_That was when the mine detonated. Far too close to the Gnat for safety. The little boat shook to its timbers, and rolled over on its side as the shock wave grabbed the Gnat's small sail and yanked on it.  The sound was so loud that it rang Shakes's and Hemi's ears. Whatever small cracks had opened in the seams before now split wide, and freezing black water poured in. The power blinked and went out._
 
 **...It's not just a story to be read, it's an _experience_ to be lived.**
 
