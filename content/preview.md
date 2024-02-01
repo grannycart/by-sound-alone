@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Preview
+title: By Sound Alone Preview
 goat_counter: "bysoundalone" 
 ---
 
@@ -68,11 +68,10 @@ _That was when the mine detonated. Far too close to the *Gnat* for safety. The l
 
 **...It's not just a story to be read, it's an _experience_ to be lived.**
 
+<center><img src="../assets/images/Gnat-silhowhite.png"></center>
+
 **_By Sound Alone_ Available January 2024, for free, at [bysoundalone.net](https://bysoundalone.net/)**
 
-
-
-
-
+----------------------------------------
 
 
