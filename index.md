@@ -67,6 +67,7 @@ exciting submarine action! (At least after you get past the first few pages.)
 * [Submarine diagrams](content/diagrams-download.html): Standalone reference diagrams pdf of the protagonist submarines in the novel.
 * [About the author](content/about-the-author) (I promise you will be disappointed.)
 * [3 things to do if you enjoyed the book](content/what-to-do-if-you-enjoyed-the-book)
+* [Read a "preview"](content/preview) Not an excerpt or summary, a series of slices to give you a feel for the book. (Does it being with "In a world"? Sure does!)
 
 ### "Source code" for the novel:
 * [source code](http://github.com/grannycart/by-sound-alone_source/) (it's just markdown) 
