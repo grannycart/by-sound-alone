@@ -25,13 +25,13 @@ goat_counter: "bysoundalone"
 ----------------------------------------
 
 
-## What's it like, in one line?
+### What's it like, in one line?
 I like to say: "like 1970s trucker culture crossed with a 1960s submarine movie." But that probably only appeals to a small slice of a certain kind of Gen-X dude.
 
 More than one reader has said: "Like Serenity on a submarine." (Note: I've never seen Serenity, and only a couple of episodes of Firefly. Make of that what you will.)
 
 
-## Not really a question, more of an order: convince me to read this book without wasting my time.
+### Not really a question, more of an order: convince me to read this book without wasting my time.
 How about a bulleted list?
 * It's free. Open-source-style free.
 * It's a page-turner. Full of submarine action and excitement!
@@ -45,7 +45,7 @@ How about a bulleted list?
 * It's gritty and grimy and full of foul language. If you're into that sort of thing.
 
 
-## What genre is it exactly?
+### What genre is it exactly?
 Speculative fiction, for sure.
 Not a traditional submarine novel.
 Not alternate history exactly (Hitler doesn't win the war).
@@ -54,29 +54,29 @@ Hard to pin down precisely.
 It needs a new genre label. Maybe "grimepunk"?
 
 
-## Can I get a sample to see if I like it?
+### Can I get a sample to see if I like it?
 Meh. Just download the whole book. What, are you trying to save like half a meg of space?
 
 
-## If the submarines in the book were real, what year would they be from? Or, when would the technology in the book have been used in real life?
+### If the submarines in the book were real, what year would they be from? Or, when would the technology in the book have been used in real life?
 Technology-wise, the book is set in the mid-20th Century. Submarine technology hit a kinda sweet spot around then (at least in terms of story-telling potential). They were efficient underwater and achieved impressive technological feats, but still had diesel engines and required time on the surface to recharge. Compare this to WWII subs, which were basically surface ships that had the ability to submerge, limited to only a few hundred feet of depth. Nuclear subs, on the other end of the spectrum, rarely have to surface and, in terms of technology, are essentially invincible magic. If what you want is submarine suspense, the mid-century tech delivers the most potential. Especially if you want to tell a story that isn't about a _war_ submarine. Not that a good war submarine story isn't awesome. I just feel like the creative potential of submarines shouldn't be limited to war.
 
 
-## Can you tell me more about the "world" this story takes place in?
+### Can you tell me more about the "world" this story takes place in?
 No. If I wanted to tell stories about the endless give and take of global powers, I would have been a journalist. The characters in the story don't care too much about politics on the surface and neither should you. In recent decades, the study of history has turned away from looking at the machinations of nation-states and instead focuses on peoples and processes. I like to think this story has a similar relationship to the world it exists in.
 
 
-## I love this submarine world you created and I want to spend more time there! Will there be a sequel?
+### I love this submarine world you created and I want to spend more time there! Will there be a sequel?
 I have extensive notes for a second book, but I need time to write it. If you really want more right now, I've been working on an in-world [short story](./untitled-submarine-short-story) (about 13k words) set on the _Prospect_ with the same characters.
 
 
-## "Cinematic," you say?
+### "Cinematic," you say?
 What can I say? I'm a visual person writing a novel. The images in my head were cinematic, and apparently that made it into the book (says my readers).
 
 The plot of _By Sound Alone_ is simple: one submarine chases another across the oceans of the planet for some mysterious reason. Hopefully, the bit of mystery keeps you turning pages. But the goal of the book --- the way it is meant to entertain you --- is to make it feel like you are _in_ the submarine, trapped in this can underwater, spending your time with these characters. That's what it felt like to write it, and hopefully that's what it is like to read it too. If in some places it maybe drags a smidge because, say, you are eating a meal with the characters, then I ask you to weigh the experience of being there against a modern-style fiction novel where it's just one plot reveal after another. Not that my way is necessarily better, just different enough that I guess I'm giving up marketability --- and publishability. But still, spending-time-in-a-different-world is the kind of book I enjoy reading. I hope you do too.
 
 
-## What's with all the F-bombs?
+### What's with all the F-bombs?
 Heyyyy, fuck you for asking. 
 
 No, that's fine, it's a fair question. 
@@ -90,7 +90,7 @@ And then my dirty secret is that I hoped a lot of swearing would be a cheap way 
 Look, if you really want to read the book and the swearing bothers you, feel free to [modify the text](https://github.com/grannycart/by-sound-alone_source) to make your own clean version and publish it! (Though note: it would have to be under the same Creative Commons non-commercial license --- don't think you can make money doing this.) That's the beauty of the open-source model.
 
 
-## I found a mistake, want to know about it?
+### I found a mistake, want to know about it?
 Please submit any grammatical or technical mistakes on [my contact page](https://grannycart.net/contact).
 I welcome your corrections. 
 
@@ -103,13 +103,13 @@ Try to remember it _is_ fiction, and just a _tiny_ bit it technical leeway shoul
 If you know how to use Github, feel free to [fork the project](https://github.com/grannycart/by-sound-alone_source), fix it yourself, and send me a pull request.
 
 
-## Can I support your work with money?
+### Can I support your work with money?
 A nice thought, I'm flattered! Thanks! But I am committed to keeping this book free.
 
 For other things you can do with your money, see: [Three things to do if you enjoy this book](what-to-do-if-you-enjoyed-the-book).
 
 
-## Is this book published by a legit publisher?
+### Is this book published by a legit publisher?
 No. And it probably never will be. Apparently my decision to release an early version for public review severely hobbled the chances of a real publisher picking it up, and my later decision to release it under a open-content license has likely killed off any small remaining chance, since no publisher wants to sell a paper book where the author insists that the text should remain available free online.
 
 You know what? I don't care. Modern fiction is just terrible. And I suspect the main reason is because publishers grind up any promising good book with a commercial-potential machine until what comes out is flat garbage. (Not _all_ books, of course, but I'd say the vast majority of "successful" books could be described this way.)
@@ -123,7 +123,7 @@ In the good column: The book is a vision of mine, not mediated by someone else's
 Point is, I think it's a better book _because_ it's not "published." 
 
 
-## Now tell me how you really feel about "legit" book publishing
+### Now tell me how you really feel about "legit" book publishing
 It is long past time we stopped letting publishers be the gatekeepers of what's a good book. This needs to change. We don't let record labels tell us what music is good anymore, so why do we insist a book is not good if it's "self-published"? That's not to say there's not tons of crappy books out there (both published and self-published). I'm just saying we need to develop our non-capitalist ways of sorting them, because we just cannot trust for-profit marketing. 
 
 Allow me to explore another idea here.
@@ -137,13 +137,13 @@ In the near future all books will be made with a process like this. (If not with
 Anyway, _this_ book will remain available in both its final form and with the entire process in place. Maybe nobody cares. Maybe someday someone will want to pick all those git commits apart to see how the book came together. Doesn't really matter. The process is included because it's just so _easy_ for it to be there.
 
 
-## Why did you want to write a submarine story?
+### Why did you want to write a submarine story?
 Right at the beginning of the process, I wrote down a whole bunch of notes about this. Then somewhere along the line those notes apparently turned themselves into a 1500-word essay.
 
 See: [Why write a submarine story?](why-write-a-submarine-story)
 
 
-## Is this book free? What license is it released under?
+### Is this book free? What license is it released under?
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
 
 Upshot is: you can freely copy and distribute the book in any form you like, as long as you aren't making money doing it. And if you modify the book, you have to distribute it under the same license.
@@ -151,7 +151,7 @@ Upshot is: you can freely copy and distribute the book in any form you like, as 
 See the [LICENCE](https://bysoundalone.net/content/By-Sound-Alone_Mark-Torrey.html#license).
 
 
-## What software did you use to create this book?
+### What software did you use to create this book?
 Exclusively open-source stuff: vim, markdown, pandoc, git, make, Inkscape, Gimp, tmux, mupdf, pdftk, and of course all of the various Linux distros that are my daily driver desktop computers. The Github repo contains pretty good documentation.
 
 ----------------------------------------
