@@ -38,7 +38,7 @@ _The man took the cigarette between his fingers and brought it to his lips to su
 
 _"I've heard of this kind of thing," said Percy. "The boat runs fast and just below the surface. Basically invisible to any kind of radar, and too quiet for most sonar. Good for...small shipments?"_
 
-**...But now they find themselves pursued by a sinister submarine... **
+**...But now they find themselves pursued by a sinister submarine...**
 
 _"We were hit. Sub with a big ugly ram mounted on the front of it. Totally fucking insane thing for a submarine to have,"_
 
