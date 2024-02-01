@@ -10,9 +10,9 @@ _Readers keep telling me this book is very "cinematic." Hardly surprising since 
 
 -------------------------------------------------
 
-**In a world where the surface of the global oceans have become locked in a cold-war like stalemate of contention...**
+**NARRATOR: In a world where the surface of the global oceans have become locked in a cold-war like stalemate of contention...**
 
-_"The territorial Authority motherfuckers around here generally just shoot first, check papers later."_
+Book text: _"The territorial Authority motherfuckers around here generally just shoot first, check papers later."_
 
 ...
 
