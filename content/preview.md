@@ -6,7 +6,7 @@ goat_counter: "bysoundalone"
 
 [WARNING: This preview (and the book) contains strong language and may not be suitable for all audiences.]
 
-_Readers keep telling me this book is very "cinematic." Hardly surprising since the vast majority of my storytelling training came from watching movies. I choose to take it as a compliment, and I decided to take another page from the movies and put in a short "preview" here to make it easier to decide if you want to read this book or not._
+_Readers keep telling me this book is very "cinematic." Hardly surprising since the vast majority of my storytelling training, for better or worse, comes from a lifetime of watching movies. I choose to take this note as a compliment. And I decided to take another page from the movies and put together this short "preview" to make it easier to decide if you want to read this book or not._
 
 -------------------------------------------------
 
