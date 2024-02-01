@@ -29,7 +29,7 @@ is entirely free, released under a Creative Commons open-content
 non-commercial license. It's about submarines. Not nuclear submarines,
 or modern submarines, or any kind of submarine that actually existed.
 It is about _cargo_ submarines. 
-* [Read a "preview"](content/preview) Not an excerpt or summary, but a series of slices to give you a feel for the book. (Does it begin with "In a world..."? Sure does!)
+* [Read a "preview"](content/preview) Not an excerpt or summary, but a series of slices to give you a feel for the book. (Does it begin with "In a world..."? Sure does!) 800 words/~3 min read
 
 ### Give me the back-of-the-book blurb
 In a slightly skewed-off timeline of mid-20th-century Earth, the
