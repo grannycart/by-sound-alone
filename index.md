@@ -3,7 +3,7 @@ layout: home
 title: By Sound Alone
 ---
 
-## Read it (one-click downloads, complete book, free and non-commercial):
+### Read it (one-click downloads, complete book, free and non-commercial):
 <img style="float:right; border:1px solid #FFFFFF;" alt="mini cover" src="assets/images/mini-cover.png" height=200px>
 * Read it as [one really long webpage](content/html-download.html)
 * E-book versions:
@@ -23,14 +23,14 @@ title: By Sound Alone
 
 [//]: # (Removed this bullet 2024-01-13: Not ready to commit to a whole book yet? Here's a short story I'm working on that is set in the same universe, still with plenty of submarine action: Untitled Short Story 13k wordscontent/untitled-submarine-short-story.md)
 
-## More information:
+### More information:
 Above you can read a complete novel (118k+ words, 380+ pages). It
 is entirely free, released under a Creative Commons open-content
 non-commercial license. It's about submarines. Not nuclear submarines,
 or modern submarines, or any kind of submarine that actually existed.
 It is about _cargo_ submarines. 
 
-## Give me the back-of-the-book blurb
+### Give me the back-of-the-book blurb
 In a slightly skewed-off timeline of mid-20th-century Earth, the
 surface of the ocean has become a contested place. International
 shipping is forced undersea, carried out by subs fitted for transporting
@@ -62,12 +62,12 @@ fiction" is a little fuzzy, maybe "grimepunk" if that's a thing?
 But rest assured, whatever genre it is, it is also a page-turner full of
 exciting submarine action! (At least after you get past the first few pages.)
 
-### Tell me more
+### Tell me even more
 * [FAQ](content/FAQ): (Much) more info.
 * [Submarine diagrams](content/diagrams-download.html): Standalone reference diagrams pdf of the protagonist submarines in the novel.
 * [About the author](content/about-the-author) (I promise you will be disappointed.)
 * [3 things to do if you enjoyed the book](content/what-to-do-if-you-enjoyed-the-book)
-* [Read a "preview"](content/preview) Not an excerpt or summary, a series of slices to give you a feel for the book. (Does it being with "In a world"? Sure does!)
+* [Read a "preview"](content/preview) Not an excerpt or summary, but a series of slices to give you a feel for the book. (Does it begin with "In a world..."? Sure does!)
 
 ### "Source code" for the novel:
 * [source code](http://github.com/grannycart/by-sound-alone_source/) (it's just markdown) 
