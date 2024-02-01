@@ -68,7 +68,7 @@ _That was when the mine detonated. Far too close to the *Gnat* for safety. The l
 
 **...It's not just a story to be read, it's an _experience_ to be lived.**
 
-**_By Sound Alone_ Available January 2024, for free, at [bysoundalone.net](https://bysoundalone.net/)
+**_By Sound Alone_ Available January 2024, for free, at [bysoundalone.net](https://bysoundalone.net/)**
 
 
 
