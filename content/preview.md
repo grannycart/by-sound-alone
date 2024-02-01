@@ -4,7 +4,7 @@ title: By Sound Alone Preview
 goat_counter: "bysoundalone" 
 ---
 
-[WARNING: This preview (and the book) contains strong language and may not be suitable for all audiences.]
+[WARNING: This preview (and the book itself) contains strong language and may not be suitable for all audiences.]
 
 _Readers keep telling me this book is very "cinematic." Hardly surprising since the vast majority of my storytelling training, for better or worse, comes from a lifetime of watching movies. I choose to take this note as a compliment. And I decided to take another page from the movies and put together this short "preview" to make it easier to decide if you want to read this book or not._
 
@@ -16,7 +16,7 @@ _"The territorial Authority motherfuckers around here generally just shoot first
 
 ...
 
-_"It does seem odd. We're just a cargo sub," Percy said, looking steadily at Shakes. "Of course, we're always being harassed by various Authorities in general-like ways --- that's just part of the business.  But usually it's more of an ask-questions-first kind of interaction. And we're fuckin' small potatoes by any measure you care to put to it. They have wars to fight and borders to defend up there. They spend their concentrated long-term resources on their never-ending fucking conflicts with each other. Harassing commerce too much is bad for, well, business."_
+_"They have wars to fight and borders to defend up there. They spend their concentrated long-term resources on their never-ending fucking conflicts with each other. Harassing commerce too much is bad for, well, business."_
 
 **...And all technology remains strictly mechanical...**
 
@@ -44,11 +44,7 @@ _"We were hit. Sub with a big ugly ram mounted on the front of it. Totally fucki
 
 **...And the purpose behind it is unclear...**
 
-_"Let me ask you about another thing: Do you know anything about some Authority sub with a big ugly ram mounted on the front of it? Damned thing just about split the *Prospect* in half on the way here."_
-
-...
-
-_"That I do not know the answer to. Except, I'll tell you this Captain Percy: I hear rumors of new governing structures. Things being tried that might eventually weaken the local fiefdoms and establish new flows of global order. One such experiment is a suggestion I've heard recently that certain Authorities are now granting privateers warrants that promise a bounty on captured or sunk merchant shipping operating under the aegis of certain other Authorities --- regardless of where that shipping is."_
+_"I'll tell you this Captain Percy: I hear rumors of new governing structures. Things being tried that might eventually weaken the local fiefdoms and establish new flows of global order. One such experiment is a suggestion I've heard recently that certain Authorities are now granting privateers warrants that promise a bounty on captured or sunk merchant shipping operating under the aegis of certain other Authorities --- regardless of where that shipping is."_
 
 **...The chase takes them from an underwater cargo depot...**
 
