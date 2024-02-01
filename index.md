@@ -29,6 +29,7 @@ is entirely free, released under a Creative Commons open-content
 non-commercial license. It's about submarines. Not nuclear submarines,
 or modern submarines, or any kind of submarine that actually existed.
 It is about _cargo_ submarines. 
+* [Read a "preview"](content/preview) Not an excerpt or summary, but a series of slices to give you a feel for the book. (Does it begin with "In a world..."? Sure does!)
 
 ### Give me the back-of-the-book blurb
 In a slightly skewed-off timeline of mid-20th-century Earth, the
@@ -67,7 +68,6 @@ exciting submarine action! (At least after you get past the first few pages.)
 * [Submarine diagrams](content/diagrams-download.html): Standalone reference diagrams pdf of the protagonist submarines in the novel.
 * [About the author](content/about-the-author) (I promise you will be disappointed.)
 * [3 things to do if you enjoyed the book](content/what-to-do-if-you-enjoyed-the-book)
-* [Read a "preview"](content/preview) Not an excerpt or summary, but a series of slices to give you a feel for the book. (Does it begin with "In a world..."? Sure does!)
 
 ### "Source code" for the novel:
 * [source code](http://github.com/grannycart/by-sound-alone_source/) (it's just markdown) 
