@@ -40,7 +40,7 @@ _"I've heard of this kind of thing," said Percy. "The boat runs fast and just be
 
 **...But now they find themselves pursued by a sinister submarine...**
 
-_"We were hit. Sub with a big ugly ram mounted on the front of it. Totally fucking insane thing for a submarine to have,"_
+_"We were hit. Sub with a big ugly ram mounted on the front of it. Totally fucking insane thing for a submarine to have."_
 
 **...And the purpose behind it is unclear...**
 
@@ -52,11 +52,15 @@ _It was typical of an underwater docking bay for cargo --- a long cylindrical tu
 
 **...To a city built on stilts over the ocean...**
 
-_"So this entire place is built on stilts?" asked Cassandra. "That's why they call it fuckin' Stilt City," said Percy. "Again, 'they' does not include the people who actually live here," Hemi said. "But yes, almost all of it is on stilts above the delta waters, except for the old part of the city that clings to the dry land."_
+_"So this entire place is built on stilts?" asked Cassandra."_ 
+
+_"That's why they call it fuckin' Stilt City," said Percy."_
+
+_"Again, 'they' does not include the people who actually live here," Hemi said. "But yes, almost all of it is on stilts above the delta waters, except for the old part of the city that clings to the dry land."_
 
 **...To a gyre of ghost ships in the center of the ocean...**
 
-_"Most of the contacts Cassandra was seeing with the sonar were partially or almost entirely submerged, held aloft over the thousand-meter-deep ocean by clinging to the last desperate bubble of buoyancy yet retained from when the ships were living. Under Percy's light, the vessels were typically low, black, curved, and oily forms, riding threateningly just under the surface, awash with waves that passed over and obscured them. Alternatively, they would take the figure of a low wall in the water, still showing the distinctive outline of the pointed form of a ship hull. "Like a fucking ship graveyard," said Bastian."_
+_Most of the contacts Cassandra was seeing with the sonar were partially or almost entirely submerged, held aloft over the thousand-meter-deep ocean by clinging to the last desperate bubble of buoyancy yet retained from when the ships were living. Under Percy's light, the vessels were typically low, black, curved, and oily forms, riding threateningly just under the surface, awash with waves that passed over and obscured them. Alternatively, they would take the figure of a low wall in the water, still showing the distinctive outline of the pointed form of a ship hull. "Like a fucking ship graveyard," said Bastian."_
 
 **...To a final encounter that will push the machines they trust with their lives to the limit of their capabilities...**
 
@@ -66,7 +70,7 @@ _That was when the mine detonated. Far too close to the *Gnat* for safety. The l
 
 <center><img src="../assets/images/Gnat-silhowhite.png"></center>
 
-**_By Sound Alone_ Available January 2024, for free, at [bysoundalone.net](https://bysoundalone.net/)**
+**_By Sound Alone_: Available January 2024, for free, at [bysoundalone.net](https://bysoundalone.net/)**
 
 ----------------------------------------
 
