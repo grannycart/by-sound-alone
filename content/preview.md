@@ -10,13 +10,9 @@ _Readers keep telling me this book is very "cinematic." Hardly surprising since 
 
 -------------------------------------------------
 
-**NARRATOR: In a world where the surface of the global oceans have become locked in a cold-war like stalemate of contention...**
+**(NARRATOR:) In a world where the surface of the global oceans have become locked in a cold-war like stalemate of contention...**
 
-Book text: _"The territorial Authority motherfuckers around here generally just shoot first, check papers later."_
-
-...
-
-_"They have wars to fight and borders to defend up there. They spend their concentrated long-term resources on their never-ending fucking conflicts with each other. Harassing commerce too much is bad for, well, business."_
+(Text from the book:) _"They have wars to fight and borders to defend up there. They spend their concentrated long-term resources on their never-ending fucking conflicts with each other. So the territorial Authority motherfuckers around here generally just shoot first, check papers later."_
 
 **...And all technology remains strictly mechanical...**
 
@@ -24,15 +20,9 @@ _"It's a fuckin' hassle, though, I try to avoid it, 'cept in emergencies. I have
 
 **...The captain of a cargo submarine and her small crew...**
 
-_"That's right. I'm Captain Percy. She's my boat --- the Prospect."_
+_"Cassandra, I'm glad you made it. This is Hemi Howell, Deck Boss, First Mate, Navigator, Crew Trainer, and whatever the fuck else needs to be done. Basically he's the one who does all the actual work. I'm Captain Percy. She's my boat --- the Prospect."_
 
-...
-
-_"Cassandra, I'm glad you made it. This is Hemi Howell, Deck Boss, First Mate, Navigator, Crew Trainer, and whatever the fuck else needs to be done. Basically he's the one who does all the actual work."_
-
-...
-
-_The man took the cigarette between his fingers and brought it to his lips to suck long and hard. "Ah fuck, thanks. I ran out a couple of days ago. I go by Shakes." He held up his hand level in front of them and they could see it tremble slightly in the air. "Ya can see why."_
+_And I go by Shakes." He held up his hand level in front of them and they could see it tremble slightly in the air. "Ya can see why."_
 
 **...is just trying to do their job and get their goods delivered...**
 
@@ -48,7 +38,7 @@ _"I'll tell you this Captain Percy: I hear rumors of new governing structures. T
 
 **...The chase takes them from an underwater cargo depot...**
 
-_It was typical of an underwater docking bay for cargo --- a long cylindrical tube of curved and welded plate steel. It stuck a hundred meters out of the side of the seamount and was supported by hazardous and seemingly randomly-placed steel bracing beams that ran from the tube back to the seamount at an angle. There were docking slips of a wide variety of sizes placed on all four sides of the tube along the entire length of it, capable of docking all manner of sizes and orientations of cargo subs. They numbered between a dozen and two dozen, and maybe half of them had submarines docked at them already, arranged at an array of angles. They looked like leeches with their orifices sucking at a giant limb._
+_A long cylindrical tube of curved and welded plate steel. It stuck a hundred meters out of the side of the seamount and was supported by hazardous and seemingly randomly-placed steel bracing beams that ran from the tube back to the seamount at an angle. There were docking slips of a wide variety of sizes placed on all four sides of the tube along the entire length of it, capable of docking all manner of sizes and orientations of cargo subs. They numbered between a dozen and two dozen, and maybe half of them had submarines docked at them already, arranged at an array of angles. They looked like leeches with their orifices sucking at a giant limb._
 
 **...To a city built on stilts over the ocean...**
 
