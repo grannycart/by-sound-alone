@@ -3,7 +3,8 @@
 * A novel with submarines. And a pigeon. [bysoundalone.net](bysoundalone.net)
 
 ## This repo:
-* Contains the github pages source for the novel _By Sound Alone_
+* Contains the github pages (that is, the website) source for the novel _By Sound Alone_
+* The source for the novel itself is here: [https://github.com/grannycart/by-sound-alone_source](https://github.com/grannycart/by-sound-alone_source)
 
 ### Notes on site formatting:
 * Add ```goat_counter: "bysoundalone"``` to yaml at top of individual pages and they will track in goatcounter

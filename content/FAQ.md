@@ -67,7 +67,7 @@ No. If I wanted to tell stories about the endless give and take of global powers
 
 
 ### I love this submarine world you created and I want to spend more time there! Will there be a sequel?
-I have extensive notes for a second book, but I need time to write it. If you really want more right now, I've been working on an in-world [short story](./untitled-submarine-short-story) (about 13k words) set on the _Prospect_ with the same characters.
+I have extensive notes for a second book, but I need time to write it. If you really want more right now, I've been working on an in-world [short story](./untitled-submarine-short-story) (about 13k words) set on the _Prospect_ with the same characters. There's also a ["Director's Cut"](https://github.com/grannycart/by-sound-alone_source/commit/a778d0da507477e75bb96473589023d7c630bd0a) of the novel in the git commits that is 20k words longer --- but I don't recommend it.
 
 
 ### "Cinematic," you say?
