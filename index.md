@@ -16,6 +16,7 @@ title: By Sound Alone
             * (Hopefully Amazon will soon allow it to be free on their site too.)
 * [pdf version](content/pdf-download.html)
 * Paper: you can buy a paper version of the complete book from Barnes & Noble print-on-demand: 
+<img style="float:right; border:1px solid #FFFFFF;" alt="paper mockup mini cover" src="assets/images/paper-mockup-mini-cover.png" height=200px>
     * [https://www.barnesandnoble.com/w/by-sound-alone-mark-torrey/1144572566](content/paper-link.html) (ISBN: 9798855697933)
         * ($12 + shipping --- that was the minimum B&N would let me charge.) 
 	* You desperately want to read it on paper, but can't afford $12? [Contact me](https://grannycart.net/contact) and tell me why you want to read it. I'll buy you a copy.
