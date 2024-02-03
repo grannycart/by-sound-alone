@@ -16,11 +16,11 @@ title: By Sound Alone
             * (Hopefully Amazon will soon allow it to be free on their site too.)
 * [pdf version](content/pdf-download.html)
 * Currently being released in ~2k bites on [Royal Road](https://www.royalroad.com/fiction/80831/by-sound-alone)
-#### Paper: you can buy a paper version of the complete book from Barnes & Noble print-on-demand: 
+#### Paper: 
 <img style="float:right; border:1px solid #FFFFFF;" alt="paper mockup mini cover" src="assets/images/paper-mockup-mini-cover.png" height=200px>
-    * [https://www.barnesandnoble.com/w/by-sound-alone-mark-torrey/1144572566](content/paper-link.html) (ISBN: 9798855697933)
+* you can buy a paper version of the complete book from Barnes & Noble print-on-demand: [https://www.barnesandnoble.com/w/by-sound-alone-mark-torrey/1144572566](content/paper-link.html) (ISBN: 9798855697933)
         * ($12 + shipping --- that was the minimum B&N would let me charge.) 
-	* You desperately want to read it on paper, but can't afford $12? [Contact me](https://grannycart.net/contact) and tell me why you want to read it. I'll buy you a copy.
+* You desperately want to read it on paper, but can't afford $12? [Contact me](https://grannycart.net/contact) and tell me why you want to read it. I'll buy you a copy.
 
 [//]: # (Removed this bullet 2024-01-13: Not ready to commit to a whole book yet? Here's a short story I'm working on that is set in the same universe, still with plenty of submarine action: Untitled Short Story 13k wordscontent/untitled-submarine-short-story.md)
 
