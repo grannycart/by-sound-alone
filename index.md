@@ -13,7 +13,6 @@ title: By Sound Alone
 	* [mobi version](content/mobi-download.html)
 		* (To load on your Amazon Kindle) 
         * The [e-book is available for Kindle](https://www.amazon.com/dp/B0CTKT5YMC) directly from Amazon.
-            * (Hopefully Amazon will soon allow it to be free on their site too.)
 * [pdf version](content/pdf-download.html)
 * Currently being released in ~2k bites on [Royal Road](https://www.royalroad.com/fiction/80831/by-sound-alone)
 #### Paper: 
