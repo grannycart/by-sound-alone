@@ -3,8 +3,24 @@ layout: home
 title: By Sound Alone
 ---
 
-### Read it (one-click downloads, complete book, free and non-commercial):
+### The back-of-the-book blurb:
+In a slightly skewed-off timeline of mid-20th-century Earth, the
+surface of the ocean has become a contested place. International
+shipping is forced undersea, carried out by subs fitted for transporting
+cargo. Captain Sylvia Percy and her small crew run one such boat, the
+_Prospect_. They fight a daily battle to keep their rusting submarine
+from dropping into the depths. It's just another grimy job until they
+find themselves pursued by a military sub driven by some inexplicable
+violent purpose. To survive, the crew of the Prospect push the machine
+that is their home to the very edge of its capabilities, while still
+trying to make their delivery on time.
+* Want a taste-test? [Read a "preview"](content/preview) (800 words/~3 min read)
+    * Not an excerpt or summary, but a series of slices to give you a feel for the book. (Does it begin with "In a world..."? Sure does!) 
+
+
+### Read the book: (one-click downloads, complete book, open-source, free and non-commercial)
 <img style="float:right; border:1px solid #FFFFFF;" alt="mini cover" src="assets/images/mini-cover.png" height=200px>
+#### E-book versions:
 * Read it as [one really long webpage](content/html-download.html)
 * E-book versions:
 	* [epub version](content/epub-download.html)
@@ -23,25 +39,14 @@ title: By Sound Alone
 
 [//]: # (Removed this bullet 2024-01-13: Not ready to commit to a whole book yet? Here's a short story I'm working on that is set in the same universe, still with plenty of submarine action: Untitled Short Story 13k wordscontent/untitled-submarine-short-story.md)
 
-### More information:
-Above you can read a complete novel (118k+ words, 380+ pages). It
-is entirely free, released under a Creative Commons open-content
-non-commercial license. It's about submarines. Not nuclear submarines,
-or modern submarines, or any kind of submarine that actually existed.
-It is about _cargo_ submarines. 
-* [Read a "preview"](content/preview) Not an excerpt or summary, but a series of slices to give you a feel for the book. (Does it begin with "In a world..."? Sure does!) 800 words/~3 min read
 
-### Give me the back-of-the-book blurb
-In a slightly skewed-off timeline of mid-20th-century Earth, the
-surface of the ocean has become a contested place. International
-shipping is forced undersea, carried out by subs fitted for transporting
-cargo. Captain Sylvia Percy and her small crew run one such boat, the
-_Prospect_. They fight a daily battle to keep their rusting submarine
-from dropping into the depths. It's just another grimy job until they
-find themselves pursued by a military sub driven by some inexplicable
-violent purpose. To survive, the crew of the Prospect push the machine
-that is their home to the very edge of its capabilities, while still
-trying to make their delivery on time.
+### More information:
+A complete novel: 118k+ words, 380+ pages. The content  
+is entirely free, released under a Creative Commons open-content
+non-commercial license. I encourage you to download and share the e-book files.
+(For a paper version you have to buy it from one of our coporate overlords. Sorry.
+I still encourage you to share the paper books though.)
+
 
 ### What's it like? 
 Fundamentally, it's a mashup of 1970s trucker culture and 1960s
