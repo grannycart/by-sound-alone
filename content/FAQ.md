@@ -51,7 +51,7 @@ Not a traditional submarine novel.
 Not alternate history exactly (Hitler doesn't win the war).
 Hard to pin down precisely.
 
-It needs a new genre label. Maybe "grimepunk"?
+When your book doesn't fit nicely into a genre, it's time to invent your own. Maybe "grimepunk"? It's grimy. It's pretty punk-rock. And it shares many themes with steampunk (just not the steam). Read it and tell me what genre _you_ think it should be!
 
 
 ### Can I get a sample to see if I like it?
