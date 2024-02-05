@@ -41,11 +41,11 @@ trying to make their delivery on time.
 
 
 ### More information:
-A complete novel: 118k+ words, 380+ pages. The content  
-is entirely free, released under a Creative Commons open-content
-non-commercial license. I encourage you to download and share the e-book files.
-(For a paper version you have to buy it from one of our coporate overlords. Sorry.
-I still encourage you to share the paper books though.)
+A complete novel: 118k+ words, 380+ pages. The content is entirely free,
+released under a Creative Commons open-content non-commercial license.
+I encourage you to download and share the e-book files. (For a paper
+version you have to buy it from one of our coporate overlords. Sorry. I
+still encourage you to share the paper books though.)
 
 
 ### What's it like? 
