@@ -3,7 +3,7 @@ author: Mark Torrey # name of site's author
 email: grannycart@protonmail.com # email of site's author
 url: https://bysoundalone.net # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if your site shouldn't use a subpath)
-description: An open-source and free novel with cargo submarines.  Also a pigeon.
+description: An open-source and free novel with cargo submarines. <br> Also a pigeon.
 
 # permalink: /:slug.html
 
