@@ -20,18 +20,18 @@ trying to make their delivery on time.
 
 ### Read the book: 
 
-#### E-book versions (one-click downloads, complete book, open-source, free and non-commercial):
+#### E-book versions (complete book, open-source, free and non-commercial):
 <img style="float:right; border:1px solid #FFFFFF;" alt="mini cover" src="assets/images/mini-cover.png" height=200px>
 * Read it as [one really long webpage](content/html-download.html)
 * [pdf version](content/pdf-download.html)
 * E-book versions:
-	* [epub file](content/epub-download.html)
+	* [epub file](content/epub-download.html) (one-click direct file download)
 		* (Should work with all e-readers and e-reader software that are not Amazon Kindle) 
-	* [mobi file](content/mobi-download.html)
+	* [mobi file](content/mobi-download.html) (one-click direct file download)
 		* (To load on your Amazon Kindle) 
-    * The [e-book is available for Nook for free](https://www.barnesandnoble.com/w/by-sound-alone-mark-torrey/1144572566?ean=2940185641675) on the B&N site, too.
-    * [Free e-book on Kobo](https://www.kobo.com/us/en/ebook/by-sound-alone) (ISBN: 1230007379680)
-    * The [e-book is available for Kindle for free](https://www.amazon.com/dp/B0CTKT5YMC) directly from Amazon. (ASIN: B0CTKT5YMC)
+    * B&N: The [e-book is available for Nook for free](https://www.barnesandnoble.com/w/by-sound-alone-mark-torrey/1144572566?ean=2940185641675) on the B&N site, too.
+    * Kobo: [Free e-book on Kobo](https://www.kobo.com/us/en/ebook/by-sound-alone) (ISBN: 1230007379680)
+    * Amazon: The [e-book is available for Kindle for free](https://www.amazon.com/dp/B0CTKT5YMC) directly from Amazon. (ASIN: B0CTKT5YMC)
 * Currently being released in ~2k bites on [Royal Road](https://www.royalroad.com/fiction/80831/by-sound-alone)
 
 #### Paper: 
