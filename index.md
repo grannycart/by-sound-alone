@@ -9,6 +9,8 @@ _In a slightly skewed-off timeline of mid-20th-century Earth, the surface of the
     * (800 words/~3 min read)
     * Not an excerpt or summary, but a series of slices to give you a feel for the book. (Does it begin with "In a world..."? Sure does!) 
 
+----------------------------------------
+
 ### Read the book: 
 
 #### E-book versions (complete book, open-source, free and non-commercial):
@@ -35,6 +37,7 @@ _In a slightly skewed-off timeline of mid-20th-century Earth, the surface of the
 #### Audiobook:
 * Audio version coming soon!
 
+----------------------------------------
 
 [//]: # (Removed this bullet 2024-01-13: Not ready to commit to a whole book yet? Here's a short story I'm working on that is set in the same universe, still with plenty of submarine action: Untitled Short Story 13k wordscontent/untitled-submarine-short-story.md)
 
@@ -72,6 +75,8 @@ exciting submarine action! (At least after you get past the first few pages.)
 * [Submarine diagrams](content/diagrams-download.html): Standalone reference diagrams pdf of the protagonist submarines in the novel.
 * [About the author](content/about-the-author) (I promise you will be disappointed.)
 * [3 things to do if you enjoyed the book](content/what-to-do-if-you-enjoyed-the-book)
+
+----------------------------------------
 
 ### "Source code" for the novel:
 * [source code](http://github.com/grannycart/by-sound-alone_source/) (it's just markdown) 
