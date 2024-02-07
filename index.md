@@ -18,10 +18,10 @@ trying to make their delivery on time.
     * (800 words/~3 min read)
     * Not an excerpt or summary, but a series of slices to give you a feel for the book. (Does it begin with "In a world..."? Sure does!) 
 
-### Read the book: (one-click downloads, complete book, open-source, free and non-commercial)
-<img style="float:right; border:1px solid #FFFFFF;" alt="mini cover" src="assets/images/mini-cover.png" height=200px>
+### Read the book: 
 
-#### E-book versions:
+#### E-book versions (one-click downloads, complete book, open-source, free and non-commercial):
+<img style="float:right; border:1px solid #FFFFFF;" alt="mini cover" src="assets/images/mini-cover.png" height=200px>
 * Read it as [one really long webpage](content/html-download.html)
 * E-book versions:
 	* [epub version](content/epub-download.html)
