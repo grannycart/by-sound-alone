@@ -17,9 +17,9 @@ trying to make their delivery on time.
 * Want a taste-test? [Read a "preview"](content/preview) (800 words/~3 min read)
     * Not an excerpt or summary, but a series of slices to give you a feel for the book. (Does it begin with "In a world..."? Sure does!) 
 
-
 ### Read the book: (one-click downloads, complete book, open-source, free and non-commercial)
 <img style="float:right; border:1px solid #FFFFFF;" alt="mini cover" src="assets/images/mini-cover.png" height=200px>
+
 #### E-book versions:
 * Read it as [one really long webpage](content/html-download.html)
 * E-book versions:
@@ -31,11 +31,16 @@ trying to make their delivery on time.
         * The [e-book is available for Kindle](https://www.amazon.com/dp/B0CTKT5YMC) directly from Amazon.
 * [pdf version](content/pdf-download.html)
 * Currently being released in ~2k bites on [Royal Road](https://www.royalroad.com/fiction/80831/by-sound-alone)
+
 #### Paper: 
 <img style="float:right; border:1px solid #FFFFFF;" alt="paper mockup mini cover" src="assets/images/paper-mockup-mini-cover.png" height=200px>
 * you can buy a paper version of the complete book from Barnes & Noble print-on-demand: [https://www.barnesandnoble.com/w/by-sound-alone-mark-torrey/1144572566](content/paper-link.html) (ISBN: 9798855697933)
     * ($12 + shipping --- that was the minimum B&N would let me charge.) 
 * You desperately want to read it on paper, but can't afford $12? [Contact me](https://grannycart.net/contact) and tell me why you want to read it. I'll buy you a copy.
+
+#### Audiobook:
+* Audio version coming soon!
+
 
 [//]: # (Removed this bullet 2024-01-13: Not ready to commit to a whole book yet? Here's a short story I'm working on that is set in the same universe, still with plenty of submarine action: Untitled Short Story 13k wordscontent/untitled-submarine-short-story.md)
 
