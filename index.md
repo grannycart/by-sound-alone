@@ -4,16 +4,7 @@ title: By Sound Alone
 ---
 
 ### The back-of-the-book blurb:
-In a slightly skewed-off timeline of mid-20th-century Earth, the
-surface of the ocean has become a contested place. International
-shipping is forced undersea, carried out by subs fitted for transporting
-cargo. Captain Sylvia Percy and her small crew run one such boat, the
-_Prospect_. They fight a daily battle to keep their rusting submarine
-from dropping into the depths. It's just another grimy job until they
-find themselves pursued by a military sub driven by some inexplicable
-violent purpose. To survive, the crew of the Prospect push the machine
-that is their home to the very edge of its capabilities, while still
-trying to make their delivery on time.
+_In a slightly skewed-off timeline of mid-20th-century Earth, the surface of the ocean has become a contested place. International shipping is forced undersea, carried out by subs fitted for transporting cargo. Captain Sylvia Percy and her small crew run one such boat, the *Prospect*. They fight a daily battle to keep their rusting submarine from dropping into the depths. It's just another grimy job until they find themselves pursued by a military sub driven by some inexplicable violent purpose. To survive, the crew of the Prospect push the machine that is their home to the very edge of its capabilities, while still trying to make their delivery on time._
 * Want a taste-test? [Read a "preview"](content/preview)
     * (800 words/~3 min read)
     * Not an excerpt or summary, but a series of slices to give you a feel for the book. (Does it begin with "In a world..."? Sure does!) 
@@ -26,12 +17,12 @@ trying to make their delivery on time.
 * pdf: Download a [nicely-formatted pdf version](content/pdf-download.html)
 * E-book versions:
 	* [epub file](content/epub-download.html) (one-click download)
-		* (Should work with all e-readers and e-reader software that are not Amazon Kindle) 
+		* Should work with all e-readers and e-reader software that are not Amazon Kindle
 	* [mobi file](content/mobi-download.html) (one-click download)
-		* (To load on your Amazon Kindle) 
-    * B&N: The [e-book is available for Nook for free](https://www.barnesandnoble.com/w/by-sound-alone-mark-torrey/1144572566?ean=2940185641675) on the B&N site, too.
+		* To load on your Amazon Kindle
     * Kobo: [Free e-book on Kobo](https://www.kobo.com/us/en/ebook/by-sound-alone) (ISBN: 1230007379680)
     * Amazon: The [e-book is available for Kindle for free](https://www.amazon.com/dp/B0CTKT5YMC) directly from Amazon. (ASIN: B0CTKT5YMC)
+    * B&N: The [e-book is available for Nook for free](https://www.barnesandnoble.com/w/by-sound-alone-mark-torrey/1144572566?ean=2940185641675) on the B&N site, too.
 * [Royal Road](https://www.royalroad.com/fiction/80831/by-sound-alone): Currently being released in ~2k bites
 
 #### Paper: 
