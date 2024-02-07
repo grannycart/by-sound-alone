@@ -14,7 +14,8 @@ find themselves pursued by a military sub driven by some inexplicable
 violent purpose. To survive, the crew of the Prospect push the machine
 that is their home to the very edge of its capabilities, while still
 trying to make their delivery on time.
-* Want a taste-test? [Read a "preview"](content/preview) (800 words/~3 min read)
+* Want a taste-test? [Read a "preview"](content/preview)
+    * (800 words/~3 min read)
     * Not an excerpt or summary, but a series of slices to give you a feel for the book. (Does it begin with "In a world..."? Sure does!) 
 
 ### Read the book: (one-click downloads, complete book, open-source, free and non-commercial)
