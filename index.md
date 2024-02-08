@@ -35,7 +35,7 @@ _In a slightly skewed-off timeline of mid-20th-century Earth, the surface of the
 * You desperately want to read it on paper, but can't afford $12? [Contact me](https://grannycart.net/contact) and tell me why you want to read it. I'll buy you a copy.
 
 #### Audiobook:
-* Audio version coming soon!
+* Audio version in the works!
 
 ----------------------------------------
 
