@@ -60,7 +60,7 @@ Meh. Just download the whole book. What, are you trying to save like half a meg 
 
 
 ### What's with the slow start?
-The opening scene is a quiet set piece. This is to contrast with all the life-and-death action that is most of the rest of the book. If you're in it for submarine action, I encourage you to stick with it!
+The opening scene is a quiet set piece. This is to contrast with all the life-and-death action that is most of the rest of the book. If you're in it for submarine suspense (subspence?) and action, I encourage you to stick with it!
 
 Personally, I could be perfectly content to read a novel that consists of nothing but well-written descriptions of submarines moving silently through the water. But I know that's not everyone's jam, and this book is not that by any means. (Though the sequel might be...)
 
