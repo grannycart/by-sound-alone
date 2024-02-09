@@ -19,11 +19,10 @@
 * Site uses the no-style-please theme released under an MIT license: https://github.com/riggraz/no-style-please
 
 ## License:
-* This pre-release version of this book is under a CC license:
-* Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+* This site and the book itself are released under a Creative Commons license:
+    * Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 	* CC BY-NC-SA 4.0
 	* See: [LICENSE](./LICENSE)
-* Future versions may be under some other license.
 
 
 
