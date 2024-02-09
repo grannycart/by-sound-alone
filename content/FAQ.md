@@ -8,6 +8,7 @@ goat_counter: "bysoundalone"
 * [Not really a question, more of an order: convince me to read this book without wasting my time.](#not-really-a-question-more-of-an-order-convince-me-to-read-this-book-without-wasting-my-time)
 * [What genre is it exactly?](#what-genre-is-it-exactly)
 * [Can I get a sample to see if I like it?](#can-i-get-a-sample-to-see-if-i-like-it)
+* [What's with the slow start?](whats-with-the-slow-start)
 * [If the submarines in the book were real, what year would they be from? Or, when would the technology in the book have been used in real life?](#if-the-submarines-in-the-book-were-real-what-year-would-they-be-from-or-when-would-the-technology-in-the-book-have-been-used-in-real-life)
 * [Can you tell me more about the "world" this story takes place in?](#can-you-tell-me-more-about-the-world-this-story-takes-place-in)
 * [I love this submarine world you created and I want to spend more time there! Will there be a sequel?](#i-love-this-submarine-world-you-created-and-i-want-to-spend-more-time-there-will-there-be-a-sequel)
@@ -56,6 +57,12 @@ When your book doesn't fit nicely into a genre, it's time to invent your own. Ma
 
 ### Can I get a sample to see if I like it?
 Meh. Just download the whole book. What, are you trying to save like half a meg of space?
+
+
+### What's with the slow start?
+The opening scene is a quiet set piece. This is to contrast with all the life-and-death action that is most of the rest of the book. If you're in it for submarine action, I encourage you to stick with it!
+
+Personally, I could be perfectly content to read a novel that consists of nothing but well-written descriptions of submarines moving silently through the water. But I know that's not everyone's jam, and this book is not that by any means. (Though the sequel might be...)
 
 
 ### If the submarines in the book were real, what year would they be from? Or, when would the technology in the book have been used in real life?
