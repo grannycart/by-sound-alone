@@ -32,6 +32,8 @@ _In a slightly skewed-off timeline of mid-20th-century Earth, the surface of the
 * (I don't get any money from these paper books, so the only reason to buy them is if you _prefer_ paper. I'm perfectly satisfied if you enjoy the free e-book version.)
 * you can buy a paper version of the complete book from Barnes & Noble print-on-demand: [https://www.barnesandnoble.com/w/by-sound-alone-mark-torrey/1144572566](content/paper-link.html) (ISBN: 9798855697933)
     * ($12 + shipping --- the minimum B&N would let me charge.) 
+* Available on paper from Amazon as well: [https://www.amazon.com/dp/B0CVBKFQ78](https://www.amazon.com/dp/B0CVBKFQ78)
+    * ($15 + shipping. Slightly smaller/fatter format, and I think Amazon delivers much more quickly.)
 * You desperately want to read it on paper, but can't afford $12? [Contact me](https://grannycart.net/contact) and tell me why you want to read it. I'll buy you a copy.
 
 #### Audiobook:
