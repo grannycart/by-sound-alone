@@ -23,8 +23,10 @@ _In a slightly skewed-off timeline of mid-20th-century Earth, the surface of the
 	* [mobi file](content/mobi-download.html) (one-click download)
 		* To load on your Amazon Kindle
     * Kobo: [Free e-book on Kobo](https://www.kobo.com/us/en/ebook/by-sound-alone) (ISBN: 1230007379680)
-    * Amazon: The [e-book is available for Kindle for free](https://www.amazon.com/dp/B0CTKT5YMC) directly from Amazon. (ASIN: B0CTKT5YMC)
-    * B&N: The [e-book is available for Nook for free](https://www.barnesandnoble.com/w/by-sound-alone-mark-torrey/1144572566?ean=2940185641675) on the B&N site, too.
+    * Amazon: [Free e-book for Kindle](https://www.amazon.com/dp/B0CTKT5YMC). (ASIN: B0CTKT5YMC)
+    * B&N: [Free e-book for Nook](https://www.barnesandnoble.com/w/by-sound-alone-mark-torrey/1144572566?ean=2940185641675). 
+	* Google: [Free e-book on Google Play](https://play.google.com/store/books/details/Mark_Torrey_By_Sound_Alone?id=UUvyEAAAQBAJ)
+	* Gutenberg: [Free pdf](http://gutenberg.cc/eBooks/WPLBN0100750095-By-Sound-Alone-by-Torrey-Mark.aspx)
 * [Royal Road](https://www.royalroad.com/fiction/80831/by-sound-alone): Currently being released in ~2k bites
 
 #### Paper: 
@@ -54,9 +56,9 @@ still encourage you to share the paper books though.)
 
 ### What's it like? 
 Fundamentally, it's a mashup of 1970s trucker culture and 1960s
-submarine movies. In broader terms, it's kind of a slurry of Patrick O'Brian, 
-_Road Warrior_, _Deadliest Catch_, _Das Boot_, _Smokey and the Bandit_, 
-Motörhead, and Bikini Kill.
+submarine movies. In broader terms, it's kind of a well-stirred slurry
+of Patrick O'Brian, _Road Warrior_, _Deadliest Catch_, _Das Boot_,
+_Smokey and the Bandit_, Motörhead, and Bikini Kill.
 
 It is undoubtedly speculative fiction --- but not _science_ fiction.
 The story is driven by heavily-researched realistic mid-century
