@@ -30,7 +30,7 @@ _In a slightly skewed-off timeline of mid-20th-century Earth, the surface of the
 * [Royal Road](https://www.royalroad.com/fiction/80831/by-sound-alone): Currently being released in ~2k bites
 
 #### Paper: 
-<img style="float:right; border:1px solid #FFFFFF;" alt="paper mockup mini cover" src="assets/images/paper-mockup-mini-cover.png" height=200px>
+<img style="float:right; border:1px solid #FFFFFF;" alt="paper book with Pawpaw" src="assets/images/pawpaw-cover.png" height=200px>
 * (I don't get any money from these paper books, so the only reason to buy them is if you _prefer_ paper. I'm perfectly satisfied if you enjoy the free e-book version.)
 * you can buy a paper version of the complete book from Barnes & Noble print-on-demand: [https://www.barnesandnoble.com/w/by-sound-alone-mark-torrey/1144572566](content/paper-link.html) (ISBN: 9798855697933)
     * ($12 + shipping --- the minimum B&N would let me charge.) 
