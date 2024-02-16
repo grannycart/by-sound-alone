@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: post
 title: Why write a submarine story?
+category: writing-process
 goat_counter: "bysoundalone" 
 ---
 
