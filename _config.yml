@@ -26,7 +26,7 @@ posts: _posts # location of posts for xml feed
 
 kramdown: # need to disable smart typography for rss feed to work properly
   smart_quotes:               apos,apos,quot,quot
-  typographic_symbols:        {mdash: &mdash;}
+  typographic_symbols:        {mdash: "&mdash;"}
 
 plugins:
   - jekyll-feed
