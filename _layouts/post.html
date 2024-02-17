@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<header>
+  <img style="float:left; padding-right:20px;" alt="Pigeon graphic" src="../assets/images/pigeon-logo.png" height=50px>
+  <span style="vertical-align: middle;"><h3><a href="https://bysoundalone.net/">bysoundalone.net</a></h3></span>
+  <!-- This non-breaking space controls the amount of space under the page title and needs to be adjusted based on how long the page subtitle ends up being so that the body copy doesn't start next to the picture. (Or does, if you want that.) -->
+</header>
+
+<!-- {%-include back_link.html-%} -- let's not use this because we have the above matter -->
+
+<article>
+  <p class="post-meta">
+    <time datetime="{{ page.date }}">{{ page.date | date: site.theme_config.date_format }}</time>
+  </p>
+  
+  <h1>{{ page.title }}</h1>
+
+  {{ content }}
+</article>
