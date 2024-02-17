@@ -25,8 +25,11 @@ sass:
 posts: _posts # location of posts for xml feed
 
 kramdown: # need to disable smart typography for rss feed to work properly
+  # This sets all site " and ' to typewriter style, which at least looks fine with my site/typeface:
   smart_quotes:               apos,apos,quot,quot
+  # This sets emdashes (---) to use html &mdash;. And elipse
   typographic_symbols:        {mdash: "&mdash;"}
+  typographic_symbols:        {hellip: "&hellip;"}
 
 plugins:
   - jekyll-feed
