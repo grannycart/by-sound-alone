@@ -1,7 +1,8 @@
 ---
 layout: archive
-title: The title of the page here
+title: Archive of posts
 ---
+
 
 
 
