@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Archive of posts
+title: Archive of blog posts
 ---
 
 

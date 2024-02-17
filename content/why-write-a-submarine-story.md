@@ -1,1 +1,0 @@
-../_posts/why-write-a-submarine-story.md
