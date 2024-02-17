@@ -24,8 +24,12 @@ sass:
 
 posts: _posts # location of posts for xml feed
 
+kramdown:
+  smart_quotes:               apos,apos,quot,quot
+  typographic_symbols:        {hellip: ...}
+
 plugins:
-  #  - jekyll-feed
+  - jekyll-feed
   - jekyll-seo-tag
 
 
