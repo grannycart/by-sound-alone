@@ -5,6 +5,9 @@ category: writing-process
 goat_counter: "bysoundalone" 
 ---
 
+
+
+
 There's a scene early in _The China Syndrome_ where Jack Lemon is in the control room for a nuclear reactor power plant. He stares intently at the array of dials in front of him. Not being nuclear engineers, we don't know what any of the dials are indicating exactly. But from the sweat on his brow and the tears in his eyes, we know that Jack Lemon's character is watching the nuclear reactor he is responsible for go through the early stages of a meltdown. It is a tremendous piece of acting. And it is a masterful bit of storytelling: the movie never bothers to show you the nuclear reactor itself. The drama of what is happening is entirely conveyed by a few bits of dialog and the reaction on Jack Lemon's face to what he is seeing on the dials.
 
 It occurred to me that a person reading their fate from a wall of gauges is a singularly powerful way to convey dramatic tension to an audience. It has long been a truism of the horror film genre that the scariest thing is the thing you don't see. Once the ghost, ax murderer, face-sucking alien, or sea monster has been shown to be real the fear is shortly thereafter drained out of it. One of the things that is magic about that scene in _The China Syndrome_ is that the source of the terror, fear, and doom is held at a distance and remains unseen. At the same time the reality of it is front and center. It manages to be an invisible terror and at the same time something that is _currently_ happening --- not some vague threat, but invisible, terrifying disaster in occurring in real time. What could be more terrifying than that?
