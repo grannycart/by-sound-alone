@@ -7,6 +7,12 @@
 * The source for the novel itself is here: [https://github.com/grannycart/by-sound-alone_source](https://github.com/grannycart/by-sound-alone_source)
 
 ### Notes on site formatting:
+* Jekyll structure:
+    * (underscore)config.yml: contains the top-level config for the site. (It tries to be a simple way to control everything that matters, but inevitably you want to manipulate stuff at a more granular level)
+    * (underscore)includes: bits of html that might be included in a layout
+    * (underscore)layouts: html layouts for different types of pages (that are called in the yaml of a particular page) Note they have yaml at the top where you can call another layout as a base layer.
+    * content: most of the actual pages for the site are in here. Each page begins with yaml that calls a layout.
+    * (underscore)posts: posts for the "blog", use layout type 'post'
 * Add ```goat_counter: "bysoundalone"``` to yaml at top of individual pages and they will track in goatcounter
 * To count downloads, I added an html redirect page (according to instructions here: https://theorangeone.net/posts/redirecting-static-pages/) for each book format type (content/pdf-download.html, etc)
     * Each of those download redirect pages includes a java script call to goatcounter, see: https://www.goatcounter.com/help/start
