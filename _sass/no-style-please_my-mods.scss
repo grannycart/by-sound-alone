@@ -14,23 +14,35 @@ body[a="dark"] { @include dark-appearance; }
 @media (prefers-color-scheme: dark) {
   body[a="auto"] { @include dark-appearance; }
 }
+
+a:link, a:visited {
+  color: #8fa5d1;
+  text-decoration: none;
+}
+
+a:hover, a:active {
+  color: darkred;
+}
 // -------------------------------------------- //
 
 // bg color is also needed in html in order to
 // block body's background propagation
 // see: https://stackoverflow.com/a/61265706
-html, body { background: white; }
+html, body { background: #202020; }
 
 html { height: 100%; }
 
 body {
-  color: black;
-  font-family: monospace;
+  color: #d0d0d0;
+  <!-- font-family: monospace; -->
+  font-family: "Courier 10 Pitch", Courier, "Courier New", monospace;
   font-size: 16px;
   line-height: 1.4;
   margin: 0;
   min-height: 100%;
   overflow-wrap: break-word;
+  background-image: linear-gradient(#acacff 50px, #000000 600px); /* blue to black gradient matches book cover. Blue only top 10% of page */
+  -webkit-font-smoothing: antialiased;
 }
 
 .post-meta { text-align: right; }
