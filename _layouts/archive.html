@@ -4,21 +4,8 @@ layout: default
 
 {%-include back_link.html-%}
 
-
 <br><h1>{{ page.title }}</h1>
 
-<!-- {%-include post_list.html category=page.which_category-%} -->
-
-{%-assign posts = site.posts-%}
-
-  <ul>
-    {%- for post in posts limit: include.limit -%}
-        <li>
-          <span>{{- post.date | date: site.theme_config.date_format -}}</span>
-          <a href="{{ post.url | relative_url }}">{{ post.title | downcase }}</a>
-        </li>
-    {%- endfor -%}
-  </ul>
+{%-include post_list.html category=page.which_category-%}
 
 {{ content }}
-
