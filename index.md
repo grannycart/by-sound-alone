@@ -5,7 +5,7 @@ title: By Sound Alone
 
 ### The back-of-the-book blurb:
 _In a slightly skewed-off timeline of mid-20th-century Earth, the surface of the ocean has become a contested place. International shipping is forced undersea, carried out by subs fitted for transporting cargo. Captain Sylvia Percy and her small crew run one such boat, the "Prospect". They fight a daily battle to keep their rusting submarine from dropping into the depths. It's just another grimy job until they find themselves pursued by a military sub driven by some inexplicable violent purpose. To survive, the crew of the Prospect push the machine that is their home to the very edge of its capabilities, while still trying to make their delivery on time._
-* Want a taste-test? [Read a "preview"](_posts/2024-02-01-preview)
+* Want a taste-test? [Read a "preview"](content/preview)
     * (800 words/~3 min read)
     * Not an excerpt or summary, but a series of slices to give you a feel for the book. (Does it begin with "In a world..."? Sure does!) 
 
@@ -77,7 +77,7 @@ exciting submarine action! (At least after you get past the first few pages.)
 ### Tell me even more
 * [FAQ](content/FAQ): (Much) more info.
 * [Submarine diagrams](content/diagrams-download.html): Standalone reference diagrams pdf of the protagonist submarines in the novel.
-* [About the author](_posts/2024-01-22-about-the-author) (I promise you will be disappointed.)
+* [About the author](content/about-the-author) (I promise you will be disappointed.)
 * [3 things to do if you enjoyed the book](content/what-to-do-if-you-enjoyed-the-book)
 
 ----------------------------------------

@@ -147,7 +147,7 @@ Anyway, _this_ book will remain available in both its final form and with the en
 ## Why did you want to write a submarine story?
 Right at the beginning of the process, I wrote down a whole bunch of notes about this. Then somewhere along the line those notes apparently turned themselves into a 1500-word essay.
 
-See: [Why write a submarine story?](/_posts/2024-01-21-why-write-a-submarine-story)
+See: [Why write a submarine story?](/content/why-write-a-submarine-story)
 
 
 ## Is this book free? What license is it released under?
