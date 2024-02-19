@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About the Author
-category: details
+category: promotion
 goat_counter: "bysoundalone" 
 ---
 
