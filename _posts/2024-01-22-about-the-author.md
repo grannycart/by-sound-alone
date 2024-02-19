@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About the Author
+title: About the Author (I promise you will be disappointed)
 category: promotion
 goat_counter: "bysoundalone" 
 ---
