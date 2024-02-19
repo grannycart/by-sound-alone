@@ -77,7 +77,7 @@ exciting submarine action! (At least after you get past the first few pages.)
 ### Tell me even more
 * [FAQ](content/FAQ): (Much) more info.
 * [Submarine diagrams](content/diagrams-download.html): Standalone reference diagrams pdf of the protagonist submarines in the novel.
-* [About the author](content/about-the-author) (I promise you will be disappointed.)
+* [About the author](_posts/2024-01-22-about-the-author) (I promise you will be disappointed.)
 * [3 things to do if you enjoyed the book](content/what-to-do-if-you-enjoyed-the-book)
 
 ----------------------------------------

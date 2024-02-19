@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: post
 title: About the Author
+category: details
 goat_counter: "bysoundalone" 
 ---
 
@@ -12,5 +13,4 @@ A worse thing yet is the use of the author bio as a way to project the reader's 
 
 ----------------------------------------
 
-[//]: # (Eventually, a link back to grannycart should be added here.)
 
