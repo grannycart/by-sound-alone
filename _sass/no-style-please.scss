@@ -8,12 +8,12 @@
   }
 }
 
-body[a="dark"] { @include dark-appearance; }
+// body[a="dark"] { @include dark-appearance; }
 
 
-@media (prefers-color-scheme: dark) {
-  body[a="auto"] { @include dark-appearance; }
-}
+// @media (prefers-color-scheme: dark) {
+//   body[a="auto"] { @include dark-appearance; }
+// }
 
 a:link, a:visited {
   color: #8fa5d1;
@@ -28,7 +28,7 @@ a:hover, a:active {
 // bg color is also needed in html in order to
 // block body's background propagation
 // see: https://stackoverflow.com/a/61265706
-//html, body { background: #202020; }
+html, body { background: #000000; }
 
 html { height: 100%; }
 
