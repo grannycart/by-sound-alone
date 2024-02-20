@@ -8,6 +8,7 @@ _In a slightly skewed-off timeline of mid-20th-century Earth, the surface of the
 * Want a taste-test? [Read a "preview"](content/preview)
     * (800 words/~3 min read)
     * Not an excerpt or summary, but a series of slices to give you a feel for the book. (Does it begin with "In a world..."? Sure does!) 
+* **Note: the book is heavy with profanity (they're sailors you know). If that's not for you, you should probaby skip this book.**
 
 ----------------------------------------
 
