@@ -7,6 +7,7 @@ goat_counter: "bysoundalone"
 
 * [The boat shoulda sunk more quickly in the first chapter](#the-boat-shoulda-sunk-more-quickly-in-the-first-chapter)
 * [The underwater docking bay should be pressurized, like an upside-down cup](#the-underwater-docking-bay-should-be-pressurized-like-an-upside-down-cup)
+* [Errata, February 8, 2024 version date](#errata-february-8-2024-version-date)
 
 ## The boat shoulda sunk more quickly in the first chapter
 There's a pretty strong argument to be made that in the first chapter, after being rammed, the *Prospect* would have been damaged so badly that it would have flooded quickly and sunk in a general atmosphere of emergency and alarm. A few readers have indicated to me that they believe a quick sinking would have been more realistic (and possibly that they would have preferred dramatic action like that to launch the rest of the book).
@@ -27,6 +28,11 @@ Unfortunately, submarines don't work like that. They are kept at (more or less) 
 To get back to the underwater submarine dock: being about 30 meters down, if you pressurized it to match the surrounding water, it would be at about 3 atmospheres, compared to the 1 atmosphere of a docked sub. The sub wouldn't be able to open the hatch! Another more minor point, is that the depot wants to be able to maintain operations on the surface as well. If the depot were pressurized, it would require an airlock (and decompression process) to leave the depot on the surface.
 
 So, at least until some physicist tears apart the specifics of my underwater dock scenario, the depot is correct in its mechanics.
+
+## Errata, February 8, 2024 version date
+* 1_Chapter.md, line 81: ~~coporal~~ coporeal
+* 2_Chapter.md, like 600: ~~too~~ to
+
 
 ----------------------------------------
 
