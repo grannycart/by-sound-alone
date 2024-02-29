@@ -98,6 +98,8 @@ Look, if you really want to read the book and the swearing bothers you, feel fre
 
 
 ### I found a mistake, want to know about it?
+To see known potential issues, check out [Errata, Potential Mistakes, & Retcons](errata)
+
 Please submit any grammatical or technical mistakes on [my contact page](https://grannycart.net/contact).
 I welcome your corrections. 
 
