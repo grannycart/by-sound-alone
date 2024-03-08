@@ -31,6 +31,7 @@ So, at least until some physicist tears apart the specifics of my underwater doc
 
 ## Errata, February 8, 2024 version date
 * 1_Chapter.md, line 81: ~~coporal~~ coporeal
+* 1_Chapter.md, line 341: insert 'made' in last sentence
 * 2_Chapter.md, like 600: ~~too~~ to
 
 
