@@ -11,6 +11,6 @@ When I finally manage to leverage all the notes I have into a second novel, it w
 
 Though my story will be about a diesel sub:
 
-![](https://en.wikipedia.org/wiki/USS_Perch_(SS-313)#/media/File:USS_Perch;0831302.jpg)
+![]("https://en.wikipedia.org/wiki/USS_Perch_(SS-313)#/media/File:USS_Perch;0831302.jpg")
 
 ----------------------------------------
