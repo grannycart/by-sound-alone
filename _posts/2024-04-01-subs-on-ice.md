@@ -11,6 +11,6 @@ When I finally manage to leverage all the notes I have into a second novel, it w
 
 Though my story will be about a diesel sub:
 
-<img style="border:1px solid #FFFFFF;" alt="" src="https://en.wikipedia.org/wiki/USS_Perch_%28SS-313%29#/media/File:USS_Perch;0831302.jpg" height=400px>
+<img style="border:1px solid #FFFFFF;" alt="" src="https://upload.wikimedia.org/wikipedia/commons/5/54/USS_Perch%3B0831302.jpg" height=400px>
 
 ----------------------------------------
