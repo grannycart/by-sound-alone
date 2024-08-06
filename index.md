@@ -28,7 +28,7 @@ _In a slightly skewed-off timeline of mid-20th-century Earth, the surface of the
     * B&N: [Free e-book for Nook](https://www.barnesandnoble.com/w/by-sound-alone-mark-torrey/1144572566?ean=2940185641675)
 	* Google: [Free e-book on Google Play](https://play.google.com/store/books/details/Mark_Torrey_By_Sound_Alone?id=UUvyEAAAQBAJ)
 	* Gutenberg: [Free pdf](http://gutenberg.cc/eBooks/WPLBN0100750095-By-Sound-Alone-by-Torrey-Mark.aspx)
-* [Royal Road](https://www.royalroad.com/fiction/80831/by-sound-alone): Currently being released in ~2k bites
+* [Royal Road](https://www.royalroad.com/fiction/80831/by-sound-alone) (in 2k-word bites)
 
 #### Paper: 
 <img style="float:right; border:1px solid #FFFFFF;" alt="paper book with Pawpaw" src="assets/images/pawpaw-cover.png" height=200px>
