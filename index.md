@@ -1,6 +1,7 @@
 ---
 layout: home
 title: By Sound Alone
+canonical_url: 'https://bysoundalone.net/'
 ---
 
 ### The back-of-the-book blurb:
