@@ -9,18 +9,6 @@ permalink: /:slug.html
 
 favicon: "favicon.ico" # name+extension of favicon (which must be put on the root folder)
 goat_counter: "bysoundalone" # put your GoatCounter name if you want to use GoatCounter analytics
-# These markdown options fix the autolinking of vimwiki links in github pages
-markdown: CommonMarkGhPages
-# see https://github.com/gjtorikian/commonmarker#parse-options
-commonmark:
-  options:
-    - FOOTNOTES
-    - SMART
-  extensions:
-    - autolink
-    - strikethrough
-    - table
-
 
 # theme: no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please
 remote_theme: riggraz/no-style-please
