@@ -15,7 +15,7 @@
     * (underscore)posts: posts for the "blog", use layout type 'post'
 * Apparently you can't link into _posts. So there's symlinks in content that point into them for things you need to link to from outside archive.
     * This is also the reason archive.md is top-level
-* Add ```goat_counter: "bysoundalone"``` to yaml at top of individual pages and they will track in goatcounter
+* Add `goat_counter: "bysoundalone"` to yaml at top of individual pages and they will track in goatcounter
 * To count downloads, I added an html redirect page (according to instructions here: https://theorangeone.net/posts/redirecting-static-pages/) for each book format type (content/pdf-download.html, etc)
     * Each of those download redirect pages includes a java script call to goatcounter, see: https://www.goatcounter.com/help/start
 * CNAME file is required for custom domain by github
