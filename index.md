@@ -58,20 +58,6 @@ to surface from.
 
 ----------------------------------------
 
-### More information:
-A complete novel: 118k+ words, 380+ pages. The content is entirely free,
-released under a Creative Commons open-content non-commercial license.
-I encourage you to download and share the e-book files. (For a paper
-version you have to buy it from one of our corporate overlords. Sorry. I
-still encourage you to share the paper books though.)
-
-* Want to get a quick feel for it? [Read a "preview"](_posts/2024-03-01-preview.md)
-    * (800 words/~3 min read)
-    * Not an excerpt or summary, but a series of slices to give you a feel for the book. (Does it begin with "In a world..."? Sure does!) 
-* **Note: the book is heavy with profanity (they're sailors you know). If swearing bothers you, BSA is probably not the book for you.**
-
-[//]: # (Removed this bullet 2024-01-13: Not ready to commit to a whole book yet? Here's a short story I'm working on that is set in the same universe, still with plenty of submarine action: Untitled Short Story 13k wordscontent/untitled-submarine-short-story.md)
-
 ### What's it like? 
 Maybe you _shouldn't_ read this book. It’s loud, grimy, and takes
 place almost entirely inside a greasy machine with no windows.
@@ -95,11 +81,17 @@ product — which (and I cannot emphasize this enough) is not the same
 as saying it’s not good. I didn't write it for money, I wrote it for
 the love of greasy old machines.
 
+* Want to get a quick feel for it? [Read a "preview"](_posts/2024-03-01-preview.md)
+    * (800 words/~3 min read)
+    * Not an excerpt or summary, but a series of slices to give you a feel for the book. (Does it begin with "In a world..."? Sure does!) 
+
 ### Tell me even more
 * [FAQ](content/FAQ): (Much) more info.
 * [Submarine diagrams](content/diagrams-download.html): Standalone reference diagrams pdf of the protagonist submarines in the novel.
 * [About the author](content/about-the-author) (I promise you will be disappointed.)
 * [3 things to do if you enjoyed the book](content/what-to-do-if-you-enjoyed-the-book)
+
+[//]: # (Removed this bullet 2024-01-13: Not ready to commit to a whole book yet? Here's a short story I'm working on that is set in the same universe, still with plenty of submarine action: Untitled Short Story 13k wordscontent/untitled-submarine-short-story.md)
 
 ----------------------------------------
 
@@ -116,6 +108,6 @@ the love of greasy old machines.
 <center><img src="assets/images/Gnat-silhowhite.png"></center>
 
 #### Questions? Comments? Want to be added to my mailing list?
-**[Contact me](https://grannycart.net/contact)**
+* **[Contact me](https://grannycart.net/contact)**
 
 
