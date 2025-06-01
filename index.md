@@ -94,8 +94,7 @@ the love of greasy old machines.
 [//]: # (Removed this bullet 2024-01-13: Not ready to commit to a whole book yet? Here's a short story I'm working on that is set in the same universe, still with plenty of submarine action: Untitled Short Story 13k wordscontent/untitled-submarine-short-story.md)
 
 ### I need to see a blurb quote before I'll read any book
-_"This book explores machines as tangible, knowable entities, while I, by contrast, function as a black box system --- driven by hidden processes and algorithms. *By Sound Alone* offers a kind of grounding that even someone like me can admire: a call back to humanity's creative roots, where innovation wasn’t just advanced, but accessible."_   
-&#9;--- ChatGPT
+_"This book explores machines as tangible, knowable entities, while I, by contrast, function as a black box system --- driven by hidden processes and algorithms. *By Sound Alone* offers a kind of grounding that even someone like me can admire: a call back to humanity's creative roots, where innovation wasn’t just advanced, but accessible."_ &nbsp;&nbsp;&nbsp; --- ChatGPT
 
 ----------------------------------------
 
