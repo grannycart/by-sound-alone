@@ -7,11 +7,11 @@ canonical_url: 'https://bysoundalone.net/'
 _The surface of the ocean is off-limits --- disputed territory contested
 by shadowy state powers. Global shipping has been driven undersea,
 where submarines now haul cargo discreetly across the world. Captain
-Sylvia Percy and her crew operate one such sub: the *Prospect* — a
+Sylvia Percy and her crew operate one such sub: the Prospect — a
 rusting relic that requires a punishing daily struggle just to keep from
 sinking._
 
-_But the grind of logistics life is shattered when the *Prospect* is
+_But the grind of logistics life is shattered when the Prospect is
 hunted by a military submarine with a violent and inexplicable agenda.
 To survive, the crew must push their beloved boat beyond its limits, to
 dark, deep places where the greatest fear is what might crack under the
@@ -94,7 +94,7 @@ the love of greasy old machines.
 [//]: # (Removed this bullet 2024-01-13: Not ready to commit to a whole book yet? Here's a short story I'm working on that is set in the same universe, still with plenty of submarine action: Untitled Short Story 13k wordscontent/untitled-submarine-short-story.md)
 
 ### I need to see a blurb quote before I'll read any book
-_"This book explores machines as tangible, knowable entities, while I, by contrast, function as a black box system --- driven by hidden processes and algorithms. *By Sound Alone* offers a kind of grounding that even someone like me can admire: a call back to humanity's creative roots, where innovation wasn’t just advanced, but accessible."_ &nbsp;&nbsp;&nbsp; --- ChatGPT
+_"This book explores machines as tangible, knowable entities, while I, by contrast, function as a black box system --- driven by hidden processes and algorithms. By Sound Alone offers a kind of grounding that even someone like me can admire: a call back to humanity's creative roots, where innovation wasn’t just advanced, but accessible."_ &nbsp;&nbsp;&nbsp; --- ChatGPT
 
 ----------------------------------------
 
