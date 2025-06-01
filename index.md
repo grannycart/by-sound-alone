@@ -4,12 +4,27 @@ title: By Sound Alone
 canonical_url: 'https://bysoundalone.net/'
 ---
 
-### The back-of-the-book blurb:
-_In a slightly skewed-off timeline of mid-20th-century Earth, the surface of the ocean has become a contested place. International shipping is forced undersea, carried out by subs fitted for transporting cargo. Captain Sylvia Percy and her small crew run one such boat, the "Prospect". They fight a daily battle to keep their rusting submarine from dropping into the depths. It's just another grimy job until they find themselves pursued by a military sub driven by some inexplicable violent purpose. To survive, the crew of the Prospect push the machine that is their home to the very edge of its capabilities, while still trying to make their delivery on time._
-* **Note: the book is heavy with profanity (they're sailors you know). If swearing bothers you, BSA is probably not the book for you.**
-* Want to get a quick feel for it? [Read a "preview"](_posts/2024-03-01-preview.md)
-    * (800 words/~3 min read)
-    * Not an excerpt or summary, but a series of slices to give you a feel for the book. (Does it begin with "In a world..."? Sure does!) 
+_The surface of the ocean is off-limits --- disputed territory contested
+by shadowy state powers. Global shipping has been driven undersea,
+where submarines now haul cargo discreetly across the world. Captain
+Sylvia Percy and her crew operate one such sub: the *Prospect* — a
+rusting relic that requires a punishing daily struggle just to keep from
+sinking._
+
+_But the grind of logistics life is shattered when the *Prospect* is
+hunted by a military submarine with a violent and inexplicable agenda.
+To survive, the crew must push their beloved boat beyond its limits, to
+dark, deep places where the greatest fear is what might crack under the
+pressure._
+
+By Sound Alone is equal parts 1970s trucker culture and 1960s submarine
+movie. It combines the confined spaces, slow-burn fear, and dangerous
+maneuvers that define the best submarine stories with the rugged
+self-reliance of independent operators who keep their machines running,
+no matter what. Drawing from classic science fiction without ever
+deviating from a commitment to realistic mid-century mechanics, it
+propels a page-turning plot through a cinematic world you won’t want
+to surface from.
 
 ----------------------------------------
 
@@ -18,12 +33,13 @@ _In a slightly skewed-off timeline of mid-20th-century Earth, the surface of the
 #### E-book versions (complete book, open-source, free and non-commercial):
 <img style="float:right; border:1px solid #FFFFFF;" alt="mini cover" src="assets/images/mini-cover.png" height=200px>
 * html: Read it as [one really long webpage](content/html-download.html)
+    * (updated edition: 2025-06-01)
 * pdf: Download a [nicely-formatted pdf version](content/pdf-download.html)
+    * (updated edition: 2025-06-01)
 * E-book versions:
 	* [epub file](content/epub-download.html) (one-click download)
-		* Should work with all e-readers and e-reader software that are not Amazon Kindle
-	* [mobi file](content/mobi-download.html) (one-click download)
-		* To load on your Amazon Kindle
+		* Should work with all e-readers and e-reader software
+        * (updated edition: 2025-06-01)
     * Kobo: [Free e-book on Kobo](https://www.kobo.com/us/en/ebook/by-sound-alone) (ISBN: 1230007379680)
     * Amazon: [Free e-book for Kindle](https://www.amazon.com/dp/B0CTKT5YMC) (ASIN: B0CTKT5YMC)
     * B&N: [Free e-book for Nook](https://www.barnesandnoble.com/w/by-sound-alone-mark-torrey/1144572566?ean=2940185641675)
@@ -33,48 +49,51 @@ _In a slightly skewed-off timeline of mid-20th-century Earth, the surface of the
 
 #### Paper: 
 <img style="float:right; border:1px solid #FFFFFF;" alt="paper book with Pawpaw" src="assets/images/pawpaw-cover.png" height=200px>
-* (I don't get any money from these paper books, so the only reason to buy them is if you _prefer_ paper. I'm perfectly satisfied if you enjoy the free e-book version.)
+* (I don't get any money from these paper books, so the only reason to buy them is if you _prefer_ paper.)
 * you can buy a paper version of the complete book from Barnes & Noble print-on-demand: [https://www.barnesandnoble.com/w/by-sound-alone-mark-torrey/1144572566](content/paper-link.html) (ISBN: 9798855697933)
     * ($12 + shipping --- the minimum B&N would let me charge.) 
-* Available on paper from Amazon as well: [https://www.amazon.com/dp/B0CVBKFQ78](https://www.amazon.com/dp/B0CVBKFQ78)
-    * ($15 + shipping. Slightly smaller/fatter format, and I think Amazon delivers much more quickly.)
-* You desperately want to read it on paper, but can't afford $12? [Contact me](https://grannycart.net/contact) and tell me why you want to read it. I'll buy you a copy.
 
 #### Audiobook:
 * Audio version in the works... maybe.
 
 ----------------------------------------
 
-[//]: # (Removed this bullet 2024-01-13: Not ready to commit to a whole book yet? Here's a short story I'm working on that is set in the same universe, still with plenty of submarine action: Untitled Short Story 13k wordscontent/untitled-submarine-short-story.md)
-
-
 ### More information:
 A complete novel: 118k+ words, 380+ pages. The content is entirely free,
 released under a Creative Commons open-content non-commercial license.
 I encourage you to download and share the e-book files. (For a paper
-version you have to buy it from one of our coporate overlords. Sorry. I
+version you have to buy it from one of our corporate overlords. Sorry. I
 still encourage you to share the paper books though.)
 
+* Want to get a quick feel for it? [Read a "preview"](_posts/2024-03-01-preview.md)
+    * (800 words/~3 min read)
+    * Not an excerpt or summary, but a series of slices to give you a feel for the book. (Does it begin with "In a world..."? Sure does!) 
+* **Note: the book is heavy with profanity (they're sailors you know). If swearing bothers you, BSA is probably not the book for you.**
+
+[//]: # (Removed this bullet 2024-01-13: Not ready to commit to a whole book yet? Here's a short story I'm working on that is set in the same universe, still with plenty of submarine action: Untitled Short Story 13k wordscontent/untitled-submarine-short-story.md)
 
 ### What's it like? 
-Fundamentally, it's a mashup of 1970s trucker culture and 1960s
-submarine movies. In broader terms, it's kind of a well-stirred slurry
-of Patrick O'Brian, _Road Warrior_, _Deadliest Catch_, _Das Boot_,
-_Smokey and the Bandit_, Motörhead, and Bikini Kill.
+Maybe you _shouldn't_ read this book. It’s loud, grimy, and takes
+place almost entirely inside a greasy machine with no windows.
+Fundamentally, it's a well-stirred slurry of Patrick O'Brian, Road
+Warrior, Deadliest Catch, Das Boot, Smokey and the Bandit, Motörhead,
+and Bikini Kill. If for some reason that actually sounds good to you, I
+can offer you a few more details:
 
-It is undoubtedly speculative fiction --- but not _science_ fiction.
-The story is driven by heavily-researched realistic mid-century
-submarine mechanics, and framed by the confined spaces and dangerous
-operations that have always been at the heart of good submarine tales.
-The speculative fiction part takes our protagonist submarines from an
-underwater docking bay for the transshipping of cargo, to a city built
-on pylons out over the ocean, to a garbage gyre of ghost ships.
+* It is a submarine novel, but not a war story. The subs are unarmed cargo submarines, and the action is mostly derived from making those boats run, and fixing them when they don't.
+* But it is still full of action — it's a page-turner!
+* It is also character driven: people you’ll love, and some you might not by the end.
+* It’s cinematic — full of visual descriptions that put you right there in the control room. The kind of novel that lets you spend time in a different world.
+* No magic tech. Just heavily-researched, plausible mid-20th-century mechanics.
+* And there's strong female characters in leadership positions. (This is one sub novel that passes the Bechdel test.)
+* There's also a lovable homing pigeon (for the bird lovers). Possibly the only book with both a submarine and a homing pigeon.
+* It’s foul-mouthed, foul-smelling, and full of grime. (If you like your fictional worlds clean, shiny, and futuristic, this is not the book for you.) 
+* It's well-written and professionally edited — if that matters to you at all.
 
-What more specific genre that it might belong to beyond "speculative
-fiction" is a little fuzzy, maybe "grimepunk" if that's a thing?
-
-But rest assured, whatever genre it is, it is also a page-turner full of
-exciting submarine action! (At least after you get past the first few pages.)
+_By Sound Alone_ is DIY, open-source, and free. It’s not a commercial
+product — which (and I cannot emphasize this enough) is not the same
+as saying it’s not good. I didn't write it for money, I wrote it for
+the love of greasy old machines.
 
 ### Tell me even more
 * [FAQ](content/FAQ): (Much) more info.
@@ -96,6 +115,7 @@ exciting submarine action! (At least after you get past the first few pages.)
   
 <center><img src="assets/images/Gnat-silhowhite.png"></center>
 
-#### Questions? Comments? Want to be added to my mailing list? **[Contact me](https://grannycart.net/contact)**
+#### Questions? Comments? Want to be added to my mailing list?
+**[Contact me](https://grannycart.net/contact)**
 
 
